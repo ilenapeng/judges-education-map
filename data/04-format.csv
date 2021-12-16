@@ -1,0 +1,592 @@
+school,count,circuit
+Harvard University,24,District of Columbia
+Yale University,16,District of Columbia
+Stanford University,14,District of Columbia
+Duke University,11,District of Columbia
+University of Virginia,9,District of Columbia
+Georgetown University,7,District of Columbia
+University of Chicago,6,District of Columbia
+Columbia University,5,District of Columbia
+Cornell University,5,District of Columbia
+Randolph-Macon College,4,District of Columbia
+University of Michigan,3,District of Columbia
+University of North Carolina,3,District of Columbia
+Washington University in St. Louis,3,District of Columbia
+Dartmouth College,2,District of Columbia
+Hamilton College,2,District of Columbia
+Loyola University New Orleans,2,District of Columbia
+Princeton University,2,District of Columbia
+University of Oxford,2,District of Columbia
+Washington and Lee University,2,District of Columbia
+Brigham Young University,1,District of Columbia
+Brown University,1,District of Columbia
+"California State University, Sacramento",1,District of Columbia
+Central University (now Eastern Kentucky University),1,District of Columbia
+Centre College,1,District of Columbia
+College of the Holy Cross,1,District of Columbia
+Connecticut College,1,District of Columbia
+Creighton University,1,District of Columbia
+Dickinson College,1,District of Columbia
+Drexel University,1,District of Columbia
+"Heidelberg University, Germany",1,District of Columbia
+Howard University,1,District of Columbia
+Mitchell Hamline School of Law,1,District of Columbia
+Northwestern University,1,District of Columbia
+Radcliffe College,1,District of Columbia
+Rose-Hulman Institute of Technology,1,District of Columbia
+Suffolk University,1,District of Columbia
+"University of California, Berkeley",1,District of Columbia
+"University of California, Los Angeles",1,District of Columbia
+University of Colorado,1,District of Columbia
+University of Illinois,1,District of Columbia
+University of Maryland,1,District of Columbia
+University of Minnesota,1,District of Columbia
+University of Missouri,1,District of Columbia
+University of Montana,1,District of Columbia
+University of Wisconsin,1,District of Columbia
+"Westminster College, New Wilmington, Pennsylvania",1,District of Columbia
+Wittenberg College,1,District of Columbia
+Harvard University,22,Eighth
+University of Iowa,16,Eighth
+University of Nebraska,12,Eighth
+University of Minnesota,9,Eighth
+University of Arkansas,8,Eighth
+Washington University in St. Louis,8,Eighth
+University of Missouri,7,Eighth
+Yale University,7,Eighth
+Georgetown University,5,Eighth
+University of Memphis,5,Eighth
+University of Kansas,4,Eighth
+University of Michigan,4,Eighth
+University of North Dakota,3,Eighth
+Dartmouth College,2,Eighth
+Drake University,2,Eighth
+Mitchell Hamline School of Law,2,Eighth
+University of Virginia,2,Eighth
+Amherst College,1,Eighth
+Benton College of Law,1,Eighth
+Bridgewater College,1,Eighth
+Columbia University,1,Eighth
+Dordt University,1,Eighth
+Duke University,1,Eighth
+Grinnell College,1,Eighth
+Hamilton College,1,Eighth
+"Heidelberg University, Germany",1,Eighth
+Jamestown College,1,Eighth
+"Lincoln University, Missouri",1,Eighth
+Loras College,1,Eighth
+New York University,1,Eighth
+Northwest Missouri State University,1,Eighth
+Northwestern University,1,Eighth
+Ouachita Baptist University,1,Eighth
+Princeton University,1,Eighth
+St. John's University,1,Eighth
+St. Louis University,1,Eighth
+Tabor College,1,Eighth
+University of Cincinnati,1,Eighth
+University of Missouri - Kansas City,1,Eighth
+University of South Dakota,1,Eighth
+University of Wisconsin,1,Eighth
+Washington and Lee University,1,Eighth
+"Westminster College, Fulton, Missouri",1,Eighth
+University of Florida,21,Eleventh
+University of Alabama,10,Eleventh
+Emory University,7,Eleventh
+Harvard University,7,Eleventh
+University of Georgia,7,Eleventh
+University of Virginia,6,Eleventh
+Cornell University,5,Eleventh
+Samford University,3,Eleventh
+University of Miami,3,Eleventh
+University of Pennsylvania,3,Eleventh
+Stetson University,2,Eleventh
+University of Notre Dame,2,Eleventh
+Yale University,2,Eleventh
+Auburn University,1,Eleventh
+College of William and Mary,1,Eleventh
+Columbia University,1,Eleventh
+Davidson College,1,Eleventh
+Duke University,1,Eleventh
+Florida A&M University,1,Eleventh
+Florida International University,1,Eleventh
+Florida State University,1,Eleventh
+Goucher College,1,Eleventh
+Howard University,1,Eleventh
+Mercer University,1,Eleventh
+"Queens College, City University of New York",1,Eleventh
+Randolph College,1,Eleventh
+Rollins College,1,Eleventh
+Spring Hill College,1,Eleventh
+"St. Joseph's College, Jensen Beach, Florida",1,Eleventh
+St. Petersburg College,1,Eleventh
+Stanford University,1,Eleventh
+Tulane University,1,Eleventh
+University of Denver,1,Eleventh
+University of Louisiana at Monroe,1,Eleventh
+University of Maryland,1,Eleventh
+University of South Carolina,1,Eleventh
+Wake Forest University,1,Eleventh
+Washington University in St. Louis,1,Eleventh
+Washington and Lee University,1,Eleventh
+Columbia University,10,Federal
+Harvard University,10,Federal
+Yale University,9,Federal
+Georgetown University,8,Federal
+University of Michigan,7,Federal
+University of Texas,6,Federal
+Washington University in St. Louis,6,Federal
+University of Pennsylvania,5,Federal
+Duke University,4,Federal
+University of Virginia,4,Federal
+Massachusetts Institute of Technology,3,Federal
+University of Cambridge,3,Federal
+Catholic University of America,2,Federal
+Indiana University,2,Federal
+New York University,2,Federal
+Rensselaer Polytechnic Institute,2,Federal
+University of South Carolina,2,Federal
+American University,1,Federal
+Baylor University,1,Federal
+Brigham Young University,1,Federal
+Case Western Reserve University,1,Federal
+College of William and Mary,1,Federal
+Cornell University,1,Federal
+Creighton University,1,Federal
+Judge Advocate General's Legal Center and School,1,Federal
+Kenyon College,1,Federal
+Loyola University Chicago,1,Federal
+Michigan State University,1,Federal
+Missouri State University,1,Federal
+Pomona College,1,Federal
+Princeton University,1,Federal
+South Texas College of Law,1,Federal
+Temple University,1,Federal
+Tulane University,1,Federal
+University of Arizona,1,Federal
+"University of California, Berkeley",1,Federal
+"University of California, Los Angeles",1,Federal
+University of Chicago,1,Federal
+University of Florida,1,Federal
+University of Illinois Chicago,1,Federal
+University of Iowa,1,Federal
+University of New Mexico,1,Federal
+University of North Carolina,1,Federal
+University of North Texas,1,Federal
+University of Rochester,1,Federal
+University of Wisconsin,1,Federal
+Vassar College,1,Federal
+Williams College,1,Federal
+University of Texas,29,Fifth
+Harvard University,16,Fifth
+University of Mississippi,15,Fifth
+Louisiana State University,11,Fifth
+Tulane University,9,Fifth
+University of Alabama,8,Fifth
+University of Virginia,8,Fifth
+Millsaps College,7,Fifth
+Yale University,7,Fifth
+Duke University,6,Fifth
+University of Georgia,6,Fifth
+Washington and Lee University,6,Fifth
+Baylor University,5,Fifth
+Mercer University,5,Fifth
+Washington University in St. Louis,5,Fifth
+Columbia University,4,Fifth
+Emory University,4,Fifth
+Cornell University,3,Fifth
+Samford University,3,Fifth
+University of Cambridge,3,Fifth
+Loyola University New Orleans,2,Fifth
+Princeton University,2,Fifth
+Rice University,2,Fifth
+Stetson University,2,Fifth
+Syracuse University,2,Fifth
+University of Denver,2,Fifth
+University of Florida,2,Fifth
+University of Houston,2,Fifth
+University of Maryland,2,Fifth
+University of Notre Dame,2,Fifth
+Auburn University,1,Fifth
+Birmingham-Southern College,1,Fifth
+Centre College,1,Fifth
+Dartmouth College,1,Fifth
+Dillard University,1,Fifth
+Florida A&M University,1,Fifth
+Florida Institute of Technology,1,Fifth
+Goucher College,1,Fifth
+Howard University,1,Fifth
+Jones County Junior College,1,Fifth
+Louisiana Tech University,1,Fifth
+Mississippi College,1,Fifth
+Rollins College,1,Fifth
+San Antonio College,1,Fifth
+Smith College,1,Fifth
+St. Petersburg College,1,Fifth
+Stanford University,1,Fifth
+Texas Southmost College,1,Fifth
+University of Chicago,1,Fifth
+University of Michigan,1,Fifth
+University of Nebraska,1,Fifth
+University of Pennsylvania,1,Fifth
+University of South Carolina,1,Fifth
+University of the South,1,Fifth
+Vanderbilt University,1,Fifth
+Harvard University,34,First
+University of Virginia,9,First
+Columbia University,8,First
+University of Oxford,6,First
+Boston University,5,First
+St. John's College,4,First
+Brown University,3,First
+Yale University,3,First
+Bates College,2,First
+Bowdoin College,2,First
+College of the Holy Cross,2,First
+University of Pennsylvania,2,First
+Amherst College,1,First
+Brandeis University,1,First
+Dartmouth College,1,First
+Georgetown University,1,First
+Haverford College,1,First
+Plymouth State University,1,First
+Stanford University,1,First
+Suffolk University,1,First
+Tufts University,1,First
+University of Puerto Rico School of Public Administration,1,First
+Wellesley College,1,First
+Williams College,1,First
+University of Virginia,15,Fourth
+University of South Carolina,11,Fourth
+Boston University,8,Fourth
+Harvard University,7,Fourth
+New York University,6,Fourth
+University of North Carolina,6,Fourth
+West Virginia University,6,Fourth
+University of Maryland,5,Fourth
+Davidson College,4,Fourth
+Duke University,4,Fourth
+Wofford College,4,Fourth
+Yale University,4,Fourth
+Johns Hopkins University,3,Fourth
+Wake Forest University,3,Fourth
+Washington and Lee University,3,Fourth
+Columbia University,2,Fourth
+Georgetown University,2,Fourth
+University of Michigan,2,Fourth
+University of Pennsylvania,2,Fourth
+Washington University in St. Louis,2,Fourth
+Bridgewater College,1,Fourth
+Cornell University,1,Fourth
+Furman University,1,Fourth
+Hampden-Sydney College,1,Fourth
+Hampton University,1,Fourth
+Kenyon College,1,Fourth
+Macalester College,1,Fourth
+Marquette University,1,Fourth
+Marshall University,1,Fourth
+Rhodes College,1,Fourth
+St. Bonaventure University,1,Fourth
+University of Chicago,1,Fourth
+University of Notre Dame,1,Fourth
+University of Scranton,1,Fourth
+Vanderbilt University,1,Fourth
+Vassar College,1,Fourth
+Virginia State University,1,Fourth
+Wesleyan University,1,Fourth
+Harvard University,29,Ninth
+"University of California, Los Angeles",26,Ninth
+Stanford University,22,Ninth
+University of Southern California,22,Ninth
+University of Virginia,16,Ninth
+Yale University,15,Ninth
+"University of California, Berkeley",14,Ninth
+University of Washington,13,Ninth
+Brigham Young University,8,Ninth
+Arizona State University,6,Ninth
+University of Chicago,5,Ninth
+University of Idaho,5,Ninth
+Cornell University,4,Ninth
+University of Iowa,4,Ninth
+University of Michigan,4,Ninth
+University of Oxford,4,Ninth
+Catholic University of America,3,Ninth
+Montana State University,3,Ninth
+Princeton University,3,Ninth
+"University of Nevada, Reno",3,Ninth
+University of Oregon,3,Ninth
+University of Texas,3,Ninth
+Brown University,2,Ninth
+Columbia University,2,Ninth
+New York University,2,Ninth
+Pomona College,2,Ninth
+Santa Clara University,2,Ninth
+University of Arizona,2,Ninth
+University of Kansas,2,Ninth
+University of Montana,2,Ninth
+University of Notre Dame,2,Ninth
+University of the Pacific,2,Ninth
+Wesleyan University,2,Ninth
+Willamette University,2,Ninth
+Bear Valley Bible Institute,1,Ninth
+Brigham Young University - Idaho,1,Ninth
+Carleton College,1,Ninth
+Case Western Reserve University,1,Ninth
+Clark Atlanta University,1,Ninth
+Georgetown University,1,Ninth
+Golden Gate University,1,Ninth
+Lafayette College,1,Ninth
+Morehouse College,1,Ninth
+North Carolina A&T State University,1,Ninth
+Northwestern University,1,Ninth
+Occidental College,1,Ninth
+Radcliffe College,1,Ninth
+San Diego State University,1,Ninth
+Southwestern University,1,Ninth
+St. Augustine's College,1,Ninth
+St. John's University,1,Ninth
+Swarthmore College,1,Ninth
+Tacoma Law School,1,Ninth
+Union College,1,Ninth
+"University of California, Hastings College of the Law",1,Ninth
+"University of California, Santa Barbara",1,Ninth
+University of Hawaii,1,Ninth
+University of Minnesota,1,Ninth
+University of Nebraska,1,Ninth
+University of New Mexico,1,Ninth
+University of Pennsylvania,1,Ninth
+University of Portland,1,Ninth
+University of Wyoming,1,Ninth
+Vassar College,1,Ninth
+Virginia Military Institute,1,Ninth
+Washburn University,1,Ninth
+Washington and Lee University,1,Ninth
+Wellesley College,1,Ninth
+Whitman College,1,Ninth
+Williams College,1,Ninth
+Columbia University,40,Second
+Harvard University,35,Second
+Yale University,35,Second
+Cornell University,11,Second
+Fordham University,8,Second
+University of Michigan,8,Second
+Princeton University,7,Second
+Dartmouth College,6,Second
+New York University,6,Second
+European University Institute,4,Second
+University of Virginia,4,Second
+Georgetown University,3,Second
+State University of New York at Albany,3,Second
+University of Cambridge,3,Second
+University of Chicago,3,Second
+University of Connecticut,3,Second
+University of Pennsylvania,3,Second
+Boston University,2,Second
+New York Law School,2,Second
+Seminary of the Immaculate Conception,2,Second
+Syracuse University,2,Second
+University of North Carolina,2,Second
+University of Oxford,2,Second
+University of Rochester,2,Second
+Wellesley College,2,Second
+Amherst College,1,Second
+Brooklyn College,1,Second
+Brooklyn Law School,1,Second
+City College of New York,1,Second
+College of William and Mary,1,Second
+College of the Holy Cross,1,Second
+Hamilton College,1,Second
+Howard University,1,Second
+"Lincoln University, Pennsylvania",1,Second
+Ohio State University,1,Second
+"Queens College, City University of New York",1,Second
+St. Bonaventure University,1,Second
+St. Francis College,1,Second
+St. Joseph's University,1,Second
+St. Peter's College,1,Second
+Stanford University,1,Second
+Trinity College,1,Second
+Union College,1,Second
+University of Massachusetts,1,Second
+Wesleyan University,1,Second
+Indiana University,21,Seventh
+Northwestern University,19,Seventh
+University of Notre Dame,15,Seventh
+University of Chicago,8,Seventh
+DePaul University,7,Seventh
+University of Wisconsin,7,Seventh
+Yale University,7,Seventh
+Washington University in St. Louis,6,Seventh
+Harvard University,5,Seventh
+Marquette University,5,Seventh
+University of Illinois,5,Seventh
+Cornell University,3,Seventh
+University of Iowa,2,Seventh
+University of Michigan,2,Seventh
+University of Texas,2,Seventh
+Wabash College,2,Seventh
+Boston University,1,Seventh
+Brown University,1,Seventh
+Bryn Mawr College,1,Seventh
+Central YMCA College,1,Seventh
+Chicago-Kent College of Law,1,Seventh
+Elmhurst University,1,Seventh
+Fordham University,1,Seventh
+Haverford College,1,Seventh
+Illinois Wesleyan University,1,Seventh
+Lake Forest College,1,Seventh
+Princeton University,1,Seventh
+Rhodes College,1,Seventh
+"St. Joseph’s College, Rensselaer, Indiana",1,Seventh
+Swarthmore College,1,Seventh
+Union College,1,Seventh
+University of Virginia,1,Seventh
+Wayne State University,1,Seventh
+Wittenberg College,1,Seventh
+University of Virginia,32,Sixth
+Harvard University,31,Sixth
+University of Michigan,28,Sixth
+Yale University,14,Sixth
+Vanderbilt University,9,Sixth
+University of Cincinnati,6,Sixth
+Case Western Reserve University,5,Sixth
+Samford University,5,Sixth
+Michigan State University,3,Sixth
+University of Akron,3,Sixth
+Wayne State University,3,Sixth
+Miami University,2,Sixth
+New York University,2,Sixth
+University of Chicago,2,Sixth
+University of Detroit Mercy,2,Sixth
+University of Louisville,2,Sixth
+University of Memphis,2,Sixth
+University of Tennessee,2,Sixth
+Western Michigan University,2,Sixth
+Youngstown State University,2,Sixth
+Barnard College,1,Sixth
+Boston College,1,Sixth
+Centre College,1,Sixth
+Davidson College,1,Sixth
+"Douglas University, Chicago, Illinois",1,Sixth
+East Tennessee State University,1,Sixth
+Fisk University,1,Sixth
+Georgetown University,1,Sixth
+Hamilton College,1,Sixth
+Howard University,1,Sixth
+Massachusetts Institute of Technology,1,Sixth
+Middlebury College,1,Sixth
+Northwestern University,1,Sixth
+Ohio Northern University,1,Sixth
+Ohio State University,1,Sixth
+Ohio Wesleyan University,1,Sixth
+Otterbein University,1,Sixth
+Princeton University,1,Sixth
+Radcliffe College,1,Sixth
+Southern Methodist University,1,Sixth
+Stanford University,1,Sixth
+Swarthmore College,1,Sixth
+Tufts University,1,Sixth
+Union University,1,Sixth
+University of Alabama,1,Sixth
+"University of California, Berkeley",1,Sixth
+University of Kentucky,1,Sixth
+University of Maryland,1,Sixth
+University of North Carolina,1,Sixth
+University of Northern Iowa,1,Sixth
+University of Notre Dame,1,Sixth
+University of Pennsylvania,1,Sixth
+University of Wisconsin,1,Sixth
+Washington and Lee University,1,Sixth
+West Virginia State University,1,Sixth
+Williams College,1,Sixth
+Harvard University,15,Tenth
+University of Wyoming,9,Tenth
+University of Virginia,7,Tenth
+University of Chicago,6,Tenth
+University of Colorado,6,Tenth
+University of Denver,6,Tenth
+Southern University and A & M College,5,Tenth
+University of Kansas,5,Tenth
+University of Oklahoma,5,Tenth
+University of Utah,5,Tenth
+University of Michigan,4,Tenth
+Montana State University,3,Tenth
+Washburn University,3,Tenth
+Washington University in St. Louis,3,Tenth
+Yale University,3,Tenth
+Columbia University,2,Tenth
+Stanford University,2,Tenth
+University of Oxford,2,Tenth
+Adams State University,1,Tenth
+Brigham Young University,1,Tenth
+Creighton University,1,Tenth
+Fordham University,1,Tenth
+Georgetown University,1,Tenth
+Michigan State University,1,Tenth
+New Mexico Military Institute,1,Tenth
+Northwestern University,1,Tenth
+Smith College,1,Tenth
+Texas Tech University,1,Tenth
+University of Arizona,1,Tenth
+"University of California, Hastings College of the Law",1,Tenth
+University of Nebraska,1,Tenth
+University of New Mexico,1,Tenth
+University of Notre Dame,1,Tenth
+Wake Forest University,1,Tenth
+"Westminster College, Fulton, Missouri",1,Tenth
+Harvard University,25,Third
+State University of New York at Buffalo,13,Third
+University of Virginia,13,Third
+Princeton University,10,Third
+Temple University,10,Third
+University of Maryland,9,Third
+Yale University,9,Third
+Duquesne University,8,Third
+Columbia University,6,Third
+Georgetown University,6,Third
+Rutgers University,6,Third
+University of Pennsylvania,5,Third
+University of Pittsburgh,5,Third
+Pennsylvania State University,3,Third
+Crozer Theological Seminary,2,Third
+Fordham University,2,Third
+Hofstra University,2,Third
+Seton Hall University,2,Third
+Stanford University,2,Third
+University of Delaware,2,Third
+University of Michigan,2,Third
+Amherst College,1,Third
+Antioch College,1,Third
+Brigham Young University,1,Third
+Bucknell University,1,Third
+Carleton College,1,Third
+College of the Holy Cross,1,Third
+Cornell University,1,Third
+Dartmouth College,1,Third
+Drake University,1,Third
+Drexel University,1,Third
+Franklin and Marshall College,1,Third
+George Mason University,1,Third
+Gettysburg College,1,Third
+Grove City College,1,Third
+Lehigh University,1,Third
+Lycoming College,1,Third
+Moravian College,1,Third
+Mount Holyoke College,1,Third
+New York Law School,1,Third
+New York University,1,Third
+Smith College,1,Third
+Southern Illinois University,1,Third
+State University of New York at Cortland,1,Third
+Syracuse University,1,Third
+Trinity College,1,Third
+Tufts University,1,Third
+Tulane University,1,Third
+University of Dayton,1,Third
+University of Maine,1,Third
+University of Notre Dame,1,Third
+University of Oxford,1,Third
+University of Scranton,1,Third
+University of Southern California,1,Third
+Villanova University,1,Third
+Washington and Jefferson College,1,Third
+Wesleyan University,1,Third

@@ -1,0 +1,277 @@
+school,count
+Harvard University,260
+Yale University,131
+University of Virginia,126
+Columbia University,81
+University of Michigan,65
+Stanford University,45
+University of Texas,40
+Georgetown University,35
+Washington University in St. Louis,34
+Cornell University,34
+University of Chicago,33
+"University of California, Los Angeles",28
+Princeton University,28
+Duke University,27
+University of Notre Dame,25
+Northwestern University,24
+University of Florida,24
+Indiana University,23
+University of Southern California,23
+University of Pennsylvania,23
+University of Iowa,23
+New York University,20
+University of Alabama,19
+University of Maryland,19
+"University of California, Berkeley",17
+University of Oxford,17
+Boston University,16
+University of South Carolina,15
+Washington and Lee University,15
+University of Nebraska,15
+University of Mississippi,15
+University of Georgia,13
+University of North Carolina,13
+University of Washington,13
+State University of New York at Buffalo,13
+Dartmouth College,13
+Tulane University,12
+Fordham University,12
+Brigham Young University,12
+Emory University,11
+Louisiana State University,11
+Samford University,11
+Vanderbilt University,11
+University of Minnesota,11
+University of Kansas,11
+Temple University,11
+University of Wisconsin,11
+University of Wyoming,10
+University of Cambridge,9
+University of Denver,9
+Duquesne University,8
+University of Missouri,8
+University of Arkansas,8
+DePaul University,7
+Brown University,7
+Millsaps College,7
+University of Cincinnati,7
+University of Colorado,7
+Case Western Reserve University,7
+University of Memphis,7
+University of Illinois,6
+Mercer University,6
+Baylor University,6
+Davidson College,6
+West Virginia University,6
+Marquette University,6
+Rutgers University,6
+Montana State University,6
+Arizona State University,6
+Hamilton College,5
+Howard University,5
+University of Utah,5
+University of Oklahoma,5
+Syracuse University,5
+Wesleyan University,5
+College of the Holy Cross,5
+Wake Forest University,5
+Michigan State University,5
+University of Idaho,5
+Southern University and A & M College,5
+Catholic University of America,5
+University of Pittsburgh,5
+Wellesley College,4
+Wofford College,4
+St. John's College,4
+Stetson University,4
+Amherst College,4
+Loyola University New Orleans,4
+Williams College,4
+Massachusetts Institute of Technology,4
+University of Arizona,4
+Randolph-Macon College,4
+Washburn University,4
+European University Institute,4
+Wayne State University,4
+University of Miami,3
+State University of New York at Albany,3
+Radcliffe College,3
+University of Oregon,3
+University of Akron,3
+University of North Dakota,3
+Tufts University,3
+"University of Nevada, Reno",3
+Swarthmore College,3
+College of William and Mary,3
+Pomona College,3
+Union College,3
+Pennsylvania State University,3
+Smith College,3
+Johns Hopkins University,3
+Vassar College,3
+University of New Mexico,3
+University of Montana,3
+Drake University,3
+University of Connecticut,3
+Creighton University,3
+Mitchell Hamline School of Law,3
+Centre College,3
+New York Law School,3
+University of Rochester,3
+University of Detroit Mercy,2
+Seminary of the Immaculate Conception,2
+Trinity College,2
+St. John's University,2
+Youngstown State University,2
+University of Delaware,2
+University of Tennessee,2
+Wabash College,2
+Bowdoin College,2
+"Heidelberg University, Germany",2
+Wittenberg College,2
+Miami University,2
+Haverford College,2
+Western Michigan University,2
+University of Louisville,2
+Rollins College,2
+Santa Clara University,2
+Kenyon College,2
+Bridgewater College,2
+Seton Hall University,2
+"Queens College, City University of New York",2
+Rhodes College,2
+St. Bonaventure University,2
+Crozer Theological Seminary,2
+Willamette University,2
+Suffolk University,2
+Auburn University,2
+University of Scranton,2
+St. Petersburg College,2
+Ohio State University,2
+Hofstra University,2
+Rensselaer Polytechnic Institute,2
+Goucher College,2
+Drexel University,2
+"University of California, Hastings College of the Law",2
+"Westminster College, Fulton, Missouri",2
+Carleton College,2
+Bates College,2
+University of Houston,2
+Rice University,2
+University of the Pacific,2
+Florida A&M University,2
+Brigham Young University - Idaho,1
+Morehouse College,1
+Occidental College,1
+"University of California, Santa Barbara",1
+Bear Valley Bible Institute,1
+American University,1
+University of Portland,1
+North Carolina A&T State University,1
+University of South Dakota,1
+New Mexico Military Institute,1
+"California State University, Sacramento",1
+St. Augustine's College,1
+Chicago-Kent College of Law,1
+Clark Atlanta University,1
+George Mason University,1
+Villanova University,1
+Brooklyn Law School,1
+University of North Texas,1
+Union University,1
+Judge Advocate General's Legal Center and School,1
+Loyola University Chicago,1
+South Texas College of Law,1
+Missouri State University,1
+Southwestern University,1
+Golden Gate University,1
+Adams State University,1
+Connecticut College,1
+"Westminster College, New Wilmington, Pennsylvania",1
+St. Louis University,1
+Dickinson College,1
+Florida International University,1
+Spring Hill College,1
+University of Louisiana at Monroe,1
+Randolph College,1
+Central University (now Eastern Kentucky University),1
+"St. Joseph's College, Jensen Beach, Florida",1
+Florida State University,1
+University of Illinois Chicago,1
+Texas Tech University,1
+Rose-Hulman Institute of Technology,1
+Bucknell University,1
+San Diego State University,1
+Jones County Junior College,1
+Virginia State University,1
+Hampton University,1
+Marshall University,1
+Macalester College,1
+St. Francis College,1
+St. Joseph's University,1
+Mississippi College,1
+"Lincoln University, Pennsylvania",1
+University of the South,1
+Birmingham-Southern College,1
+City College of New York,1
+Brandeis University,1
+Texas Southmost College,1
+Dillard University,1
+Louisiana Tech University,1
+University of Massachusetts,1
+Hampden-Sydney College,1
+St. Peter's College,1
+Southern Illinois University,1
+Lehigh University,1
+Antioch College,1
+Moravian College,1
+Washington and Jefferson College,1
+State University of New York at Cortland,1
+Mount Holyoke College,1
+Franklin and Marshall College,1
+Furman University,1
+University of Maine,1
+Gettysburg College,1
+Lycoming College,1
+Grove City College,1
+University of Dayton,1
+Brooklyn College,1
+San Antonio College,1
+Florida Institute of Technology,1
+University of Hawaii,1
+"Douglas University, Chicago, Illinois",1
+"St. Joseph’s College, Rensselaer, Indiana",1
+Grinnell College,1
+University of Missouri - Kansas City,1
+Benton College of Law,1
+"Lincoln University, Missouri",1
+Tabor College,1
+Northwest Missouri State University,1
+Loras College,1
+Ouachita Baptist University,1
+Jamestown College,1
+Dordt University,1
+Virginia Military Institute,1
+Lafayette College,1
+Tacoma Law School,1
+Whitman College,1
+Bryn Mawr College,1
+Elmhurst University,1
+Central YMCA College,1
+East Tennessee State University,1
+Middlebury College,1
+Southern Methodist University,1
+Ohio Northern University,1
+Fisk University,1
+University of Kentucky,1
+West Virginia State University,1
+Otterbein University,1
+Plymouth State University,1
+Ohio Wesleyan University,1
+Barnard College,1
+Boston College,1
+University of Northern Iowa,1
+Illinois Wesleyan University,1
+Lake Forest College,1
+University of Puerto Rico School of Public Administration,1

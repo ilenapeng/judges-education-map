@@ -1,0 +1,829 @@
+school1_alt,school2_alt,school3_alt,lastname,firstname,suffix,name,year1,school2,year2,school3,year3,school4,year4,school5,year5,circuit
+Yale University,,,Colt, LeBaron Bradford,,"Colt, LeBaron Bradford",1868.0,Columbia University,1870.0,,,,,,,First
+Bowdoin College,,,Putnam, William LeBaron,,"Putnam, William LeBaron",1855.0,,1858.0,,,,,,,First
+Harvard University,,,Lowell, Francis Cabot,,"Lowell, Francis Cabot",1876.0,Harvard University,1879.0,,,,,,,First
+Harvard University,,,Schofield, William,,"Schofield, William",1883.0,Harvard University,,,,,,,,First
+Harvard University,,,Dodge, Frederic,,"Dodge, Frederic",1867.0,Harvard University,1869.0,,,,,,,First
+Dartmouth College,,,Bingham, George Hutchins,,"Bingham, George Hutchins",1887.0,Harvard University,1891.0,,,,,,,First
+Bowdoin College,,,Johnson, Charles Fletcher,,"Johnson, Charles Fletcher",1879.0,,1886.0,,,,,,,First
+Williams College,,,Anderson, George Weston,,"Anderson, George Weston",1886.0,Boston University,1890.0,,,,,,,First
+University of Pennsylvania,Bates College,,Wilson, Scott,,"Wilson, Scott",1892.0,,1895.0,,,,,,,First
+Harvard University,,,Morton, James Madison,,"Morton, James Madison",1891.0,Harvard University,1894.0,Harvard University,1894.0,,,,,First
+St. John's College,,,Magruder, Calvert,,"Magruder, Calvert",1913.0,Harvard University,1916.0,St. John's College,1917.0,,,,,First
+Brown University,,,Mahoney, John Christopher,,"Mahoney, John Christopher",1905.0,Harvard University,1908.0,St. John's College,,,,,,First
+Columbia University,Harvard University,,Woodbury, Peter,,"Woodbury, Peter",1924.0,Harvard University,1927.0,St. John's College,,,,,,First
+Harvard University,Brown University,,Hartigan, John Patrick,,"Hartigan, John Patrick",1910.0,Columbia University,1913.0,Columbia University,1913.0,,,,,First
+Harvard University,,,Aldrich, Bailey,,"Aldrich, Bailey",1928.0,Harvard University,1932.0,Columbia University,,,,,,First
+College of the Holy Cross,,,McEntee, Edward Matthew,,"McEntee, Edward Matthew",1928.0,Boston University,1933.0,Columbia University,,,,,,First
+Bates College,,,Coffin, Frank Morey,,"Coffin, Frank Morey",1940.0,Harvard University,1943.0,Harvard University,1947.0,,,,,First
+Harvard University,,,Campbell, Levin Hicks,,"Campbell, Levin Hicks",1948.0,Harvard University,1951.0,Harvard University,,,,,,First
+Columbia University,,,Bownes, Hugh Henry,,"Bownes, Hugh Henry",1941.0,Columbia University,1948.0,Harvard University,,,,,,First
+Stanford University,,,Breyer, Stephen Gerald,,"Breyer, Stephen Gerald",1959.0,University of Oxford,1961.0,Harvard University,1964.0,,,,,First
+University of Pennsylvania,,,Torruella, Juan,,"Torruella, Juan",1954.0,Boston University,1957.0,University of Virginia,1984.0,University of Puerto Rico School of Public Administration,1984.0,,,First
+Harvard University,,,Selya, Bruce Marshall,,"Selya, Bruce Marshall",1955.0,Harvard University,1958.0,University of Virginia,,,,,,First
+College of the Holy Cross,,,Cyr, Conrad Keefe,,"Cyr, Conrad Keefe",1953.0,Yale University,1956.0,University of Virginia,,,,,,First
+Harvard University,,,Souter, David Hackett,,"Souter, David Hackett",1961.0,University of Oxford,1963.0,University of Oxford,1963.0,Harvard University,1966.0,,,First
+Harvard University,,,Boudin, Michael,,"Boudin, Michael",1961.0,Harvard University,1964.0,University of Oxford,,,,,,First
+Tufts University,,,Stahl, Norman,,"Stahl, Norman",1952.0,Harvard University,1955.0,University of Oxford,,,,,,First
+Wellesley College,,,Lynch, Sandra Lea,,"Lynch, Sandra Lea",1968.0,Boston University,1971.0,University of Oxford,,,,,,First
+Haverford College,,,Lipez, Kermit Victor,,"Lipez, Kermit Victor",1963.0,Yale University,1967.0,University of Virginia,1990.0,,,,,First
+Plymouth State University,,,Howard, Jeffrey,,"Howard, Jeffrey",1978.0,Georgetown University,1981.0,University of Virginia,,,,,,First
+Brown University,,,Thompson, Ojetta Rogeriee,,"Thompson, Ojetta Rogeriee",1973.0,Boston University,1976.0,University of Virginia,,,,,,First
+Amherst College,,,Kayatta, William Joseph,,"Kayatta, William Joseph",1976.0,Harvard University,1979.0,University of Virginia,,,,,,First
+Harvard University,,,Barron, David Jeremiah,,"Barron, David Jeremiah",1989.0,Harvard University,1994.0,University of Virginia,,,,,,First
+Brandeis University,,,Gelpí, Gustavo Antonio,,"Gelpí, Gustavo Antonio",1987.0,Suffolk University,1991.0,University of Virginia,,,,,,First
+Syracuse University,Hamilton College,,Wallace, William James,,"Wallace, William James",1857.0,,1858.0,University of Virginia,,,,,,Second
+Columbia University,,,Lacombe, Emile Henry,,"Lacombe, Emile Henry",1863.0,Columbia University,1865.0,University of Virginia,,,,,,Second
+Yale University,Yale University,,Shipman, Nathaniel,,"Shipman, Nathaniel",1848.0,,1850.0,University of Virginia,,,,,,Second
+Yale University,,,Townsend, William Kneeland,,"Townsend, William Kneeland",1871.0,Yale University,1874.0,Yale University,1880.0,,,,,Second
+,,,Coxe, Alfred Conkling,,"Coxe, Alfred Conkling",1868.0,Yale University,,,,,,,,Second
+University of Pennsylvania,,,Ward, Henry Galbraith,,"Ward, Henry Galbraith",1870.0,University of Pennsylvania,1870.0,,1873.0,,,,,Second
+Cornell University,,,Noyes, Walter Chadwick,,"Noyes, Walter Chadwick",1886.0,University of Pennsylvania,,,,,,,,Second
+Wesleyan University,,,Knapp, Martin Augustine,,"Knapp, Martin Augustine",1868.0,,1869.0,,,,,,,Second
+University of Michigan,,,Rogers, Henry Wade,,"Rogers, Henry Wade",1874.0,,1877.0,University of Michigan,1877.0,,,,,Second
+Dartmouth College,,,Hough, Charles Merrill,,"Hough, Charles Merrill",1879.0,,1883.0,University of Michigan,,,,,,Second
+Columbia University,,,Manton, Martin Thomas,,"Manton, Martin Thomas",1901.0,,,,,,,,,Second
+City College of New York,,,Mayer, Julius Marshuetz,,"Mayer, Julius Marshuetz",1884.0,Columbia University,1886.0,,,,,,,Second
+Harvard University,,,Hand, Learned,,"Hand, Learned",1893.0,Harvard University,1893.0,Harvard University,1896.0,,,,,Second
+Yale University,,,Swan, Thomas Walter,,"Swan, Thomas Walter",1900.0,Harvard University,1903.0,Harvard University,,,,,,Second
+Harvard University,,,Hand, Augustus Noble,,"Hand, Augustus Noble",1890.0,Harvard University,1894.0,Harvard University,,,,,,Second
+Dartmouth College,,,Chase, Harrie Brigham,,"Chase, Harrie Brigham",1909.0,Boston University,1912.0,Harvard University,,,,,,Second
+Harvard University,,,Mack, Julian William,,"Mack, Julian William",1887.0,Boston University,,,,,,,,Second
+Yale University,,,Clark, Charles Edward,,"Clark, Charles Edward",1911.0,Yale University,1913.0,,,,,,,Second
+Union College,,,Patterson, Robert Porter,,"Patterson, Robert Porter",1912.0,Harvard University,1915.0,,,,,,,Second
+University of Chicago,,,Frank, Jerome New,,"Frank, Jerome New",1909.0,University of Chicago,1912.0,,,,,,,Second
+Princeton University,,,Medina, Harold Raymond,,"Medina, Harold Raymond",1909.0,Columbia University,1912.0,,,,,,,Second
+Yale University,,,Hincks, Carroll Clark,,"Hincks, Carroll Clark",1911.0,Yale University,1914.0,,,,,,,Second
+University of Oxford,Princeton University,,Harlan, John Marshall,,"Harlan, John Marshall",1920.0,New York Law School,1924.0,,,,,,,Second
+Fordham University,Harvard University,,Lumbard, Joseph Edward,,"Lumbard, Joseph Edward",1922.0,Harvard University,1925.0,,,,,,,Second
+Dartmouth College,,,Waterman, Sterry Robinson,,"Waterman, Sterry Robinson",1922.0,,1926.0,,,,,,,Second
+Amherst College,,,Moore, Leonard Page,,"Moore, Leonard Page",1919.0,Columbia University,1922.0,,,,,,,Second
+Harvard University,,,Friendly, Henry Jacob,,"Friendly, Henry Jacob",1923.0,Harvard University,1927.0,,,,,,,Second
+Yale University,,,Smith, John Joseph,,"Smith, John Joseph",1925.0,Yale University,1927.0,,,,,,,Second
+Fordham University,,,Kaufman, Irving Robert,,"Kaufman, Irving Robert",1931.0,Yale University,,,,,,,,Second
+Columbia University,,,Hays, Paul Raymond,,"Hays, Paul Raymond",1924.0,Columbia University,1927.0,Columbia University,1933.0,,,,,Second
+"Lincoln University, Pennsylvania",,,Marshall, Thurgood,,"Marshall, Thurgood",1930.0,Howard University,1933.0,Columbia University,,,,,,Second
+Yale University,,,Anderson, Robert Palmer,,"Anderson, Robert Palmer",1927.0,Yale University,1929.0,Columbia University,,,,,,Second
+Columbia University,,,Feinberg, Wilfred,,"Feinberg, Wilfred",1940.0,Columbia University,1946.0,Columbia University,,,,,,Second
+Harvard University,,,Mansfield, Walter Roe,,"Mansfield, Walter Roe",1932.0,Harvard University,1935.0,Columbia University,,,,,,Second
+Harvard University,,,Oakes, James Lowell,,"Oakes, James Lowell",1945.0,Harvard University,1947.0,Columbia University,,,,,,Second
+Fordham University,,,Mulligan, William Hughes,,"Mulligan, William Hughes",1939.0,Fordham University,1942.0,Columbia University,,,,,,Second
+Dartmouth College,,,Timbers, William Homer,,"Timbers, William Homer",1937.0,Yale University,1940.0,Columbia University,,,,,,Second
+Columbia University,,,Gurfein, Murray Irwin,,"Gurfein, Murray Irwin",1926.0,Harvard University,1930.0,Columbia University,,,,,,Second
+University of Rochester,,,Van Graafeiland, Ellsworth Alfred,,"Van Graafeiland, Ellsworth Alfred",1937.0,Cornell University,1940.0,Columbia University,,,,,,Second
+New York University,Trinity College,,Meskill, Thomas Joseph,,"Meskill, Thomas Joseph",1950.0,University of Connecticut,1956.0,Columbia University,,,,,,Second
+Princeton University,,,Newman, Jon Ormond,,"Newman, Jon Ormond",1953.0,Yale University,1956.0,Columbia University,,,,,,Second
+Wellesley College,,,Kearse, Amalya Lyle,,"Kearse, Amalya Lyle",1959.0,University of Michigan,1962.0,Columbia University,,,,,,Second
+Harvard University,,,Cardamone, Richard,,"Cardamone, Richard",1948.0,Syracuse University,1952.0,Columbia University,,,,,,Second
+St. Joseph's University,,,Pierce, Lawrence Warren,,"Pierce, Lawrence Warren",1948.0,Fordham University,1951.0,Columbia University,,,,,,Second
+Yale University,,,Winter, Ralph,,"Winter, Ralph",1957.0,Yale University,1960.0,Columbia University,,,,,,Second
+Yale University,,,Pratt, George Cheney,,"Pratt, George Cheney",1950.0,Yale University,1953.0,Columbia University,,,,,,Second
+New York Law School,,,Miner, Roger Jeffrey,,"Miner, Roger Jeffrey",1956.0,State University of New York at Albany,1977.0,Columbia University,,,,,,Second
+St. Francis College,,,Altimari, Frank,,"Altimari, Frank",1948.0,Brooklyn Law School,1951.0,Columbia University,,,,,,Second
+St. Bonaventure University,,,Mahoney, John Daniel,,"Mahoney, John Daniel",1952.0,Columbia University,1955.0,Columbia University,,,,,,Second
+Yale University,,,Walker, John Mercer,,"Walker, John Mercer",1962.0,University of Michigan,1966.0,Columbia University,,,,,,Second
+Fordham University,,,McLaughlin, Joseph Michael,,"McLaughlin, Joseph Michael",1954.0,Fordham University,1959.0,New York University,1964.0,,,,,Second
+"Queens College, City University of New York",,,Jacobs, Dennis,,"Jacobs, Dennis",1964.0,New York University,1965.0,New York University,1973.0,,,,,Second
+Harvard University,,,Leval, Pierre Nelson,,"Leval, Pierre Nelson",1959.0,Harvard University,1963.0,New York University,,,,,,Second
+Yale University,,,Calabresi, Guido,,"Calabresi, Guido",1953.0,University of Oxford,1955.0,Yale University,1958.0,,,,,Second
+Columbia University,,,Cabranes, José Alberto,,"Cabranes, José Alberto",1961.0,Yale University,1965.0,University of Cambridge,1967.0,,,,,Second
+University of Massachusetts,,,Parker, Fred,,"Parker, Fred",1962.0,Georgetown University,1965.0,University of Cambridge,,,,,,Second
+St. Peter's College,,,Straub, Chester,,"Straub, Chester",1958.0,University of Virginia,1961.0,University of Cambridge,,,,,,Second
+Brooklyn College,,,Pooler, Rosemary,,"Pooler, Rosemary",1959.0,University of Connecticut,1961.0,University of Michigan,1965.0,Harvard University,1978.0,State University of New York at Albany,1985.0,Second
+University of Rochester,,,Sack, Robert David,,"Sack, Robert David",1960.0,Columbia University,1963.0,University of Michigan,,,,,,Second
+Princeton University,,,Sotomayor, Sonia,,"Sotomayor, Sonia",1976.0,Yale University,1979.0,University of Michigan,,,,,,Second
+Columbia University,,,Katzmann, Robert,,"Katzmann, Robert",1973.0,Harvard University,1976.0,Harvard University,1978.0,Yale University,1980.0,,,Second
+Yale University,,,Parker, Barrington Daniels,,"Parker, Barrington Daniels",1965.0,Yale University,1969.0,Harvard University,,,,,,Second
+Wellesley College,,,Raggi, Reena,,"Raggi, Reena",1973.0,Harvard University,1976.0,Harvard University,,,,,,Second
+State University of New York at Albany,,,Wesley, Richard,,"Wesley, Richard",1971.0,Cornell University,1974.0,Harvard University,,,,,,Second
+University of North Carolina,,,Hall, Peter,,"Hall, Peter",1971.0,University of North Carolina,1974.0,Cornell University,1977.0,,,,,Second
+Princeton University,,,Livingston, Debra Ann,,"Livingston, Debra Ann",1980.0,Harvard University,1984.0,Cornell University,,,,,,Second
+Columbia University,,,Lynch, Gerard,,"Lynch, Gerard",1972.0,Columbia University,1975.0,Cornell University,,,,,,Second
+Princeton University,,,Chin, Denny,,"Chin, Denny",1975.0,Fordham University,1978.0,Cornell University,,,,,,Second
+Harvard University,,,Lohier, Raymond Joseph,,"Lohier, Raymond Joseph",1988.0,New York University,1991.0,Cornell University,,,,,,Second
+Harvard University,,,Carney, Susan Laura,,"Carney, Susan Laura",1973.0,Harvard University,1977.0,Cornell University,,,,,,Second
+College of the Holy Cross,,,Droney, Christopher Fitzgerald,,"Droney, Christopher Fitzgerald",1976.0,University of Connecticut,1979.0,Cornell University,,,,,,Second
+College of William and Mary,,,Sullivan, Richard Joseph,,"Sullivan, Richard Joseph",1986.0,Yale University,1990.0,Cornell University,,,,,,Second
+Georgetown University,,,Bianco, Joseph Frank,,"Bianco, Joseph Frank",1988.0,Columbia University,1991.0,Seminary of the Immaculate Conception,2013.0,,,,,Second
+Princeton University,,,Park, Michael Hun,,"Park, Michael Hun",1998.0,Yale University,2001.0,Seminary of the Immaculate Conception,,,,,,Second
+Georgetown University,,,Nardini, William Joseph,,"Nardini, William Joseph",1990.0,Yale University,1994.0,European University Institute,1998.0,,,,,Second
+Dartmouth College,,,Menashi, Steven James,,"Menashi, Steven James",2001.0,Stanford University,2008.0,European University Institute,,,,,,Second
+Ohio State University,,,Lee, Eunice Cheryl,,"Lee, Eunice Cheryl",1993.0,Yale University,1996.0,European University Institute,,,,,,Second
+Dartmouth College,,,Robinson, Beth,,"Robinson, Beth",1986.0,University of Chicago,1989.0,European University Institute,,,,,,Second
+Yale University,,,Pérez, Myrna,,"Pérez, Myrna",1996.0,Harvard University,1998.0,Columbia University,2003.0,,,,,Second
+Washington and Jefferson College,,,Acheson, Marcus Wilson,,"Acheson, Marcus Wilson",1845.0,,1852.0,Columbia University,,,,,,Third
+,,,Dallas, George Mifflin,,"Dallas, George Mifflin",1859.0,,,,,,,,,Third
+Harvard University,Princeton University,,Gray, George,,"Gray, George",1859.0,,1863.0,Princeton University,1863.0,,,,,Third
+Trinity College,,,Buffington, Joseph,,"Buffington, Joseph",1875.0,,1878.0,Princeton University,,,,,,Third
+,,,Lanning, William Mershon,,"Lanning, William Mershon",1880.0,,,,,,,,,Third
+Yale University,,,Archbald, Robert Wodrow,,"Archbald, Robert Wodrow",1871.0,,1873.0,,,,,,,Third
+Princeton University,,,McPherson, John Bayard,,"McPherson, John Bayard",1866.0,Princeton University,1869.0,,1870.0,,,,,Third
+Harvard University,University of Delaware,,Woolley, Victor Baynard,,"Woolley, Victor Baynard",1885.0,,1890.0,,,,,,,Third
+Princeton University,New York Law School,,Haight, Thomas Griffith,,"Haight, Thomas Griffith",1900.0,,,,,,,,,Third
+Bucknell University,,,Davis, John Warren,,"Davis, John Warren",1896.0,Crozer Theological Seminary,1899.0,University of Maryland,1906.0,,,,,Third
+University of Maryland,,,Thompson, Joseph Whitaker,,"Thompson, Joseph Whitaker",1887.0,Crozer Theological Seminary,,,,,,,,Third
+Princeton University,,,Biggs, John,,"Biggs, John",1918.0,Harvard University,1922.0,,,,,,,Third
+Temple University,,,Maris, Albert Branson,,"Maris, Albert Branson",1918.0,Drexel University,1926.0,,,,,,,Third
+Harvard University,,,Clark, William,,"Clark, William",1911.0,Harvard University,1912.0,Harvard University,1915.0,,,,,Third
+Harvard University,,,Biddle, Francis,,"Biddle, Francis",1909.0,Harvard University,1911.0,Harvard University,,,,,,Third
+Pennsylvania State University,,,Jones, Charles Alvin,,"Jones, Charles Alvin",,,,,,,,,,Third
+Carleton College,,,Goodrich, Herbert Funk,,"Goodrich, Herbert Funk",1911.0,Harvard University,1914.0,,,,,,,Third
+Fordham University,,,McLaughlin, Gerald,,"McLaughlin, Gerald",1914.0,Fordham University,1917.0,,,,,,,Third
+Duquesne University,,,O'Connell, John Joseph,,"O'Connell, John Joseph",1928.0,Duquesne University,1931.0,,,,,,,Third
+University of Maryland,,,Kalodner, Harry Ellis,,"Kalodner, Harry Ellis",1917.0,Duquesne University,,,,,,,,Third
+Amherst College,,,Hastie, William Henry,,"Hastie, William Henry",1925.0,Harvard University,1930.0,Harvard University,1933.0,,,,,Third
+Duquesne University,,,Staley, Austin Leander,,"Staley, Austin Leander",1928.0,Harvard University,,,,,,,,Third
+Temple University,,,Forman, Phillip,,"Forman, Phillip",1919.0,Harvard University,,,,,,,,Third
+Lehigh University,,,Ganey, James Cullen,,"Ganey, James Cullen",1920.0,Harvard University,1923.0,,,,,,,Third
+Columbia University,,,Smith, William Francis,,"Smith, William Francis",1922.0,Rutgers University,1929.0,,,,,,,Third
+Temple University,,,Freedman, Abraham Lincoln,,"Freedman, Abraham Lincoln",1926.0,Rutgers University,,,,,,,,Third
+University of Delaware,,,Seitz, Collins Jacques,,"Seitz, Collins Jacques",1937.0,University of Virginia,1940.0,,,,,,,Third
+Princeton University,,,Van Dusen, Francis Lund,,"Van Dusen, Francis Lund",1934.0,Harvard University,1937.0,,,,,,,Third
+University of Pittsburgh,,,Aldisert, Ruggero John,,"Aldisert, Ruggero John",1941.0,University of Pittsburgh,1947.0,,,,,,,Third
+University of Pittsburgh,,,Stahl, David Henry,,"Stahl, David Henry",1942.0,University of Pittsburgh,1949.0,,,,,,,Third
+Temple University,,,Adams, Arlin Marvin,,"Adams, Arlin Marvin",1941.0,University of Maryland,1947.0,Temple University,1950.0,,,,,Third
+College of the Holy Cross,,,Gibbons, John Joseph,,"Gibbons, John Joseph",1947.0,Harvard University,1950.0,Temple University,,,,,,Third
+Cornell University,,,Rosenn, Max,,"Rosenn, Max",1929.0,University of Maryland,1932.0,Temple University,,,,,,Third
+Rutgers University,,,Rosen, James,,"Rosen, James",1930.0,University of Maryland,,,,,,,,Third
+Temple University,,,Hunter, James III,,"Hunter, James III",1936.0,University of Maryland,1939.0,,,,,,,Third
+Duquesne University,,,Weis, Joseph Francis,,"Weis, Joseph Francis",1947.0,University of Pittsburgh,1950.0,,,,,,,Third
+Columbia University,,,Garth, Leonard,,"Garth, Leonard",1942.0,Harvard University,1952.0,,,,,,,Third
+Antioch College,,,Higginbotham, Aloyisus Leon,,"Higginbotham, Aloyisus Leon",1949.0,Yale University,1952.0,,,,,,,Third
+Temple University,,,Sloviter, Dolores Korman,,"Sloviter, Dolores Korman",1953.0,University of Maryland,1956.0,,,,,,,Third
+University of Pennsylvania,,,Becker, Edward Roy,,"Becker, Edward Roy",1954.0,Yale University,1957.0,,,,,,,Third
+Duquesne University,,,Mansmann, Carol Los,,"Mansmann, Carol Los",1964.0,Duquesne University,1967.0,,,,,,,Third
+Princeton University,,,Stapleton, Walter King,,"Stapleton, Walter King",1956.0,Harvard University,1959.0,University of Virginia,1984.0,,,,,Third
+University of Pennsylvania,,,Greenberg, Morton Ira,,"Greenberg, Morton Ira",1954.0,Yale University,1957.0,University of Virginia,,,,,,Third
+Wesleyan University,,,Scirica, Anthony Joseph,,"Scirica, Anthony Joseph",1962.0,University of Michigan,1965.0,University of Virginia,,,,,,Third
+Moravian College,,,Hutchinson, William,,"Hutchinson, William",1954.0,Harvard University,1957.0,University of Virginia,,,,,,Third
+Drake University,,,Cowen, Robert,,"Cowen, Robert",1952.0,Rutgers University,1958.0,University of Virginia,,,,,,Third
+University of Southern California,,,Nygaard, Richard Lowell,,"Nygaard, Richard Lowell",1969.0,University of Michigan,1971.0,University of Virginia,,,,,,Third
+Princeton University,,,Alito, Samuel,,"Alito, Samuel",1972.0,Yale University,1975.0,University of Virginia,,,,,,Third
+Smith College,,,Roth, Jane Richards,,"Roth, Jane Richards",1956.0,Harvard University,1965.0,University of Virginia,,,,,,Third
+Tufts University,,,Lewis, Timothy,,"Lewis, Timothy",1976.0,Duquesne University,1980.0,University of Virginia,,,,,,Third
+State University of New York at Cortland,,,McKee, Theodore Alexander,,"McKee, Theodore Alexander",1969.0,Syracuse University,1975.0,University of Virginia,,,,,,Third
+Dartmouth College,,,Sarokin,,,Sarokin,1950.0,Harvard University,1953.0,University of Virginia,,,,,,Third
+University of Pennsylvania,,,Rendell, Marjorie,,"Rendell, Marjorie",1969.0,Villanova University,1973.0,University of Virginia,,,,,,Third
+Mount Holyoke College,,,Barry, Maryanne Trump,,"Barry, Maryanne Trump",1958.0,Columbia University,1962.0,Hofstra University,1974.0,,,,,Third
+Georgetown University,,,Ambro, Thomas,,"Ambro, Thomas",1971.0,Georgetown University,1975.0,Hofstra University,,,,,,Third
+Southern Illinois University,,,Fuentes, Julio,,"Fuentes, Julio",1971.0,New York University,1972.0,State University of New York at Buffalo,1975.0,Rutgers University,1993.0,,,Third
+Franklin and Marshall College,,,Smith, D[avid] Brooks,,"Smith, D[avid] Brooks",1973.0,Pennsylvania State University,1976.0,State University of New York at Buffalo,,,,,,Third
+Harvard University,,,Chertoff, Michael,,"Chertoff, Michael",1975.0,Harvard University,1978.0,State University of New York at Buffalo,,,,,,Third
+Georgetown University,,,Fisher,,,Fisher,1966.0,Georgetown University,1969.0,State University of New York at Buffalo,,,,,,Third
+University of Maine,,,Van Antwerpen, Franklin Stuart,,"Van Antwerpen, Franklin Stuart",1964.0,Temple University,1967.0,State University of New York at Buffalo,,,,,,Third
+Gettysburg College,,,Chagares, Michael,,"Chagares, Michael",1984.0,Seton Hall University,1987.0,State University of New York at Buffalo,,,,,,Third
+Brigham Young University,,,Jordan, Kent,,"Jordan, Kent",1981.0,Georgetown University,1984.0,State University of New York at Buffalo,,,,,,Third
+University of Notre Dame,,,Hardiman, Thomas Michael,,"Hardiman, Thomas Michael",1987.0,Georgetown University,1990.0,State University of New York at Buffalo,,,,,,Third
+Columbia University,,,Greenaway, Joseph,,"Greenaway, Joseph",1978.0,Harvard University,1981.0,State University of New York at Buffalo,,,,,,Third
+Lycoming College,,,Vanaskie, Thomas Ignatius,,"Vanaskie, Thomas Ignatius",1975.0,Pennsylvania State University,1978.0,State University of New York at Buffalo,,,,,,Third
+Rutgers University,,,Shwartz, Patty,,"Shwartz, Patty",1983.0,University of Maryland,1986.0,State University of New York at Buffalo,,,,,,Third
+University of Pennsylvania,,,Krause, Cheryl Ann,,"Krause, Cheryl Ann",1989.0,Stanford University,1993.0,State University of New York at Buffalo,,,,,,Third
+University of Pennsylvania,,,Restrepo, Luis Felipe,,"Restrepo, Luis Felipe",1981.0,Tulane University,1986.0,State University of New York at Buffalo,,,,,,Third
+Columbia University,,,Bibas, Stephanos,,"Bibas, Stephanos",1989.0,University of Oxford,1991.0,Yale University,1994.0,,1998.0,,,Third
+Grove City College,,,Porter, David James,,"Porter, David James",1988.0,George Mason University,1992.0,Yale University,,,,,,Third
+University of Scranton,,,Matey, Paul Brian,,"Matey, Paul Brian",1993.0,Seton Hall University,2001.0,Yale University,,,,,,Third
+University of Dayton,,,Phipps, Peter Joseph,,"Phipps, Peter Joseph",1995.0,Stanford University,1998.0,Yale University,,,,,,Third
+New York University,,,Bond, Hugh Lennox,,"Bond, Hugh Lennox",1848.0,,1851.0,Yale University,,,,,,Fourth
+New York University,,,Goff, Nathan,,"Goff, Nathan",1866.0,,,,,,,,,Fourth
+University of South Carolina,,,Simonton, Charles Henry,,"Simonton, Charles Henry",1849.0,,1851.0,,,,,,,Fourth
+,,,Pritchard, Jeter Connelly,,"Pritchard, Jeter Connelly",1889.0,,,,,,,,,Fourth
+Wofford College,,,Woods, Charles Albert,,"Woods, Charles Albert",1872.0,,1873.0,,,,,,,Fourth
+Wesleyan University,,,Knapp, Martin Augustine,,"Knapp, Martin Augustine",1868.0,,1869.0,,,,,,,Fourth
+University of Virginia,,,Waddill, Edmund,,"Waddill, Edmund",1877.0,,,,,,,,,Fourth
+University of Maryland,,,Rose, John Carter,,"Rose, John Carter",1882.0,,,,,,,,,Fourth
+University of North Carolina,,,Parker, John Johnston,,"Parker, John Johnston",1907.0,University of North Carolina,1908.0,,,,,,,Fourth
+University of Michigan,,,Northcott, Elliott,,"Northcott, Elliott",1891.0,University of North Carolina,,,,,,,,Fourth
+Johns Hopkins University,,,Soper, Morris Ames,,"Soper, Morris Ames",1893.0,University of Maryland,1895.0,,,,,,,Fourth
+University of Virginia,,,Dobie, Armistead Mason,,"Dobie, Armistead Mason",1901.0,University of Virginia,1902.0,University of Virginia,1904.0,,,,,Fourth
+University of Maryland,,,Sobeloff, Simon,,"Sobeloff, Simon",1915.0,University of Virginia,,,,,,,,Fourth
+Furman University,,,Haynsworth, Clement Furman,,"Haynsworth, Clement Furman",1933.0,Harvard University,1936.0,,,,,,,Fourth
+West Virginia University,,,Boreman, Herbert Stephenson,,"Boreman, Herbert Stephenson",1920.0,Harvard University,,,,,,,,Fourth
+University of Virginia,,,Bryan, Albert Vickers,,"Bryan, Albert Vickers",1921.0,Harvard University,,,,,,,,Fourth
+Harvard University,Duke University,,Bell,,,Bell,1927.0,University of North Carolina,1930.0,,,,,,,Fourth
+Johns Hopkins University,,,Winter, Harrison Lee,,"Winter, Harrison Lee",1942.0,University of Maryland,1944.0,,,,,,,Fourth
+Duke University,,,Craven, James Braxton,,"Craven, James Braxton",1939.0,Harvard University,1942.0,,,,,,,Fourth
+University of Scranton,,,Butzner, John Decker,,"Butzner, John Decker",1938.0,University of Virginia,1941.0,,,,,,,Fourth
+University of South Carolina,,,Russell, Donald Stuart,,"Russell, Donald Stuart",1925.0,University of South Carolina,1928.0,,,,,,,Fourth
+Hampden-Sydney College,,,Field, John,,"Field, John",1932.0,University of Virginia,1935.0,,,,,,,Fourth
+,,,Widener, Hiram Emory University,,"Widener, Hiram Emory University",1944.0,Washington and Lee University,1953.0,,,,,,,Fourth
+West Virginia University,,,Hall, Kenneth Keller,,"Hall, Kenneth Keller",1948.0,Washington and Lee University,,,,,,,,Fourth
+Davidson College,,,Phillips, James Dickson,,"Phillips, James Dickson",1943.0,University of North Carolina,1948.0,,,,,,,Fourth
+Johns Hopkins University,,,Murnaghan, Francis Dominic,,"Murnaghan, Francis Dominic",1941.0,Harvard University,1948.0,,,,,,,Fourth
+St. Bonaventure University,,,Sprouse, James Marshall,,"Sprouse, James Marshall",1947.0,Columbia University,1949.0,,,,,,,Fourth
+Davidson College,,,Ervin, Samuel James III,,"Ervin, Samuel James III",1948.0,Harvard University,1951.0,,,,,,,Fourth
+University of South Carolina,,,Chapman, Robert Foster,,"Chapman, Robert Foster",1945.0,University of South Carolina,1949.0,,,,,,,Fourth
+Yale University,,,Wilkinson, James Harvie III,,"Wilkinson, James Harvie III",1967.0,University of Virginia,1972.0,,,,,,,Fourth
+Wake Forest University,,,Sneeden, Emory University,,"Sneeden, Emory University",1949.0,Wake Forest University,1953.0,,,,,,,Fourth
+Davidson College,,,Wilkins, William Walter,,"Wilkins, William Walter",1964.0,University of South Carolina,1967.0,,,,,,,Fourth
+Kenyon College,,,Niemeyer, Paul Victor,,"Niemeyer, Paul Victor",1962.0,University of Notre Dame,1966.0,,,,,,,Fourth
+Wofford College,,,Hamilton, Clyde,,"Hamilton, Clyde",1956.0,Washington University in St. Louis,1961.0,,,,,,,Fourth
+Washington and Lee University,,,Luttig,,,Luttig,1976.0,University of Virginia,1981.0,,,,,,,Fourth
+Columbia University,,,Williams, Karen,,"Williams, Karen",1972.0,University of South Carolina,1980.0,,,,,,,Fourth
+West Virginia University,,,Michael,,,Michael,1965.0,New York University,1968.0,,,,,,,Fourth
+Vassar College,,,Motz, Diana Jane Gribbon,,"Motz, Diana Jane Gribbon",1965.0,University of Virginia,1968.0,,,,,,,Fourth
+Davidson College,,,Traxler, William Byrd,,"Traxler, William Byrd",1970.0,University of South Carolina,1973.0,,,,,,,Fourth
+West Virginia University,,,King, Robert Bruce,,"King, Robert Bruce",1961.0,West Virginia University,1968.0,,,,,,,Fourth
+Virginia State University,,,Gregory, Roger,,"Gregory, Roger",1975.0,University of Michigan,1978.0,,,,,,,Fourth
+Wofford College,,,Shedd, Dennis,,"Shedd, Dennis",1975.0,University of South Carolina,1978.0,Georgetown University,1980.0,,,,,Fourth
+Hampton University,,,Duncan, Allyson Kay,,"Duncan, Allyson Kay",1972.0,Duke University,1975.0,Georgetown University,,,,,,Fourth
+Bridgewater College,,,Agee,,,Agee,1974.0,University of Virginia,1977.0,New York University,1978.0,,,,,Fourth
+University of Pennsylvania,,,Davis, Andre Maurice,,"Davis, Andre Maurice",1971.0,University of Maryland,1978.0,New York University,,,,,,Fourth
+Cornell University,,,Keenan, Barbara Milano,,"Keenan, Barbara Milano",1971.0,Washington University in St. Louis,1974.0,University of Virginia,1992.0,,,,,Fourth
+University of North Carolina,,,Wynn, James Andrew,,"Wynn, James Andrew",1975.0,Marquette University,1979.0,University of Virginia,1995.0,,,,,Fourth
+University of Pennsylvania,,,Diaz, Albert,,"Diaz, Albert",1983.0,New York University,1988.0,Boston University,1993.0,,,,,Fourth
+Wofford College,,,Floyd, Henry Franklin,,"Floyd, Henry Franklin",1970.0,University of South Carolina,1973.0,Boston University,,,,,,Fourth
+Marshall University,,,Thacker, Stephanie Dawn,,"Thacker, Stephanie Dawn",1987.0,West Virginia University,1990.0,Boston University,,,,,,Fourth
+Yale University,,,Harris, Pamela Ann,,"Harris, Pamela Ann",1985.0,Yale University,1990.0,Boston University,,,,,,Fourth
+Vanderbilt University,,,Richardson, Julius Ness,,"Richardson, Julius Ness",1999.0,University of Chicago,2003.0,Boston University,,,,,,Fourth
+Rhodes College,,,Quattlebaum,,,Quattlebaum,1986.0,University of South Carolina,1989.0,Boston University,,,,,,Fourth
+Wake Forest University,,,Rushing, Allison Jones,,"Rushing, Allison Jones",2004.0,Duke University,2007.0,Boston University,,,,,,Fourth
+Macalester College,,,Heytens, Toby Jay,,"Heytens, Toby Jay",1997.0,University of Virginia,2000.0,Boston University,,,,,,Fourth
+,,,Pardee, Don Albert,,"Pardee, Don Albert",1859.0,University of Virginia,,,,,,,,Fifth
+Centre College,,,McCormick, Andrew Phelps,,"McCormick, Andrew Phelps",1854.0,,1855.0,,,,,,,Fifth
+Samford University,,,Shelby, David Davie,,"Shelby, David Davie",1870.0,,,,,,,,,Fifth
+Columbia University,Washington and Lee University,Princeton University,Walker, Richard Wilde,,"Walker, Richard Wilde",1877.0,,1878.0,,,,,,,Fifth
+University of Texas,,,Batts, Robert Lynn,,"Batts, Robert Lynn",1886.0,,,,,,,,,Fifth
+Emory University,,,Bryan, Nathan Philemon,,"Bryan, Nathan Philemon",1893.0,Washington and Lee University,1895.0,,,,,,,Fifth
+,,,King, Alexander Campbell,,"King, Alexander Campbell",1875.0,Washington and Lee University,,,,,,,,Fifth
+Tulane University,,,Foster, Rufus Edward,,"Foster, Rufus Edward",1895.0,Washington and Lee University,,,,,,,,Fifth
+University of Georgia,,,Sibley, Samuel Hale,,"Sibley, Samuel Hale",1892.0,University of Georgia,1893.0,,,,,,,Fifth
+University of Texas,,,Hutcheson, Joseph Chappell,,"Hutcheson, Joseph Chappell",1900.0,University of Georgia,,,,,,,,Fifth
+University of Texas,,,Holmes, Edwin Ruthven,,"Holmes, Edwin Ruthven",1896.0,University of Mississippi,1899.0,,,,,,,Fifth
+Vanderbilt University,,,McCord, Leon Clarence,,"McCord, Leon Clarence",1900.0,University of Mississippi,,,,,,,,Fifth
+Mississippi College,,,Waller, Curtis Longino,,"Waller, Curtis Longino",1908.0,Millsaps College,1910.0,,,,,,,Fifth
+Louisiana State University,,,Lee, Elmo Pearce,,"Lee, Elmo Pearce",1911.0,Millsaps College,,,,,,,,Fifth
+,,,Russell, Robert Lee,,"Russell, Robert Lee",1920.0,Millsaps College,,,,,,,,Fifth
+Louisiana State University,,,Borah, Wayne,,"Borah, Wayne",1915.0,Millsaps College,,,,,,,,Fifth
+Stetson University,,,Strum, Louie Willard,,"Strum, Louie Willard",1912.0,Millsaps College,,,,,,,,Fifth
+,,,Rives, Richard Taylor,,"Rives, Richard Taylor",1914.0,Millsaps College,,,,,,,,Fifth
+Cornell University,,,Tuttle, Elbert Parr,,"Tuttle, Elbert Parr",1918.0,Cornell University,1923.0,,,,,,,Fifth
+University of the South,,,Cameron, Benjamin Franklin,,"Cameron, Benjamin Franklin",1911.0,Samford University,1914.0,,,,,,,Fifth
+University of Denver,,,Jones, Warren Leroy,,"Jones, Warren Leroy",1924.0,Samford University,,,,,,,,Fifth
+University of Nebraska,,,Brown, John Robert,,"Brown, John Robert",1930.0,University of Michigan,1932.0,,,,,,,Fifth
+Washington and Lee University,,,Wisdom, John Minor,,"Wisdom, John Minor",1925.0,Tulane University,1929.0,,,,,,,Fifth
+Mercer University,,,Bell, Griffin Boyette,,"Bell, Griffin Boyette",1948.0,Tulane University,,,,,,,,Fifth
+Birmingham-Southern College,,,Gewin, Walter Pettus,,"Gewin, Walter Pettus",1930.0,Emory University,1932.0,University of Alabama,1935.0,,,,,Fifth
+University of Texas,,,Thornberry, William Homer,,"Thornberry, William Homer",1932.0,University of Texas,1936.0,University of Alabama,,,,,,Fifth
+Washington University in St. Louis,,,Coleman, James Plemon,,"Coleman, James Plemon",1939.0,University of Texas,,,,,,,,Fifth
+University of Texas,,,Goldberg, Irving Loeb,,"Goldberg, Irving Loeb",1926.0,Harvard University,1929.0,,,,,,,Fifth
+Loyola University New Orleans,,,Ainsworth, Robert Andrew,,"Ainsworth, Robert Andrew",1932.0,Harvard University,,,,,,,,Fifth
+Auburn University,,,Godbold, John Cooper,,"Godbold, John Cooper",1940.0,Harvard University,1948.0,,,,,,,Fifth
+Stetson University,,,Dyer, David William,,"Dyer, David William",1933.0,Harvard University,,,,,,,,Fifth
+University of Florida,,,Simpson, John Milton Bryan,,"Simpson, John Milton Bryan",1926.0,Harvard University,,,,,,,,Fifth
+University of Mississippi,,,Clayton, Claude Feemster,,"Clayton, Claude Feemster",1931.0,Harvard University,,,,,,,,Fifth
+University of Georgia,,,Morgan, Lewis Render,,"Morgan, Lewis Render",1935.0,Harvard University,,,,,,,,Fifth
+,University of Georgia,Duke University,Carswell, George Harrold,,"Carswell, George Harrold",1941.0,Mercer University,1948.0,,,,,,,Fifth
+University of Mississippi,,,Clark, Charles,,"Clark, Charles",1948.0,Mercer University,,,,,,,,Fifth
+Washington University in St. Louis,,,Ingraham, Joe McDonald,,"Ingraham, Joe McDonald",1927.0,Mercer University,,,,,,,,Fifth
+St. Petersburg College,,,Roney, Paul Hitch,,"Roney, Paul Hitch",1940.0,University of Pennsylvania,1942.0,Harvard University,1948.0,University of Virginia,1984.0,,,Fifth
+,,,Gee, Thomas Gibbs,,"Gee, Thomas Gibbs",1946.0,University of Texas,1953.0,Harvard University,,,,,,Fifth
+Duke University,,,Tjoflat, Gerald Bard,,"Tjoflat, Gerald Bard",1957.0,University of Texas,,,,,,,,Fifth
+University of South Carolina,,,Hill, James Clinkscales,,"Hill, James Clinkscales",1948.0,Emory University,1948.0,,,,,,,Fifth
+Rollins College,,,Fay, Peter Thorp,,"Fay, Peter Thorp",1951.0,University of Florida,1956.0,,,,,,,Fifth
+Louisiana State University,,,Rubin, Alvin Benjamin,,"Rubin, Alvin Benjamin",1941.0,Louisiana State University,1942.0,,,,,,,Fifth
+University of Alabama,,,Vance, Robert Smith,,"Vance, Robert Smith",1950.0,University of Alabama,1952.0,Washington University in St. Louis,1955.0,,,,,Fifth
+Goucher College,,,Kravitch, Phyllis,,"Kravitch, Phyllis",1941.0,University of Maryland,1943.0,Washington University in St. Louis,,,,,,Fifth
+University of Alabama,,,Johnson, Frank Minis,,"Johnson, Frank Minis",1943.0,University of Maryland,,,,,,,,Fifth
+Louisiana State University,,,Politz, Henry Anthony,,"Politz, Henry Anthony",1958.0,Louisiana State University,1959.0,,,,,,,Fifth
+Texas Southmost College,,,Garza, Reynaldo Guerra,,"Garza, Reynaldo Guerra",1935.0,University of Texas,1937.0,University of Texas,1939.0,,,,,Fifth
+University of Texas,,,Reavley, Thomas Morrow,,"Reavley, Thomas Morrow",1942.0,Harvard University,1948.0,University of Virginia,1983.0,,,,,Fifth
+Florida A&M University,,,Hatchett, Joseph Woodrow,,"Hatchett, Joseph Woodrow",1954.0,Howard University,1959.0,University of Virginia,,,,,,Fifth
+Yale University,,,Anderson, R[obert] Lanier III,,"Anderson, R[obert] Lanier III",1958.0,Harvard University,1961.0,University of Virginia,,,,,,Fifth
+Mercer University,,,Henderson, Albert John,,"Henderson, Albert John",1947.0,Harvard University,,,,,,,,Fifth
+Smith College,,,King, Carolyn Dineen,,"King, Carolyn Dineen",1959.0,Yale University,1962.0,,,,,,,Fifth
+Washington University in St. Louis,,,Tate, Albert,,"Tate, Albert",1941.0,Yale University,1947.0,,,,,,,Fifth
+Baylor University,,,Johnson, Samuel,,"Johnson, Samuel",1946.0,University of Texas,1949.0,,,,,,,Fifth
+Washington and Lee University,,,Clark, Thomas Alonzo,,"Clark, Thomas Alonzo",1942.0,University of Georgia,1949.0,,,,,,,Fifth
+University of Denver,,,Williams, Jerre Stockton,,"Williams, Jerre Stockton",1938.0,Columbia University,1941.0,,,,,,,Fifth
+Princeton University,,,Garwood, William Lockhart,,"Garwood, William Lockhart",1952.0,University of Texas,1955.0,,,,,,,Fifth
+University of Alabama,,,Higginbotham, Patrick Errol,,"Higginbotham, Patrick Errol",1960.0,University of Alabama,1961.0,,,,,,,Fifth
+University of Mississippi,,,Jolly,,,Jolly,1959.0,University of Mississippi,1962.0,,,,,,,Fifth
+Tulane University,,,Davis,,,Davis,1960.0,University of Mississippi,,,,,,,,Fifth
+University of Texas,,,Hill, Robert Madden,,"Hill, Robert Madden",1948.0,University of Texas,1950.0,,,,,,,Fifth
+Cornell University,,,Jones, Edith Hollan,,"Jones, Edith Hollan",1971.0,University of Texas,1974.0,,,,,,,Fifth
+Yale University,,,Smith, Jerry Edwin,,"Smith, Jerry Edwin",1969.0,Yale University,1972.0,,,,,,,Fifth
+Tulane University,,,Duhe, John Malcolm,,"Duhe, John Malcolm",1955.0,Tulane University,1957.0,,,,,,,Fifth
+,,,Barksdale, Rhesa Hawkins,,"Barksdale, Rhesa Hawkins",1966.0,University of Mississippi,1972.0,,,,,,,Fifth
+Tulane University,,,Wiener, Jacques Loeb,,"Wiener, Jacques Loeb",1956.0,Tulane University,1961.0,,,,,,,Fifth
+University of Notre Dame,,,Garza, Emilio,,"Garza, Emilio",1969.0,University of Notre Dame,1970.0,University of Texas,1976.0,,,,,Fifth
+Rice University,,,DeMoss, Harold,,"DeMoss, Harold",1952.0,University of Texas,1955.0,University of Texas,,,,,,Fifth
+Dillard University,,,Stewart, Carl,,"Stewart, Carl",1971.0,Loyola University New Orleans,1974.0,University of Texas,,,,,,Fifth
+University of Houston,,,Benavides, Fortunato Pedro,,"Benavides, Fortunato Pedro",1968.0,University of Houston,1972.0,University of Texas,,,,,,Fifth
+University of Texas,,,Parker, Robert Manley,,"Parker, Robert Manley",1961.0,University of Texas,1964.0,University of Texas,,,,,,Fifth
+Louisiana Tech University,,,Dennis, James,,"Dennis, James",1959.0,Louisiana State University,1962.0,University of Virginia,1984.0,,,,,Fifth
+University of Alabama,,,Clement, Edith Brown,,"Clement, Edith Brown",1969.0,Tulane University,1973.0,University of Virginia,,,,,,Fifth
+San Antonio College,,,Prado, Edward Charles,,"Prado, Edward Charles",1967.0,University of Texas,1969.0,University of Texas,1972.0,,,,,Fifth
+Jones County Junior College,,,Pickering, Charles Willis,,"Pickering, Charles Willis",1957.0,University of Mississippi,1959.0,University of Mississippi,1961.0,,,,,Fifth
+Baylor University,,,Owen, Priscilla Richman,,"Owen, Priscilla Richman",1975.0,Baylor University,1977.0,University of Mississippi,,,,,,Fifth
+Baylor University,,,Elrod, Jennifer Walker,,"Elrod, Jennifer Walker",1988.0,Harvard University,1992.0,University of Mississippi,,,,,,Fifth
+Rice University,,,Southwick, Leslie,,"Southwick, Leslie",1972.0,University of Texas,1975.0,University of Mississippi,,,,,,Fifth
+Florida Institute of Technology,,,Haynes, Catharina,,"Haynes, Catharina",1983.0,Emory University,1986.0,University of Mississippi,,,,,,Fifth
+Millsaps College,,,Graves, James Earl,,"Graves, James Earl",1975.0,Syracuse University,1980.0,Syracuse University,1981.0,,,,,Fifth
+Harvard University,,,Higginson, Stephen Andrew,,"Higginson, Stephen Andrew",1983.0,Yale University,1987.0,University of Cambridge,1992.0,,,,,Fifth
+Dartmouth College,,,Costa, Gregg Jeffrey,,"Costa, Gregg Jeffrey",1994.0,University of Texas,1999.0,University of Cambridge,,,,,,Fifth
+Baylor University,,,Willett, Don,,"Willett, Don",1988.0,Duke University,1992.0,Duke University,1992.0,Duke University,2016.0,,,Fifth
+Stanford University,,,Ho, James,,"Ho, James",1995.0,University of Chicago,1999.0,Duke University,,,,,,Fifth
+Louisiana State University,,,Duncan, Stuart Kyle,,"Duncan, Stuart Kyle",1994.0,Louisiana State University,1997.0,Columbia University,2004.0,,,,,Fifth
+Louisiana State University,,,Engelhardt, Kurt Damian,,"Engelhardt, Kurt Damian",1982.0,Louisiana State University,1985.0,Columbia University,,,,,,Fifth
+University of Virginia,,,Oldham, Andrew Stephen,,"Oldham, Andrew Stephen",2001.0,University of Cambridge,2002.0,Harvard University,2005.0,,2009.0,,,Fifth
+University of Mississippi,,,Wilson, Cory Todd,,"Wilson, Cory Todd",1992.0,Yale University,1995.0,Harvard University,,,,,,Fifth
+University of Virginia,Union University,,Jackson, Howell Edmunds,,"Jackson, Howell Edmunds",1849.0,Samford University,1856.0,Harvard University,,,,,,Sixth
+Yale University,,,Taft, William Howard,,"Taft, William Howard",1878.0,University of Cincinnati,1880.0,Harvard University,,,,,,Sixth
+"Douglas University, Chicago, Illinois",Samford University,,Lurton, Horace Harmon,,"Lurton, Horace Harmon",1867.0,University of Cincinnati,,,,,,,,Sixth
+University of Michigan,University of Michigan,,Day, William Rufus,,"Day, William Rufus",1870.0,,1871.0,,,,,,,Sixth
+Middlebury College,,,Severens, Henry Franklin,,"Severens, Henry Franklin",1857.0,,1859.0,,,,,,,Sixth
+Swarthmore College,,,Richards, John Kelvey,,"Richards, John Kelvey",1875.0,Harvard University,1877.0,,1879.0,,,,,Sixth
+University of Cincinnati,,,Warrington, John Wesley,,"Warrington, John Wesley",1869.0,Harvard University,,,,,,,,Sixth
+University of Michigan,,,Knappen, Loyal Edwin,,"Knappen, Loyal Edwin",1873.0,,1875.0,University of Michigan,1876.0,,,,,Sixth
+University of Michigan,,,Denison, Arthur Carter,,"Denison, Arthur Carter",1883.0,,,,,,,,,Sixth
+,,,Donahue, Maurice,,"Donahue, Maurice",1885.0,,,,,,,,,Sixth
+,,,Moorman, Charles Harwood,,"Moorman, Charles Harwood",1900.0,,,,,,,,,Sixth
+,,,Hicks, Xenophon,,"Hicks, Xenophon",1891.0,Samford University,1892.0,,,,,,,Sixth
+University of Cincinnati,,,Hickenlooper, Smith,,"Hickenlooper, Smith",1901.0,Harvard University,1904.0,,,,,,,Sixth
+Harvard University,,,Mack, Julian William,,"Mack, Julian William",1887.0,Harvard University,,,,,,,,Sixth
+University of Michigan,,,Simons, Charles Casper,,"Simons, Charles Casper",1898.0,University of Michigan,1900.0,,,,,,,Sixth
+Case Western Reserve University,,,Allen, Florence Ellinwood,,"Allen, Florence Ellinwood",1904.0,Case Western Reserve University,1908.0,New York University,1913.0,,,,,Sixth
+University of Louisville,,,Hamilton, Elwood,,"Hamilton, Elwood",1904.0,Case Western Reserve University,,,,,,,,Sixth
+University of Alabama,,,Arant, Herschel Whitfield,,"Arant, Herschel Whitfield",1910.0,Yale University,1911.0,Yale University,1912.0,Yale University,1915.0,,,Sixth
+University of Virginia,,,Martin, John Donelson,,"Martin, John Donelson",1905.0,Yale University,,,,,,,,Sixth
+University of Michigan,,,McAllister, Thomas Francis,,"McAllister, Thomas Francis",1918.0,,1921.0,,,,,,,Sixth
+Princeton University,,,Miller, Shackelford,,"Miller, Shackelford",1914.0,Harvard University,1917.0,,,,,,,Sixth
+Yale University,,,Stewart, Potter,,"Stewart, Potter",1937.0,Yale University,1941.0,,,,,,,Sixth
+University of Michigan,,,Cecil, Lester LeFevre,,"Cecil, Lester LeFevre",1917.0,Yale University,,,,,,,,Sixth
+University of Cincinnati,,,Weick, Paul Charles,,"Weick, Paul Charles",1920.0,Yale University,,,,,,,,Sixth
+University of Notre Dame,,,O'Sullivan, Clifford Patrick,,"O'Sullivan, Clifford Patrick",1920.0,Yale University,,,,,,,,Sixth
+Samford University,,,Phillips, Harry,,"Phillips, Harry",1932.0,Samford University,1933.0,,,,,,,Sixth
+Southern Methodist University,,,Edwards, George Clifton,,"Edwards, George Clifton",1933.0,Harvard University,1934.0,Michigan State University,1944.0,Michigan State University,1949.0,,,Sixth
+Ohio Northern University,,,Celebrezze, Anthony Joseph,,"Celebrezze, Anthony Joseph",1936.0,Harvard University,,,,,,,,Sixth
+Miami University,,,Peck, John Weld II,,"Peck, John Weld II",1935.0,University of Cincinnati,1938.0,,,,,,,Sixth
+Fisk University,,,McCree, Wade Hampton,,"McCree, Wade Hampton",1941.0,Harvard University,1944.0,,,,,,,Sixth
+University of Kentucky,,,Combs, Bertram Thomas,,"Combs, Bertram Thomas",1937.0,Harvard University,,,,,,,,Sixth
+University of Wisconsin,,,Brooks, Henry Luesing,,"Brooks, Henry Luesing",1927.0,University of Louisville,1929.0,,,,,,,Sixth
+University of Tennessee,,,Miller, William Ernest,,"Miller, William Ernest",1930.0,Yale University,1933.0,,,,,,,Sixth
+Western Michigan University,,,Kent,,,Kent,1937.0,University of Michigan,1940.0,,,,,,,Sixth
+Centre College,,,Lively, Pierce,,"Lively, Pierce",1943.0,University of Virginia,1948.0,,,,,,,Sixth
+University of Michigan,,,Engel, Albert Joseph,,"Engel, Albert Joseph",1948.0,University of Michigan,1950.0,,,,,,,Sixth
+West Virginia State University,,,Keith, Damon Jerome,,"Keith, Damon Jerome",1943.0,Howard University,1949.0,Wayne State University,1956.0,,,,,Sixth
+Yale University,,,Merritt, Gilbert Stroud,,"Merritt, Gilbert Stroud",1957.0,Vanderbilt University,1960.0,Harvard University,1962.0,,,,,Sixth
+University of Michigan,,,Brown, Bailey,,"Brown, Bailey",1939.0,Harvard University,1942.0,Harvard University,,,,,,Sixth
+University of Michigan,,,Kennedy, Cornelia Groefsema,,"Kennedy, Cornelia Groefsema",1945.0,University of Michigan,1947.0,Harvard University,,,,,,Sixth
+Davidson College,,,Martin, Boyce Ficklen,,"Martin, Boyce Ficklen",1957.0,University of Virginia,1963.0,Harvard University,,,,,,Sixth
+Youngstown State University,,,Jones, Nathaniel Raphael,,"Jones, Nathaniel Raphael",1951.0,Youngstown State University,1955.0,Harvard University,,,,,,Sixth
+University of Michigan,,,Contie, Leroy John,,"Contie, Leroy John",1941.0,University of Michigan,1948.0,Harvard University,,,,,,Sixth
+Case Western Reserve University,,,Krupansky, Robert,,"Krupansky, Robert",1946.0,Case Western Reserve University,1948.0,Harvard University,,,,,,Sixth
+Washington and Lee University,,,Wellford, Harry Walker,,"Wellford, Harry Walker",1947.0,Vanderbilt University,1950.0,Harvard University,,,,,,Sixth
+East Tennessee State University,,,Milburn, Herbert Theodore,,"Milburn, Herbert Theodore",1953.0,University of Tennessee,1959.0,Harvard University,,,,,,Sixth
+Hamilton College,,,Nelson, David Aldrich,,"Nelson, David Aldrich",1954.0,Harvard University,1958.0,Harvard University,,,,,,Sixth
+University of Michigan,,,Guy, Ralph,,"Guy, Ralph",1951.0,University of Michigan,1953.0,Harvard University,,,,,,Sixth
+University of Detroit Mercy,,,Ryan, James Leo,,"Ryan, James Leo",1956.0,University of Detroit Mercy,1992.0,Harvard University,,,,,,Sixth
+Harvard University,,,Boggs, Danny Julian,,"Boggs, Danny Julian",1965.0,University of Chicago,1968.0,Harvard University,,,,,,Sixth
+Otterbein University,,,Norris, Alan Eugene,,"Norris, Alan Eugene",1957.0,New York University,1960.0,University of Virginia,1986.0,,,,,Sixth
+Wayne State University,,,Suhrheinrich, Richard Fred,,"Suhrheinrich, Richard Fred",1960.0,Michigan State University,1963.0,University of Virginia,1990.0,,,,,Sixth
+Vanderbilt University,,,Siler, Eugene Edward,,"Siler, Eugene Edward",1958.0,University of Virginia,1963.0,Georgetown University,1964.0,,,,,Sixth
+Ohio Wesleyan University,,,Batchelder, Alice Moore,,"Batchelder, Alice Moore",1964.0,University of Akron,1971.0,University of Virginia,1988.0,,,,,Sixth
+Vanderbilt University,,,Daughtrey, Martha Craig,,"Daughtrey, Martha Craig",1964.0,Vanderbilt University,1968.0,University of Virginia,,,,,,Sixth
+Radcliffe College,,,Moore, Karen Nelson,,"Moore, Karen Nelson",1970.0,Harvard University,1973.0,University of Virginia,,,,,,Sixth
+Tufts University,,,Cole, Ransey Guy,,"Cole, Ransey Guy",1972.0,Yale University,1975.0,University of Virginia,,,,,,Sixth
+University of North Carolina,,,Clay, Eric,,"Clay, Eric",1969.0,Yale University,1972.0,University of Virginia,,,,,,Sixth
+Massachusetts Institute of Technology,,,Gilman, Ronald Lee,,"Gilman, Ronald Lee",1964.0,Harvard University,1967.0,University of Virginia,,,,,,Sixth
+Vanderbilt University,,,Gibbons, Julia Smith,,"Gibbons, Julia Smith",1972.0,University of Virginia,1975.0,University of Virginia,,,,,,Sixth
+Stanford University,,,Rogers, John,,"Rogers, John",1970.0,University of Michigan,1974.0,University of Virginia,,,,,,Sixth
+Williams College,,,Sutton, Jeffrey,,"Sutton, Jeffrey",1983.0,Ohio State University,1990.0,University of Virginia,,,,,,Sixth
+University of Akron,,,Cook, Deborah,,"Cook, Deborah",1974.0,University of Akron,1978.0,University of Virginia,,,,,,Sixth
+University of Michigan,,,McKeague, David William,,"McKeague, David William",1968.0,University of Michigan,1971.0,University of Virginia,,,,,,Sixth
+Western Michigan University,,,Griffin, Richard Allen,,"Griffin, Richard Allen",1973.0,University of Michigan,1977.0,University of Virginia,,,,,,Sixth
+University of Michigan,,,Neilson, Susan Bieke,,"Neilson, Susan Bieke",1977.0,Wayne State University,1980.0,University of Virginia,,,,,,Sixth
+University of Michigan,,,Kethledge, Raymond,,"Kethledge, Raymond",1989.0,University of Michigan,1993.0,University of Virginia,,,,,,Sixth
+Barnard College,,,White, Helene,,"White, Helene",1975.0,University of Maryland,1978.0,University of Virginia,,,,,,Sixth
+Vanderbilt University,,,Stranch, Jane Branstetter,,"Stranch, Jane Branstetter",1975.0,Vanderbilt University,1978.0,University of Virginia,,,,,,Sixth
+University of Memphis,,,Donald, Bernice Bouie,,"Donald, Bernice Bouie",1974.0,University of Memphis,1979.0,University of Virginia,,,,,,Sixth
+Boston College,,,Thapar, Amul Roger,,"Thapar, Amul Roger",1991.0,"University of California, Berkeley",1994.0,University of Virginia,,,,,,Sixth
+Vanderbilt University,,,Bush, John Kenneth,,"Bush, John Kenneth",1986.0,Harvard University,1989.0,University of Virginia,,,,,,Sixth
+University of Northern Iowa,,,Larsen, Joan Louise,,"Larsen, Joan Louise",1990.0,Northwestern University,1993.0,University of Virginia,,,,,,Sixth
+University of Pennsylvania,,,Nalbandian, John Baylor,,"Nalbandian, John Baylor",1991.0,University of Virginia,1994.0,University of Virginia,,,,,,Sixth
+University of Michigan,,,Readler, Chad Andrew,,"Readler, Chad Andrew",1994.0,University of Michigan,1997.0,University of Virginia,,,,,,Sixth
+Miami University,,,Murphy, Eric Earl,,"Murphy, Eric Earl",2001.0,University of Chicago,2005.0,University of Virginia,,,,,,Sixth
+,,,Gresham, Walter Quintin,,"Gresham, Walter Quintin",1854.0,University of Chicago,,,,,,,,Seventh
+Wabash College,,,Woods, William Allen,,"Woods, William Allen",1859.0,,1861.0,,,,,,,Seventh
+,,,Jenkins, James Graham,,"Jenkins, James Graham",1855.0,,,,,,,,,Seventh
+Yale University,,,Showalter, John William,,"Showalter, John William",1867.0,,1871.0,,,,,,,Seventh
+Wittenberg College,,,Grosscup, Peter Stenger,,"Grosscup, Peter Stenger",1872.0,Boston University,1873.0,,,,,,,Seventh
+University of Michigan,,,Baker, Francis Elisha,,"Baker, Francis Elisha",1882.0,,1884.0,,,,,,,Seventh
+,,,Seaman, William Henry,,"Seaman, William Henry",1868.0,,,,,,,,,Seventh
+University of Chicago,Northwestern University,,Kohlsaat, Christian Cecil,,"Kohlsaat, Christian Cecil",1867.0,,,,,,,,,Seventh
+Harvard University,,,Mack, Julian William,,"Mack, Julian William",1887.0,,,,,,,,,Seventh
+,,,Alschuler, Samuel,,"Alschuler, Samuel",1881.0,,,,,,,,,Seventh
+University of Wisconsin,,,Evans, Evan Alfred,,"Evans, Evan Alfred",1897.0,University of Wisconsin,1899.0,,,,,,,Seventh
+University of Illinois,,,Page, George True,,"Page, George True",1882.0,University of Wisconsin,,,,,,,,Seventh
+Wabash College,,,Anderson, Albert Barnes,,"Anderson, Albert Barnes",1879.0,,1881.0,,,,,,,Seventh
+Indiana University,Indiana University,,Sparks, William Morris,,"Sparks, William Morris",1896.0,DePaul University,1896.0,,,,,,,Seventh
+Illinois Wesleyan University,,,FitzHenry, Louis,,"FitzHenry, Louis",1897.0,DePaul University,,,,,,,,Seventh
+DePaul University,,,Major, James Earl,,"Major, James Earl",1910.0,DePaul University,,,,,,,,Seventh
+Indiana University,,,Treanor, Walter Emanuel,,"Treanor, Walter Emanuel",1912.0,Indiana University,1922.0,,,,,,,Seventh
+Lake Forest College,,,Kerner, Otto,,"Kerner, Otto",1905.0,Indiana University,,,,,,,,Seventh
+Indiana University,,,Minton, Sherman,,"Minton, Sherman",1915.0,Yale University,1916.0,,,,,,,Seventh
+University of Wisconsin,,,Duffy, Francis Ryan,,"Duffy, Francis Ryan",1910.0,University of Wisconsin,1912.0,,,,,,,Seventh
+University of Chicago,,,Finnegan, Philip,,"Finnegan, Philip",1913.0,University of Wisconsin,,,,,,,,Seventh
+University of Illinois,,,Lindley, Walter,,"Lindley, Walter",1904.0,University of Illinois,1910.0,,,,,,,Seventh
+DePaul University,,,Swaim, Hardress Nathan,,"Swaim, Hardress Nathan",1913.0,University of Chicago,1916.0,,,,,,,Seventh
+University of Chicago,,,Schnackenberg, Elmer Jacob,,"Schnackenberg, Elmer Jacob",1912.0,University of Chicago,,,,,,,,Seventh
+,,,Hastings, John Simpson,,"Hastings, John Simpson",1920.0,Indiana University,1924.0,,,,,,,Seventh
+,,,Parkinson, William Lynn,,"Parkinson, William Lynn",1923.0,Indiana University,,,,,,,,Seventh
+DePaul University,,,Knoch, Winfred George,,"Knoch, Winfred George",1917.0,Indiana University,,,,,,,,Seventh
+Northwestern University,,,Castle, Latham,,"Castle, Latham",1924.0,Indiana University,,,,,,,,Seventh
+University of Notre Dame,,,Kiley, Roger Joseph,,"Kiley, Roger Joseph",1923.0,Indiana University,,,,,,,,Seventh
+University of Notre Dame,,,Swygert, Luther Merritt,,"Swygert, Luther Merritt",1927.0,Indiana University,,,,,,,,Seventh
+Cornell University,,,Fairchild, Thomas Edward,,"Fairchild, Thomas Edward",1934.0,University of Wisconsin,1938.0,,,,,,,Seventh
+Yale University,,,Cummings, Walter Joseph,,"Cummings, Walter Joseph",1937.0,Harvard University,1940.0,,,,,,,Seventh
+Brown University,,,Kerner, Otto,,"Kerner, Otto",1930.0,Northwestern University,1934.0,,,,,,,Seventh
+Indiana University,,,Pell, Wilbur Frank,,"Pell, Wilbur Frank",1937.0,Harvard University,1940.0,,,,,,,Seventh
+University of Chicago,,,Stevens, John Paul,,"Stevens, John Paul",1941.0,Northwestern University,1947.0,,,,,,,Seventh
+Central YMCA College,,,Sprecher, Robert Arthur,,"Sprecher, Robert Arthur",1936.0,Northwestern University,1938.0,Northwestern University,1941.0,,,,,Seventh
+University of Iowa,,,Tone, Philip Willis,,"Tone, Philip Willis",1943.0,University of Iowa,1948.0,Northwestern University,,,,,,Seventh
+Elmhurst University,,,Bauer, William Joseph,,"Bauer, William Joseph",1949.0,DePaul University,1952.0,Northwestern University,,,,,,Seventh
+University of Illinois,,,Wood, Harlington,,"Wood, Harlington",1942.0,University of Illinois,1948.0,Northwestern University,,,,,,Seventh
+,,,Cudahy, Richard Dickson,,"Cudahy, Richard Dickson",1948.0,Yale University,1955.0,Northwestern University,,,,,,Seventh
+Yale University,,,Posner, Richard Allen,,"Posner, Richard Allen",1959.0,Harvard University,1962.0,Northwestern University,,,,,,Seventh
+Indiana University,,,Eschbach, Jesse Ernest,,"Eschbach, Jesse Ernest",1943.0,Indiana University,1949.0,Northwestern University,,,,,,Seventh
+Marquette University,,,Coffey, John Louis,,"Coffey, John Louis",1943.0,Marquette University,1948.0,Northwestern University,,,,,,Seventh
+Union College,,,Flaum, Joel Martin,,"Flaum, Joel Martin",1958.0,Northwestern University,1963.0,Northwestern University,1964.0,,,,,Seventh
+Swarthmore College,,,Easterbrook, Frank Hoover,,"Easterbrook, Frank Hoover",1970.0,University of Chicago,1973.0,Northwestern University,,,,,,Seventh
+Fordham University,,,Ripple, Kenneth Francis,,"Ripple, Kenneth Francis",1965.0,University of Virginia,1968.0,Washington University in St. Louis,1972.0,,,,,Seventh
+University of Notre Dame,,,Manion, Daniel Anthony,,"Manion, Daniel Anthony",1964.0,Indiana University,1973.0,Washington University in St. Louis,,,,,,Seventh
+Indiana University,,,Kanne, Michael Stephen,,"Kanne, Michael Stephen",1962.0,Indiana University,1968.0,Washington University in St. Louis,,,,,,Seventh
+Bryn Mawr College,,,Rovner, Ilana Kara Diamond,,"Rovner, Ilana Kara Diamond",1960.0,Chicago-Kent College of Law,1966.0,Washington University in St. Louis,,,,,,Seventh
+University of Texas,,,Wood, Diane Pamela,,"Wood, Diane Pamela",1971.0,University of Texas,1975.0,Washington University in St. Louis,,,,,,Seventh
+Marquette University,,,Evans, Terence Thomas,,"Evans, Terence Thomas",1962.0,Marquette University,1967.0,Washington University in St. Louis,,,,,,Seventh
+Wayne State University,,,Williams, Ann Claire,,"Williams, Ann Claire",1970.0,University of Michigan,1972.0,University of Notre Dame,1975.0,,,,,Seventh
+Northwestern University,,,Sykes, Diane,,"Sykes, Diane",1980.0,Marquette University,1984.0,University of Notre Dame,,,,,,Seventh
+Indiana University,,,Tinder, John Daniel,,"Tinder, John Daniel",1972.0,Indiana University,1975.0,University of Notre Dame,,,,,,Seventh
+Haverford College,,,Hamilton, David Frank,,"Hamilton, David Frank",1979.0,Yale University,1983.0,University of Notre Dame,,,,,,Seventh
+Rhodes College,,,Barrett, Amy Coney,,"Barrett, Amy Coney",1994.0,University of Notre Dame,1997.0,University of Notre Dame,,,,,,Seventh
+University of Notre Dame,,,Brennan, Michael Brian,,"Brennan, Michael Brian",1986.0,Northwestern University,1989.0,University of Notre Dame,,,,,,Seventh
+"St. Joseph’s College, Rensselaer, Indiana",,,Scudder, Michael Yale University,,"Scudder, Michael Yale University",1993.0,Northwestern University,1998.0,University of Notre Dame,,,,,,Seventh
+Cornell University,,,St. Eve, Amy Joan,,"St. Eve, Amy Joan",1987.0,Cornell University,1990.0,University of Notre Dame,,,,,,Seventh
+Indiana University,,,Kirsch, Thomas Lee II,,"Kirsch, Thomas Lee II",1996.0,Harvard University,1999.0,University of Notre Dame,,,,,,Seventh
+Princeton University,,,Jackson-Akiwumi, Candace Rae,,"Jackson-Akiwumi, Candace Rae",2000.0,Yale University,2005.0,University of Notre Dame,,,,,,Seventh
+,,,Caldwell, Henry Clay,,"Caldwell, Henry Clay",1851.0,Yale University,,,,,,,,Eighth
+Dartmouth College,,,Sanborn, Walter Henry,,"Sanborn, Walter Henry",1867.0,Dartmouth College,1870.0,,1871.0,,,,,Eighth
+Hamilton College,,,Thayer, Amos Madden,,"Thayer, Amos Madden",1862.0,,1868.0,,,,,,,Eighth
+University of Cincinnati,,,Van Devanter, Willis,,"Van Devanter, Willis",1881.0,,,,,,,,,Eighth
+Washington University in St. Louis,,,Hook, William Cather,,"Hook, William Cather",1878.0,,,,,,,,,Eighth
+Yale University,,,Adams, Elmer Bragg,,"Adams, Elmer Bragg",1865.0,Harvard University,1868.0,,,,,,,Eighth
+University of Michigan,,,Carland, John Emmett,,"Carland, John Emmett",1877.0,Harvard University,,,,,,,,Eighth
+,,,Smith, Walter Inglewood,,"Smith, Walter Inglewood",1882.0,Harvard University,,,,,,,,Eighth
+Harvard University,University of Missouri,,Stone, Kimbrough,,"Stone, Kimbrough",1895.0,,1898.0,,,,,,,Eighth
+"Westminster College, Fulton, Missouri",,,Lewis, Robert,,"Lewis, Robert",1880.0,,,,,,,,,Eighth
+Grinnell College,University of Iowa,,Kenyon, William Squire,,"Kenyon, William Squire",1891.0,,,,,,,,,Eighth
+Yale University,,,Booth, Wilbur Franklin,,"Booth, Wilbur Franklin",1884.0,Yale University,1888.0,,,,,,,Eighth
+University of Michigan,,,Van Valkenburgh, Arba Seymour,,"Van Valkenburgh, Arba Seymour",1884.0,,1888.0,,,,,,,Eighth
+University of Michigan,,,Cotteral, John Hazelton,,"Cotteral, John Hazelton",1885.0,,,,,,,,,Eighth
+University of Iowa,,,Gardner, Archibald,,"Gardner, Archibald",1892.0,University of Iowa,1893.0,,,,,,,Eighth
+University of Minnesota,,,Sanborn, John Benjamin,,"Sanborn, John Benjamin",1905.0,Mitchell Hamline School of Law,1907.0,,,,,,,Eighth
+"Heidelberg University, Germany",,,Woodrough, Joseph William,,"Woodrough, Joseph William",1893.0,Mitchell Hamline School of Law,,,,,,,,Eighth
+Washington University in St. Louis,University of Missouri,,Faris, Charles Breckenridge,,"Faris, Charles Breckenridge",1889.0,University of Missouri,1889.0,,,,,,,Eighth
+University of Iowa,,,Thomas, Seth,,"Thomas, Seth",1904.0,University of Iowa,1906.0,University of Iowa,1910.0,,,,,Eighth
+University of Nebraska,,,Johnsen, Harvey,,"Johnsen, Harvey",1919.0,University of Nebraska,1921.0,University of Iowa,,,,,,Eighth
+Washington and Lee University,University of Arkansas,,Riddick, Walter Garrett,,"Riddick, Walter Garrett",1908.0,University of Nebraska,,,,,,,,Eighth
+,,,Collet, John Caskie,,"Collet, John Caskie",1920.0,University of Nebraska,,,,,,,,Eighth
+University of Minnesota,,,Vogel, Charles Joseph,,"Vogel, Charles Joseph",1923.0,University of Nebraska,,,,,,,,Eighth
+University of Iowa,,,Van Oosterhout, Martin Donald,,"Van Oosterhout, Martin Donald",1922.0,University of Iowa,1924.0,,,,,,,Eighth
+University of Missouri - Kansas City,,,Whittaker, Charles Evans,,"Whittaker, Charles Evans",1924.0,University of Iowa,,,,,,,,Eighth
+Benton College of Law,,,Matthes, Marion Charles,,"Matthes, Marion Charles",1928.0,University of Iowa,,,,,,,,Eighth
+Harvard University,,,Blackmun, Harry Andrew,,"Blackmun, Harry Andrew",1929.0,Harvard University,1932.0,,,,,,,Eighth
+,,,Ridge, Albert Alphonso,,"Ridge, Albert Alphonso",1923.0,Harvard University,,,,,,,,Eighth
+University of Arkansas,,,Mehaffy, Pat,,"Mehaffy, Pat",1927.0,Harvard University,,,,,,,,Eighth
+University of Missouri,,,Gibson, Floyd Robert,,"Gibson, Floyd Robert",1931.0,University of Missouri,1933.0,,,,,,,Eighth
+University of Iowa,,,Lay, Donald Pomery,,"Lay, Donald Pomery",1949.0,University of Iowa,1951.0,,,,,,,Eighth
+University of Minnesota,,,Heaney, Gerald William,,"Heaney, Gerald William",1939.0,University of Minnesota,1941.0,,,,,,,Eighth
+University of Minnesota,,,Bright, Myron,,"Bright, Myron",1939.0,University of Minnesota,1947.0,,,,,,,Eighth
+University of Nebraska,,,Ross, Donald Roe,,"Ross, Donald Roe",1948.0,University of Minnesota,,,,,,,,Eighth
+University of Iowa,,,Stephenson, Roy Laverne,,"Stephenson, Roy Laverne",1938.0,University of Iowa,1940.0,,,,,,,Eighth
+Amherst College,,,Webster, William Hedgcock,,"Webster, William Hedgcock",1947.0,Washington University in St. Louis,1949.0,,,,,,,Eighth
+University of Arkansas,,,Henley, Jesse Smith,,"Henley, Jesse Smith",1941.0,Washington University in St. Louis,,,,,,,,Eighth
+"Lincoln University, Missouri",,,McMillian, Theodore,,"McMillian, Theodore",1941.0,St. Louis University,1949.0,,,,,,,Eighth
+Yale University,,,Arnold, Richard Sheppard,,"Arnold, Richard Sheppard",1957.0,Harvard University,1960.0,,,,,,,Eighth
+University of Missouri,,,Gibson, John,,"Gibson, John",1949.0,University of Missouri,1952.0,,,,,,,Eighth
+Drake University,,,Fagg, George Gardner,,"Fagg, George Gardner",1956.0,Drake University,1958.0,,,,,,,Eighth
+Bridgewater College,,,Bowman, Pasco Middleton II,,"Bowman, Pasco Middleton II",1955.0,New York University,1958.0,University of Virginia,1986.0,,,,,Eighth
+Tabor College,,,Wollman, Roger Leland,,"Wollman, Roger Leland",1957.0,University of South Dakota,1962.0,Harvard University,1964.0,,,,,Eighth
+Georgetown University,,,Magill, Frank,,"Magill, Frank",1951.0,Columbia University,1953.0,Georgetown University,1955.0,,,,,Eighth
+University of Nebraska,,,Beam, C[larence] Arlen,,"Beam, C[larence] Arlen",1951.0,University of Nebraska,1965.0,Georgetown University,,,,,,Eighth
+University of Wisconsin,,,Loken, James,,"Loken, James",1962.0,Harvard University,1965.0,Georgetown University,,,,,,Eighth
+Northwest Missouri State University,,,Hansen, David Rasmussen,,"Hansen, David Rasmussen",1960.0,Washington University in St. Louis,1963.0,Georgetown University,,,,,,Eighth
+University of Arkansas,,,Arnold, Morris Sheppard,,"Arnold, Morris Sheppard",1965.0,University of Arkansas,1968.0,Harvard University,1969.0,Harvard University,1971.0,,,Eighth
+University of Minnesota,,,Murphy, Diana,,"Murphy, Diana",1954.0,University of Minnesota,1974.0,Harvard University,,,,,,Eighth
+St. John's University,,,Kelly, John David,,"Kelly, John David",1956.0,University of Michigan,1959.0,Harvard University,,,,,,Eighth
+University of North Dakota,,,Bye, Kermit Edward,,"Bye, Kermit Edward",1959.0,University of North Dakota,1962.0,Harvard University,,,,,,Eighth
+University of Nebraska,,,Riley, William Jay,,"Riley, William Jay",1969.0,University of Nebraska,1972.0,Harvard University,,,,,,Eighth
+Loras College,,,Melloy, Michael Joseph,,"Melloy, Michael Joseph",1970.0,University of Iowa,1974.0,Harvard University,,,,,,Eighth
+University of Arkansas,,,Smith, Lavenski,,"Smith, Lavenski",1981.0,University of Arkansas,1987.0,Harvard University,,,,,,Eighth
+Princeton University,,,Colloton, Steven,,"Colloton, Steven",1985.0,Yale University,1988.0,Harvard University,,,,,,Eighth
+Washington University in St. Louis,,,Gruender, Raymond,,"Gruender, Raymond",1984.0,Washington University in St. Louis,1987.0,Washington University in St. Louis,1987.0,,,,,Eighth
+Northwestern University,,,Benton College of Law, William Duane,,"Benton, William Duane",1972.0,Yale University,1975.0,University of Memphis,1979.0,University of Virginia,1994.0,,,Eighth
+Ouachita Baptist University,,,Shepherd, Bobby,,"Shepherd, Bobby",1973.0,University of Arkansas,1975.0,University of Memphis,,,,,,Eighth
+Duke University,,,Kelly, Jane Louise,,"Kelly, Jane Louise",1987.0,Harvard University,1991.0,University of Memphis,,,,,,Eighth
+Jamestown College,,,Erickson, Ralph,,"Erickson, Ralph",1980.0,University of North Dakota,1984.0,University of Memphis,,,,,,Eighth
+University of Nebraska,,,Grasz, Leonard Steven,,"Grasz, Leonard Steven",1984.0,University of Nebraska,1989.0,University of Memphis,,,,,,Eighth
+University of Kansas,,,Stras, David Ryan,,"Stras, David Ryan",1995.0,University of Kansas,1999.0,University of Kansas,1999.0,,,,,Eighth
+Dordt University,,,Kobes, Jonathan Allen,,"Kobes, Jonathan Allen",1996.0,Harvard University,2000.0,University of Kansas,,,,,,Eighth
+Case Western Reserve University,,,Sawyer, Lorenzo,,"Sawyer, Lorenzo",1846.0,Harvard University,,,,,,,,Ninth
+,,,McKenna, Joseph,,"McKenna, Joseph",1865.0,St. Augustine's College,1865.0,,,,,,,Ninth
+Williams College,,,Gilbert, William Ball,,"Gilbert, William Ball",1868.0,University of Michigan,1872.0,,,,,,,Ninth
+Virginia Military Institute,,,Ross, Erskine Mayo,,"Ross, Erskine Mayo",1865.0,,1869.0,,,,,,,Ninth
+,,,Morrow, William,,"Morrow, William",1869.0,,,,,,,,,Ninth
+,,,Hunt, William Henry,,"Hunt, William Henry",1880.0,,,,,,,,,Ninth
+Washington and Lee University,,,Rudkin, Frank,,"Rudkin, Frank",1887.0,,,,,,,,,Ninth
+Lafayette College,,,McCamant, Wallace,,"McCamant, Wallace",1888.0,,1890.0,,,,,,,Ninth
+Brown University,,,Dietrich, Frank Sigel,,"Dietrich, Frank Sigel",1887.0,Brown University,1890.0,,1891.0,,,,,Ninth
+,,,Wilbur, Curtis Dwight,,"Wilbur, Curtis Dwight",1888.0,,1890.0,,,,,,,Ninth
+,,,Sawtelle, William Henry,,"Sawtelle, William Henry",1886.0,,,,,,,,,Ninth
+,,,Garrecht, Francis Arthur,,"Garrecht, Francis Arthur",1894.0,,,,,,,,,Ninth
+"University of California, Berkeley",,,Denman, William,,"Denman, William",1894.0,Harvard University,1897.0,,,,,,,Ninth
+,,,Mathews, Clifton,,"Mathews, Clifton",1904.0,Harvard University,,,,,,,,Ninth
+University of Oregon,,,Haney, Bert Emory University,,"Haney, Bert Emory University",1903.0,Harvard University,,,,,,,,Ninth
+,,,Stephens, Albert Lee,,"Stephens, Albert Lee",1899.0,University of Southern California,1903.0,,,,,,,Ninth
+University of Iowa,,,Healy, William,,"Healy, William",1906.0,University of Iowa,1908.0,,,,,,,Ninth
+Tacoma Law School,,,Bone, Homer Truett,,"Bone, Homer Truett",1911.0,University of Iowa,,,,,,,,Ninth
+"University of Nevada, Reno",,,Orr, William Edwin,,"Orr, William Edwin",1912.0,University of Iowa,,,,,,,,Ninth
+University of Nebraska,,,Pope, Walter Lyndon,,"Pope, Walter Lyndon",1909.0,University of Chicago,1912.0,,,,,,,Ninth
+Stanford University,,,Lemmon, Dal Millington,,"Lemmon, Dal Millington",1908.0,University of Chicago,,,,,,,,Ninth
+University of Arizona,,,Chambers, Richard Harvey,,"Chambers, Richard Harvey",1929.0,Stanford University,1932.0,,,,,,,Ninth
+Whitman College,,,Fee, James Alger,,"Fee, James Alger",1910.0,Columbia University,1914.0,,,,,,,Ninth
+Harvard University,"University of California, Berkeley",,Barnes, Stanley Nelson,,"Barnes, Stanley Nelson",1922.0,"University of California, Berkeley",1925.0,,,,,,,Ninth
+University of Washington,,,Hamley, Frederick George,,"Hamley, Frederick George",1932.0,"University of California, Berkeley",,,,,,,,Ninth
+"University of California, Berkeley",,,Hamlin, Oliver Deveta,,"Hamlin, Oliver Deveta",1914.0,"University of California, Berkeley",,,,,,,,Ninth
+Stanford University,,,Jertberg, Gilbert,,"Jertberg, Gilbert",1920.0,Stanford University,1922.0,,,,,,,Ninth
+"University of California, Berkeley",,,Merrill, Charles Merton,,"Merrill, Charles Merton",1928.0,Harvard University,1931.0,,,,,,,Ninth
+University of Washington,,,Koelsch, Montgomery Oliver,,"Koelsch, Montgomery Oliver",1932.0,University of Washington,1935.0,,,,,,,Ninth
+University of Montana,,,Browning, James Robert,,"Browning, James Robert",1941.0,University of Washington,,,,,,,,Ninth
+Carleton College,,,Duniway, Benjamin Cushing,,"Duniway, Benjamin Cushing",1928.0,Stanford University,1931.0,University of Oxford,1933.0,University of Oxford,1964.0,,,Ninth
+University of Texas,,,Ely, Walter Raleigh,,"Ely, Walter Raleigh",1935.0,University of Texas,1935.0,University of Southern California,1949.0,University of Oxford,,,,Ninth
+Harvard University,Pomona College,,Carter, James Marshall,,"Carter, James Marshall",1924.0,University of Southern California,1927.0,University of Southern California,,,,,,Ninth
+University of New Mexico,,,Hufstedler, Shirley Ann Mount,,"Hufstedler, Shirley Ann Mount",1945.0,Stanford University,1949.0,University of Southern California,,,,,,Ninth
+University of Washington,,,Wright, Eugene Allen,,"Wright, Eugene Allen",1934.0,University of Washington,1937.0,University of Southern California,,,,,,Ninth
+University of Notre Dame,,,Kilkenny, John Francis,,"Kilkenny, John Francis",1925.0,University of Washington,,,,,,,,Ninth
+Washburn University,,,Trask, Ozell Miller,,"Trask, Ozell Miller",1931.0,Harvard University,1934.0,,,,,,,Ninth
+University of Hawaii,,,Choy, Herbert Young Cho,,"Choy, Herbert Young Cho",1938.0,Harvard University,1941.0,,,,,,,Ninth
+University of Oregon,,,Goodwin, Alfred Theodore,,"Goodwin, Alfred Theodore",1947.0,University of Oregon,1951.0,,,,,,,Ninth
+San Diego State University,,,Wallace, John Clifford,,"Wallace, John Clifford",1952.0,"University of California, Berkeley",1955.0,,,,,,,Ninth
+Southwestern University,,,Sneed, Joseph Tyree III,,"Sneed, Joseph Tyree III",1941.0,University of Texas,1947.0,Harvard University,1958.0,,,,,Ninth
+Stanford University,,,Kennedy, Anthony McLeod,,"Kennedy, Anthony McLeod",1958.0,Harvard University,1961.0,Harvard University,,,,,,Ninth
+University of Idaho,,,Anderson,,,Anderson,1949.0,Harvard University,,,,,,,,Ninth
+"University of Nevada, Reno",,,Hug, Procter Ralph,,"Hug, Procter Ralph",1953.0,Stanford University,1958.0,,,,,,,Ninth
+Santa Clara University,,,Tang, Thomas,,"Tang, Thomas",1947.0,University of Arizona,1950.0,,,,,,,Ninth
+Willamette University,,,Skopil, Otto Richard,,"Skopil, Otto Richard",1941.0,Willamette University,1946.0,,,,,,,Ninth
+Stanford University,,,Fletcher, Betty Binns,,"Fletcher, Betty Binns",1943.0,University of Washington,1956.0,,,,,,,Ninth
+Swarthmore College,,,Schroeder, Mary Murphy,,"Schroeder, Mary Murphy",1962.0,University of Chicago,1965.0,,,,,,,Ninth
+Morehouse College,,,Farris, Joseph Jerome,,"Farris, Joseph Jerome",1951.0,Clark Atlanta University,1955.0,University of Washington,1958.0,,,,,Ninth
+University of Southern California,,,Alarcón, Arthur Lawrence,,"Alarcón, Arthur Lawrence",1949.0,University of Southern California,1951.0,University of Washington,,,,,,Ninth
+"University of California, Los Angeles",,,Pregerson, Harry,,"Pregerson, Harry",1947.0,"University of California, Berkeley",1950.0,University of Washington,,,,,,Ninth
+"University of Nevada, Reno",,,Ferguson, Warren John,,"Ferguson, Warren John",1942.0,University of Southern California,1949.0,University of Washington,,,,,,Ninth
+University of Michigan,,,Poole, Cecil,,"Poole, Cecil",1935.0,University of Michigan,1938.0,Harvard University,1939.0,,,,,Ninth
+"University of California, Los Angeles",,,Nelson, Dorothy Wright,,"Nelson, Dorothy Wright",1950.0,"University of California, Los Angeles",1953.0,University of Southern California,1956.0,,,,,Ninth
+Yale University,,,Canby, William Cameron,,"Canby, William Cameron",1953.0,University of Minnesota,1956.0,University of Southern California,,,,,,Ninth
+Princeton University,,,Norris, William Albert,,"Norris, William Albert",1951.0,Stanford University,1954.0,University of Southern California,,,,,,Ninth
+Cornell University,,,Boochever, Robert,,"Boochever, Robert",1939.0,Cornell University,1941.0,University of Southern California,,,,,,Ninth
+Pomona College,,,Reinhardt, Stephen Roy,,"Reinhardt, Stephen Roy",1951.0,Yale University,1954.0,University of Southern California,,,,,,Ninth
+University of Virginia,,,Beezer, Robert,,"Beezer, Robert",1951.0,University of Virginia,1956.0,University of Southern California,,,,,,Ninth
+Stanford University,,,Hall, Cynthia Holcomb,,"Hall, Cynthia Holcomb",1951.0,Stanford University,1954.0,New York University,1960.0,,,,,Ninth
+University of Southern California,,,Wiggins, Charles Edward,,"Wiggins, Charles Edward",1953.0,University of Southern California,1956.0,New York University,,,,,,Ninth
+"University of California, Hastings College of the Law",,,Brunetti, Melvin,,"Brunetti, Melvin",1964.0,University of Southern California,,,,,,,,Ninth
+"University of California, Los Angeles",,,Kozinski, Alex,,"Kozinski, Alex",1972.0,"University of California, Los Angeles",1975.0,,,,,,,Ninth
+Harvard University,,,Noonan, John,,"Noonan, John",1946.0,Catholic University of America,1949.0,Catholic University of America,1951.0,Harvard University,1954.0,,,Ninth
+University of Southern California,,,Thompson, David,,"Thompson, David",1952.0,University of Southern California,1955.0,Catholic University of America,,,,,,Ninth
+St. John's University,,,O'Scannlain, Diarmuid Fionntain,,"O'Scannlain, Diarmuid Fionntain",1957.0,Harvard University,1963.0,University of Virginia,1992.0,,,,,Ninth
+University of Portland,,,Leavy, Edward,,"Leavy, Edward",1950.0,University of Notre Dame,1953.0,University of Virginia,,,,,,Ninth
+Wesleyan University,,,Trott, Stephen,,"Trott, Stephen",1962.0,Harvard University,1965.0,University of Virginia,,,,,,Ninth
+University of Southern California,,,Fernandez, Ferdinand Francis,,"Fernandez, Ferdinand Francis",1958.0,University of Southern California,1962.0,Harvard University,1963.0,,,,,Ninth
+Vassar College,,,Rymer, Pamela Ann,,"Rymer, Pamela Ann",1961.0,Stanford University,1964.0,Harvard University,,,,,,Ninth
+University of Idaho,,,Nelson, Thomas,,"Nelson, Thomas",1962.0,Stanford University,,,,,,,,Ninth
+Wesleyan University,,,Kleinfeld, Andrew Jay,,"Kleinfeld, Andrew Jay",1966.0,Harvard University,1969.0,,,,,,,Ninth
+Arizona State University,,,Hawkins, Michael Daly,,"Hawkins, Michael Daly",1967.0,Arizona State University,1970.0,University of Virginia,1998.0,,,,,Ninth
+"University of California, Los Angeles",,,Tashima, Atsushi Wallace,,"Tashima, Atsushi Wallace",1958.0,Harvard University,1961.0,University of Virginia,,,,,,Ninth
+Montana State University,,,Thomas, Sidney Runyan,,"Thomas, Sidney Runyan",1975.0,University of Montana,1978.0,University of Virginia,,,,,,Ninth
+Arizona State University,,,Silverman, Barry,,"Silverman, Barry",1973.0,Arizona State University,1976.0,University of Virginia,,,,,,Ninth
+Wellesley College,,,Graber, Susan,,"Graber, Susan",1969.0,Yale University,1972.0,University of Virginia,,,,,,Ninth
+University of Wyoming,,,McKeown,,,McKeown,1972.0,Georgetown University,1975.0,University of Virginia,,,,,,Ninth
+"University of California, Los Angeles",,,Wardlaw, Kim McLane,,"Wardlaw, Kim McLane",1976.0,"University of California, Los Angeles",1979.0,University of Virginia,,,,,,Ninth
+Harvard University,,,Fletcher, William,,"Fletcher, William",1968.0,University of Oxford,1970.0,Yale University,1975.0,,,,,Ninth
+"University of California, Santa Barbara",,,Fisher, Raymond,,"Fisher, Raymond",1961.0,Stanford University,1966.0,Yale University,,,,,,Ninth
+University of Pennsylvania,,,Gould, Ronald Murray,,"Gould, Ronald Murray",1968.0,University of Michigan,1973.0,Yale University,,,,,,Ninth
+Brigham Young University,,,Paez, Richard,,"Paez, Richard",1969.0,"University of California, Berkeley",1972.0,Yale University,,,,,,Ninth
+Radcliffe College,,,Berzon, Marsha Siegel,,"Berzon, Marsha Siegel",1966.0,"University of California, Berkeley",1973.0,Yale University,,,,,,Ninth
+Santa Clara University,,,Tallman, Richard,,"Tallman, Richard",1975.0,Northwestern University,1978.0,Yale University,,,,,,Ninth
+North Carolina A&T State University,,,Rawlinson, Johnnie,,"Rawlinson, Johnnie",1974.0,University of the Pacific,1979.0,Yale University,,,,,,Ninth
+Princeton University,,,Clifton, Richard,,"Clifton, Richard",1972.0,Yale University,1975.0,Yale University,,,,,,Ninth
+Brigham Young University,,,Bybee, Jay,,"Bybee, Jay",1977.0,Brigham Young University,1980.0,Yale University,,,,,,Ninth
+Stanford University,,,Callahan, Consuelo Maria,,"Callahan, Consuelo Maria",1972.0,University of the Pacific,1975.0,University of Virginia,2004.0,,,,,Ninth
+Stanford University,,,Bea, Carlos,,"Bea, Carlos",1956.0,Stanford University,1958.0,University of Virginia,,,,,,Ninth
+Brigham Young University,,,Smith, Milan Dale,,"Smith, Milan Dale",1966.0,University of Chicago,1969.0,University of Virginia,,,,,,Ninth
+"University of California, Berkeley",,,Ikuta, Sandra Segal,,"Ikuta, Sandra Segal",1976.0,Columbia University,1978.0,"University of California, Los Angeles",1988.0,,,,,Ninth
+Brigham Young University,,,Smith, N[orman] Randy,,"Smith, N[orman] Randy",1974.0,Brigham Young University,1977.0,"University of California, Los Angeles",,,,,,Ninth
+University of Kansas,,,Murguia, Mary Helen,,"Murguia, Mary Helen",1982.0,University of Kansas,1985.0,"University of California, Los Angeles",,,,,,Ninth
+University of Washington,,,Christen, Morgan,,"Christen, Morgan",1983.0,Golden Gate University,1986.0,"University of California, Los Angeles",,,,,,Ninth
+Occidental College,,,Nguyen, Jacqueline Hong-Ngoc,,"Nguyen, Jacqueline Hong-Ngoc",1987.0,"University of California, Los Angeles",1991.0,"University of California, Los Angeles",,,,,,Ninth
+"University of California, Berkeley",,,Watford, Paul Jeffrey,,"Watford, Paul Jeffrey",1989.0,"University of California, Los Angeles",1994.0,"University of California, Los Angeles",,,,,,Ninth
+Princeton University,,,Hurwitz, Andrew David,,"Hurwitz, Andrew David",1968.0,Yale University,1972.0,"University of California, Los Angeles",,,,,,Ninth
+"University of California, Berkeley",,,Owens, John Byron,,"Owens, John Byron",1993.0,Stanford University,1996.0,"University of California, Los Angeles",,,,,,Ninth
+Stanford University,,,Friedland, Michelle Taryn,,"Friedland, Michelle Taryn",1995.0,Stanford University,2000.0,"University of California, Los Angeles",,,,,,Ninth
+Union College,,,Bennett, Mark Jeremy,,"Bennett, Mark Jeremy",1976.0,Cornell University,1979.0,"University of California, Los Angeles",,,,,,Ninth
+Brigham Young University,,,Nelson, Ryan Douglas,,"Nelson, Ryan Douglas",1996.0,Brigham Young University,1999.0,"University of California, Los Angeles",,,,,,Ninth
+Harvard University,,,Miller, Eric David,,"Miller, Eric David",1996.0,University of Chicago,1999.0,"University of California, Los Angeles",,,,,,Ninth
+Arizona State University,,,Bade, Bridget Shelton,,"Bade, Bridget Shelton",1987.0,Arizona State University,1990.0,"University of California, Los Angeles",,,,,,Ninth
+Harvard University,,,Collins, Daniel Paul,,"Collins, Daniel Paul",1985.0,Stanford University,1988.0,"University of California, Los Angeles",,,,,,Ninth
+Cornell University,,,Lee, Kenneth Kiyul,,"Lee, Kenneth Kiyul",1997.0,Harvard University,2000.0,"University of California, Los Angeles",,,,,,Ninth
+Harvard University,,,Bress, Daniel Aaron,,"Bress, Daniel Aaron",2001.0,University of Virginia,2005.0,"University of California, Los Angeles",,,,,,Ninth
+Brigham Young University - Idaho,,,Forrest, Danielle Jo,,"Forrest, Danielle Jo",1996.0,University of Idaho,2001.0,University of Idaho,2004.0,,,,,Ninth
+Yale University,,,Bumatay, Patrick Joseph,,"Bumatay, Patrick Joseph",2000.0,Harvard University,2006.0,University of Idaho,,,,,,Ninth
+Montana State University,,,VanDyke, Lawrence James Christopher,,"VanDyke, Lawrence James Christopher",1997.0,Montana State University,2000.0,Bear Valley Bible Institute,2002.0,Harvard University,2005.0,,,Ninth
+"Westminster College, Fulton, Missouri",,,Lewis, Robert,,"Lewis, Robert",1880.0,Montana State University,,,,,,,,Tenth
+University of Michigan,,,Cotteral, John Hazelton,,"Cotteral, John Hazelton",1885.0,Montana State University,,,,,,,,Tenth
+University of Michigan,,,Phillips, Orie Leon,,"Phillips, Orie Leon",1908.0,Montana State University,,,,,,,,Tenth
+University of Chicago,,,McDermott, George Thomas,,"McDermott, George Thomas",1908.0,University of Chicago,1909.0,,,,,,,Tenth
+,,,Bratton, Sam Gilbert,,"Bratton, Sam Gilbert",1909.0,University of Chicago,,,,,,,,Tenth
+,,,Williams, Robert Lee,,"Williams, Robert Lee",1891.0,Southern University and A & M College,1892.0,Southern University and A & M College,1894.0,,,,,Tenth
+University of Kansas,,,Huxman, Walter August,,"Huxman, Walter August",1914.0,Southern University and A & M College,,,,,,,,Tenth
+University of Oklahoma,,,Murrah, Alfred Paul,,"Murrah, Alfred Paul",1928.0,Southern University and A & M College,,,,,,,,Tenth
+University of Nebraska,,,Pickett, John Coleman,,"Pickett, John Coleman",1922.0,Southern University and A & M College,,,,,,,,Tenth
+University of Utah,,,Lewis, David Thomas,,"Lewis, David Thomas",1935.0,University of Utah,1937.0,,,,,,,Tenth
+University of Colorado,,,Breitenstein, Jean Sala,,"Breitenstein, Jean Sala",1922.0,University of Colorado,1924.0,,,,,,,Tenth
+Washburn University,,,Hill, Delmas Carl,,"Hill, Delmas Carl",1929.0,University of Colorado,,,,,,,,Tenth
+Stanford University,,,Seth, Oliver,,"Seth, Oliver",1937.0,Yale University,1940.0,,,,,,,Tenth
+University of Wyoming,,,Hickey, John Joseph,,"Hickey, John Joseph",1934.0,Yale University,,,,,,,,Tenth
+University of Oklahoma,,,Holloway, William Judson,,"Holloway, William Judson",1947.0,Harvard University,1950.0,,,,,,,Tenth
+University of Denver,,,McWilliams, Robert Hugh,,"McWilliams, Robert Hugh",1938.0,University of Denver,1941.0,,,,,,,Tenth
+University of Wyoming,,,Barrett, James Emmett,,"Barrett, James Emmett",1949.0,University of Denver,,,,,,,,Tenth
+Washington University in St. Louis,,,Doyle, William Edward,,"Doyle, William Edward",1937.0,University of Colorado,1940.0,,,,,,,Tenth
+Brigham Young University,,,McKay, Monroe,,"McKay, Monroe",1957.0,University of Chicago,1960.0,,,,,,,Tenth
+University of Kansas,,,Logan, James Kenneth,,"Logan, James Kenneth",1952.0,Harvard University,1955.0,,,,,,,Tenth
+Smith College,,,Seymour, Stephanie Kulp,,"Seymour, Stephanie Kulp",1962.0,Harvard University,1965.0,,,,,,,Tenth
+University of Denver,,,Porfilio, John Carbone,,"Porfilio, John Carbone",1956.0,University of Denver,1959.0,,,,,,,Tenth
+University of Utah,,,Anderson, Stephen Hale,,"Anderson, Stephen Hale",1960.0,University of Denver,,,,,,,,Tenth
+University of Kansas,,,Tacha, Deanell Reece,,"Tacha, Deanell Reece",1968.0,University of Michigan,1971.0,,,,,,,Tenth
+New Mexico Military Institute,,,Baldock, Bobby Ray,,"Baldock, Bobby Ray",1956.0,University of Arizona,1960.0,,,,,,,Tenth
+University of Wyoming,,,Brorby, Wade,,"Brorby, Wade",1956.0,University of Wyoming,1958.0,,,,,,,Tenth
+Northwestern University,,,Ebel, David,,"Ebel, David",1962.0,University of Michigan,1965.0,,,,,,,Tenth
+University of Notre Dame,,,Kelly, Paul Joseph,,"Kelly, Paul Joseph",1963.0,Fordham University,1967.0,,,,,,,Tenth
+University of Oklahoma,,,Henry, Robert Harlan,,"Henry, Robert Harlan",1974.0,University of Oklahoma,1976.0,,,,,,,Tenth
+University of Kansas,,,Briscoe, Mary Beck,,"Briscoe, Mary Beck",1969.0,University of Kansas,1973.0,University of Virginia,1990.0,,,,,Tenth
+Adams State University,,,Lucero, Carlos,,"Lucero, Carlos",1961.0,Washington University in St. Louis,1964.0,University of Virginia,,,,,,Tenth
+Creighton University,,,Murphy, Michael,,"Murphy, Michael",1969.0,University of Wyoming,1972.0,University of Virginia,,,,,,Tenth
+Harvard University,,,Hartz, Harris,,"Hartz, Harris",1967.0,Harvard University,1972.0,University of Virginia,,,,,,Tenth
+University of Wyoming,,,O'Brien, Terrence,,"O'Brien, Terrence",1965.0,University of Wyoming,1972.0,University of Virginia,,,,,,Tenth
+Michigan State University,,,McConnell, Michael,,"McConnell, Michael",1976.0,University of Chicago,1979.0,University of Virginia,,,,,,Tenth
+University of Colorado,,,Tymkovich, Timothy,,"Tymkovich, Timothy",1979.0,University of Colorado,1982.0,University of Virginia,,,,,,Tenth
+Columbia University,,,Gorsuch, Neil,,"Gorsuch, Neil",1988.0,Harvard University,1991.0,University of Oxford,2004.0,,,,,Tenth
+Wake Forest University,,,Holmes, Jerome,,"Holmes, Jerome",1983.0,Georgetown University,1988.0,Harvard University,2000.0,,,,,Tenth
+University of Oxford,,,Matheson, Scott Milne,,"Matheson, Scott Milne",1975.0,Yale University,1980.0,Harvard University,,,,,,Tenth
+University of Oklahoma,,,Bacharach, Robert Edwin,,"Bacharach, Robert Edwin",1981.0,Washington University in St. Louis,1985.0,Harvard University,,,,,,Tenth
+University of Wyoming,,,Phillips, Gregory Alan,,"Phillips, Gregory Alan",1983.0,University of Wyoming,1987.0,Harvard University,,,,,,Tenth
+University of Utah,,,McHugh, Carolyn Baldwin,,"McHugh, Carolyn Baldwin",1978.0,University of Utah,1982.0,Harvard University,,,,,,Tenth
+Washburn University,,,Moritz, Nancy Louise,,"Moritz, Nancy Louise",1982.0,Washburn University,1985.0,Harvard University,,,,,,Tenth
+Stanford University,,,Eid, Allison Hartwell,,"Eid, Allison Hartwell",1987.0,University of Chicago,1991.0,Harvard University,,,,,,Tenth
+Texas Tech University,,,Carson, Joel McElroy III,,"Carson, Joel McElroy III",1994.0,University of New Mexico,1997.0,Harvard University,,,,,,Tenth
+Columbia University,,,Rossman, Veronica Sophia,,"Rossman, Veronica Sophia",1993.0,"University of California, Hastings College of the Law",1997.0,Harvard University,,,,,,Tenth
+St. Petersburg College,,,Roney, Paul Hitch,,"Roney, Paul Hitch",1940.0,University of Pennsylvania,1942.0,Harvard University,1948.0,University of Virginia,1984.0,,,Eleventh
+Mercer University,,,Henderson, Albert John,,"Henderson, Albert John",1947.0,University of Pennsylvania,,,,,,,,Eleventh
+University of Georgia,,,Morgan, Lewis Render,,"Morgan, Lewis Render",1935.0,University of Pennsylvania,,,,,,,,Eleventh
+Auburn University,,,Godbold, John Cooper,,"Godbold, John Cooper",1940.0,Harvard University,1948.0,,,,,,,Eleventh
+Goucher College,,,Kravitch, Phyllis,,"Kravitch, Phyllis",1941.0,University of Maryland,1943.0,,,,,,,Eleventh
+Cornell University,,,Tuttle, Elbert Parr,,"Tuttle, Elbert Parr",1918.0,Cornell University,1923.0,,,,,,,Eleventh
+University of Alabama,,,Johnson, Frank Minis,,"Johnson, Frank Minis",1943.0,Cornell University,,,,,,,,Eleventh
+University of Florida,,,Simpson, John Milton Bryan,,"Simpson, John Milton Bryan",1926.0,Cornell University,,,,,,,,Eleventh
+University of South Carolina,,,Hill, James Clinkscales,,"Hill, James Clinkscales",1948.0,Emory University,1948.0,,,,,,,Eleventh
+Washington and Lee University,,,Clark, Thomas Alonzo,,"Clark, Thomas Alonzo",1942.0,University of Georgia,1949.0,,,,,,,Eleventh
+,,,Rives, Richard Taylor,,"Rives, Richard Taylor",1914.0,University of Georgia,,,,,,,,Eleventh
+Florida A&M University,,,Hatchett, Joseph Woodrow,,"Hatchett, Joseph Woodrow",1954.0,Howard University,1959.0,,,,,,,Eleventh
+Rollins College,,,Fay, Peter Thorp,,"Fay, Peter Thorp",1951.0,University of Florida,1956.0,,,,,,,Eleventh
+University of Alabama,,,Vance, Robert Smith,,"Vance, Robert Smith",1950.0,University of Alabama,1952.0,Washington University in St. Louis,1955.0,,,,,Eleventh
+University of Denver,,,Jones, Warren Leroy,,"Jones, Warren Leroy",1924.0,University of Alabama,,,,,,,,Eleventh
+Stetson University,,,Dyer, David William,,"Dyer, David William",1933.0,University of Alabama,,,,,,,,Eleventh
+Duke University,,,Tjoflat, Gerald Bard,,"Tjoflat, Gerald Bard",1957.0,University of Alabama,,,,,,,,Eleventh
+Yale University,,,Anderson, R[obert] Lanier III,,"Anderson, R[obert] Lanier III",1958.0,Harvard University,1961.0,,,,,,,Eleventh
+Emory University,,,Edmondson, James Larry,,"Edmondson, James Larry",1968.0,University of Georgia,1971.0,University of Virginia,1990.0,,,,,Eleventh
+University of Alabama,,,Cox, Emmett Ripley,,"Cox, Emmett Ripley",1957.0,University of Alabama,1959.0,University of Virginia,,,,,,Eleventh
+University of Virginia,,,Birch, Stanley,,"Birch, Stanley",1967.0,Emory University,1970.0,Emory University,1976.0,,,,,Eleventh
+University of Alabama,,,Dubina, Joel Fredrick,,"Dubina, Joel Fredrick",1970.0,Samford University,1973.0,Emory University,,,,,,Eleventh
+Florida State University,,,Black, Susan Harrell,,"Black, Susan Harrell",1964.0,University of Florida,1967.0,University of Virginia,1984.0,,,,,Eleventh
+University of Alabama,,,Carnes, Edward Earl,,"Carnes, Edward Earl",1972.0,Harvard University,1975.0,University of Virginia,,,,,,Eleventh
+"St. Joseph's College, Jensen Beach, Florida",,,Barkett, Rosemary,,"Barkett, Rosemary",1959.0,Spring Hill College,1967.0,University of Florida,1970.0,,,,,Eleventh
+Randolph College,,,Hull, Frank,,"Hull, Frank",1970.0,Emory University,1973.0,University of Florida,,,,,,Eleventh
+"Queens College, City University of New York",,,Marcus, Stanley,,"Marcus, Stanley",1967.0,Harvard University,1971.0,University of Florida,,,,,,Eleventh
+University of Notre Dame,,,Wilson, Charles,,"Wilson, Charles",1976.0,University of Notre Dame,1979.0,University of Florida,,,,,,Eleventh
+University of Louisiana at Monroe,,,Pryor, William Holcombe,,"Pryor, William Holcombe",1984.0,Tulane University,1987.0,University of Florida,,,,,,Eleventh
+Stetson University,,,Martin, Beverly Baldwin,,"Martin, Beverly Baldwin",1976.0,University of Georgia,1981.0,University of Florida,,,,,,Eleventh
+University of Miami,,,Jordan, Adalberto Jose,,"Jordan, Adalberto Jose",1984.0,University of Miami,1987.0,University of Florida,,,,,,Eleventh
+Cornell University,,,Rosenbaum, Robin Stacie,,"Rosenbaum, Robin Stacie",1988.0,University of Miami,1991.0,University of Florida,,,,,,Eleventh
+University of Georgia,,,Carnes, Julie,,"Carnes, Julie",1972.0,University of Georgia,1975.0,University of Florida,,,,,,Eleventh
+College of William and Mary,,,Pryor, Jill Anne,,"Pryor, Jill Anne",1985.0,Yale University,1988.0,University of Florida,,,,,,Eleventh
+Samford University,,,Newsom, Kevin Christopher,,"Newsom, Kevin Christopher",1994.0,Harvard University,1997.0,University of Florida,,,,,,Eleventh
+Davidson College,,,Branch, Elizabeth Lee,,"Branch, Elizabeth Lee",1990.0,Emory University,1994.0,University of Florida,,,,,,Eleventh
+Wake Forest University,,,Grant, Britt Cagle,,"Grant, Britt Cagle",2000.0,Stanford University,2007.0,University of Florida,,,,,,Eleventh
+University of Florida,,,Luck, Robert Joshua,,"Luck, Robert Joshua",2000.0,University of Florida,2004.0,University of Florida,,,,,,Eleventh
+Florida International University,,,Lagoa, Barbara,,"Lagoa, Barbara",1989.0,Columbia University,1992.0,University of Florida,,,,,,Eleventh
+Samford University,,,Brasher, Andrew Lynn,,"Brasher, Andrew Lynn",2002.0,Harvard University,2006.0,University of Florida,,,,,,Eleventh
+Washington and Lee University,,,Shepard, Seth,,"Shepard, Seth",1868.0,Harvard University,,,,,,,,District of Columbia
+Georgetown University,,,Morris, Martin Ferdinand,,"Morris, Martin Ferdinand",1854.0,,1863.0,,,,,,,District of Columbia
+,,,Alvey, Richard Henry,,"Alvey, Richard Henry",1849.0,,,,,,,,,District of Columbia
+Hamilton College,,,Duell, Charles Holland,,"Duell, Charles Holland",1871.0,Hamilton College,1872.0,,,,,,,District of Columbia
+Dickinson College,,,McComas, Louis Emory University,,"McComas, Louis Emory University",1866.0,,1868.0,,,,,,,District of Columbia
+,,,Robb, Charles Henry,,"Robb, Charles Henry",1892.0,,,,,,,,,District of Columbia
+"Westminster College, New Wilmington, Pennsylvania",,,Van Orsdel, Josiah Alexander,,"Van Orsdel, Josiah Alexander",1885.0,,1890.0,,,,,,,District of Columbia
+,,,Smyth, Constantine Joseph,,"Smyth, Constantine Joseph",1885.0,Creighton University,1907.0,,,,,,,District of Columbia
+"Heidelberg University, Germany",Wittenberg College,,Martin, George Ewing,,"Martin, George Ewing",1877.0,,1883.0,,,,,,,District of Columbia
+Harvard University,Georgetown University,,Hitz, William,,"Hitz, William",1900.0,,,,,,,,,District of Columbia
+University of Virginia,Washington and Lee University,,Groner, Duncan Lawrence,,"Groner, Duncan Lawrence",,,,,,,,,,District of Columbia
+"University of California, Berkeley",Cornell University,,Stephens, Harold Montelle,,"Stephens, Harold Montelle",1909.0,Harvard University,1913.0,Harvard University,1932.0,,,,,District of Columbia
+Stanford University,,,Miller, Justin,,"Miller, Justin",1911.0,University of Montana,1913.0,Stanford University,1914.0,,,,,District of Columbia
+Centre College,,,Vinson, Frederick Moore,,"Vinson, Frederick Moore",1909.0,Central University (now Eastern Kentucky University),1911.0,Stanford University,,,,,,District of Columbia
+Cornell University,,,Edgerton, Henry White,,"Edgerton, Henry White",1910.0,Harvard University,1914.0,Stanford University,,,,,,District of Columbia
+University of Wisconsin,,,Rutledge, Wiley Blount,,"Rutledge, Wiley Blount",1914.0,University of Colorado,1922.0,Stanford University,,,,,,District of Columbia
+Princeton University,,,Arnold, Thurman Wesley,,"Arnold, Thurman Wesley",1911.0,Harvard University,1914.0,Stanford University,,,,,,District of Columbia
+University of Missouri,,,Clark, Bennett Champ,,"Clark, Bennett Champ",1913.0,Washington University in St. Louis,1914.0,Stanford University,,,,,,District of Columbia
+Randolph-Macon College,,,Prettyman, Elijah Barrett,,"Prettyman, Elijah Barrett",1910.0,Randolph-Macon College,1911.0,Georgetown University,1915.0,,,,,District of Columbia
+University of Michigan,,,Miller, Wilbur Kingsbury,,"Miller, Wilbur Kingsbury",1916.0,Randolph-Macon College,,,,,,,,District of Columbia
+Washington University in St. Louis,,,Proctor, James McPherson,,"Proctor, James McPherson",1904.0,Randolph-Macon College,,,,,,,,District of Columbia
+Yale University,,,Washington, George Thomas,,"Washington, George Thomas",1928.0,University of Oxford,1931.0,Yale University,1932.0,,,,,District of Columbia
+Georgetown University,,,Fahy, Charles,,"Fahy, Charles",1914.0,University of Oxford,,,,,,,,District of Columbia
+Northwestern University,,,Bazelon, David,,"Bazelon, David",1931.0,,1932.0,,,,,,,District of Columbia
+Yale University,Yale University,,Danaher, John Anthony,,"Danaher, John Anthony",1920.0,,,,,,,,,District of Columbia
+Georgetown University,,,Bastian, Walter Maximillian,,"Bastian, Walter Maximillian",1913.0,,,,,,,,,District of Columbia
+Mitchell Hamline School of Law,,,Burger, Warren Earl,,"Burger, Warren Earl",1931.0,,,,,,,,,District of Columbia
+Loyola University New Orleans,,,Wright, James Skelly,,"Wright, James Skelly",1931.0,Loyola University New Orleans,1934.0,,,,,,,District of Columbia
+Dartmouth College,,,McGowan, Carl,,"McGowan, Carl",1932.0,Columbia University,1936.0,,,,,,,District of Columbia
+Georgetown University,,,Tamm, Edward Allen,,"Tamm, Edward Allen",1930.0,Suffolk University,1971.0,,,,,,,District of Columbia
+Columbia University,,,Leventhal, Harold,,"Leventhal, Harold",1934.0,Columbia University,1936.0,,,,,,,District of Columbia
+Howard University,,,Robinson, Spottswood William III,,"Robinson, Spottswood William III",1939.0,Columbia University,,,,,,,,District of Columbia
+University of Minnesota,,,MacKinnon, George Edward,,"MacKinnon, George Edward",1929.0,Columbia University,,,,,,,,District of Columbia
+Yale University,,,Robb, Roger,,"Robb, Roger",1928.0,Yale University,1931.0,,,,,,,District of Columbia
+Harvard University,,,Wilkey, Malcolm Richard,,"Wilkey, Malcolm Richard",1940.0,Harvard University,1948.0,,,,,,,District of Columbia
+Connecticut College,,,Wald, Patricia McGowan,,"Wald, Patricia McGowan",1948.0,Yale University,1951.0,,,,,,,District of Columbia
+University of Chicago,,,Mikva, Abner Joseph,,"Mikva, Abner Joseph",1951.0,Yale University,,,,,,,,District of Columbia
+Cornell University,,,Edwards, Harry Thomas,,"Edwards, Harry Thomas",1962.0,University of Michigan,1965.0,,,,,,,District of Columbia
+Cornell University,,,Ginsburg, Ruth Bader,,"Ginsburg, Ruth Bader",1954.0,Harvard University,1959.0,,,,,,,District of Columbia
+University of Chicago,,,Bork, Robert Heron,,"Bork, Robert Heron",1948.0,University of Chicago,1953.0,,,,,,,District of Columbia
+Georgetown University,,,Scalia, Antonin,,"Scalia, Antonin",1957.0,Harvard University,1960.0,,,,,,,District of Columbia
+Washington University in St. Louis,,,Starr, Kenneth Winston,,"Starr, Kenneth Winston",1968.0,Brown University,1969.0,Duke University,1973.0,,,,,District of Columbia
+Dartmouth College,,,Silberman, Laurence Hirsch,,"Silberman, Laurence Hirsch",1957.0,Harvard University,1961.0,Duke University,,,,,,District of Columbia
+Yale University,,,Buckley, James Lane,,"Buckley, James Lane",1943.0,Yale University,1949.0,Duke University,,,,,,District of Columbia
+Yale University,,,Williams, Stephen Fain,,"Williams, Stephen Fain",1958.0,Harvard University,1961.0,Duke University,,,,,,District of Columbia
+Cornell University,,,Ginsburg, Douglas Howard,,"Ginsburg, Douglas Howard",1970.0,University of Chicago,1973.0,Duke University,,,,,,District of Columbia
+University of North Carolina,,,Sentelle, David Bryan,,"Sentelle, David Bryan",1965.0,University of North Carolina,1968.0,Duke University,,,,,,District of Columbia
+College of the Holy Cross,,,Thomas, Clarence,,"Thomas, Clarence",1971.0,Yale University,1974.0,Duke University,,,,,,District of Columbia
+Duke University,,,Henderson, Karen LeCraft,,"Henderson, Karen LeCraft",1966.0,University of North Carolina,1969.0,Duke University,,,,,,District of Columbia
+Drexel University,,,Randolph, Arthur Raymond,,"Randolph, Arthur Raymond",1966.0,University of Maryland,1969.0,Duke University,,,,,,District of Columbia
+Radcliffe College,,,Rogers, Judith Ann Wilson,,"Rogers, Judith Ann Wilson",1961.0,Harvard University,1964.0,University of Virginia,1988.0,,,,,District of Columbia
+University of Michigan,,,Tatel, David,,"Tatel, David",1963.0,University of Chicago,1966.0,University of Virginia,,,,,,District of Columbia
+Harvard University,,,Garland, Merrick,,"Garland, Merrick",1974.0,Harvard University,1977.0,University of Virginia,,,,,,District of Columbia
+Harvard University,,,Roberts, John Glover,,"Roberts, John Glover",1976.0,Harvard University,1979.0,University of Virginia,,,,,,District of Columbia
+"California State University, Sacramento",,,Brown, Janice Rogers,,"Brown, Janice Rogers",1974.0,"University of California, Los Angeles",1977.0,University of Virginia,2004.0,,,,,District of Columbia
+Brigham Young University,,,Griffith, Thomas Beall,,"Griffith, Thomas Beall",1978.0,University of Virginia,1985.0,University of Virginia,,,,,,District of Columbia
+Yale University,,,Kavanaugh, Brett,,"Kavanaugh, Brett",1987.0,Yale University,1990.0,University of Virginia,,,,,,District of Columbia
+Stanford University,,,Srinivasan, Srikanth,,"Srinivasan, Srikanth",1989.0,Stanford University,1995.0,Stanford University,1995.0,,,,,District of Columbia
+University of Illinois,,,Millett, Patricia Ann,,"Millett, Patricia Ann",1985.0,Harvard University,1988.0,Stanford University,,,,,,District of Columbia
+Yale University,,,Pillard, Cornelia Thayer Livingston,,"Pillard, Cornelia Thayer Livingston",1983.0,Harvard University,1987.0,Stanford University,,,,,,District of Columbia
+Rose-Hulman Institute of Technology,,,Wilkins, Robert Leon,,"Wilkins, Robert Leon",1986.0,Harvard University,1989.0,Stanford University,,,,,,District of Columbia
+Princeton University,,,Katsas, Gregory George,,"Katsas, Gregory George",1986.0,Harvard University,1989.0,Stanford University,,,,,,District of Columbia
+Yale University,,,Rao, Neomi Jehangir,,"Rao, Neomi Jehangir",1995.0,University of Chicago,1999.0,,2002.0,,,,,District of Columbia
+Duke University,,,Walker, Justin Reed,,"Walker, Justin Reed",2004.0,Harvard University,2009.0,,,,,,,District of Columbia
+Harvard University,,,Jackson, Ketanji Brown,,"Jackson, Ketanji Brown",1992.0,Harvard University,1996.0,,,,,,,District of Columbia
+University of Chicago,Indiana University,Indiana University,Laramore, Don Nelson,,"Laramore, Don Nelson",,,,,,,,,,Federal
+Harvard University,,,Davis, Oscar Hirsh,,"Davis, Oscar Hirsh",1934.0,Columbia University,1937.0,,,,,,,Federal
+Harvard University,,,Nichols, Philip,,"Nichols, Philip",1929.0,Harvard University,1932.0,,,,,,,Federal
+University of Virginia,,,Smith, Edward Samuel,,"Smith, Edward Samuel",1941.0,University of Virginia,1947.0,,,,,,,Federal
+Creighton University,,,Miller, Jack Richard,,"Miller, Jack Richard",1938.0,Catholic University of America,1939.0,Columbia University,1946.0,University of Iowa,1946.0,,,Federal
+Missouri State University,,,Bennett, Marion Tinsley,,"Bennett, Marion Tinsley",1935.0,Washington University in St. Louis,1938.0,Columbia University,,,,,,Federal
+Harvard University,,,Rich, Giles Sutherland,,"Rich, Giles Sutherland",1926.0,Columbia University,1929.0,Columbia University,,,,,,Federal
+Columbia University,,,Friedman, Daniel Mortimer,,"Friedman, Daniel Mortimer",1937.0,Columbia University,1940.0,Columbia University,,,,,,Federal
+University of Texas,,,Skelton, Byron George,,"Skelton, Byron George",1927.0,University of Texas,1928.0,University of Texas,1931.0,,,,,Federal
+University of Michigan,,,Nies, Helen Wilson,,"Nies, Helen Wilson",1946.0,University of Michigan,1948.0,University of Texas,,,,,,Federal
+University of Texas,,,Cowen, Arnold Wilson,,"Cowen, Arnold Wilson",1928.0,University of Michigan,,,,,,,,Federal
+University of Virginia,,,Almond, James Lindsay,,"Almond, James Lindsay",1923.0,University of Michigan,,,,,,,,Federal
+South Texas College of Law,Baylor University,University of North Texas,Baldwin, Phillip Benjamin,,"Baldwin, Phillip Benjamin",1949.0,University of Michigan,,,,,,,,Federal
+Loyola University Chicago,,,Markey, Howard Thomas,,"Markey, Howard Thomas",1949.0,University of Illinois Chicago,1950.0,,,,,,,Federal
+University of Michigan,,,Kashiwa, Shiro,,"Kashiwa, Shiro",1935.0,University of Michigan,1936.0,,,,,,,Federal
+Vassar College,,,Newman, Pauline,,"Newman, Pauline",1947.0,Columbia University,1948.0,Yale University,1952.0,New York University,1958.0,,,Federal
+University of South Carolina,,,Bissell, Jean Galloway,,"Bissell, Jean Galloway",1956.0,University of South Carolina,1958.0,Yale University,,,,,,Federal
+Yale University,,,Archer, Glenn Leroy,,"Archer, Glenn Leroy",1951.0,Washington University in St. Louis,1954.0,Yale University,,,,,,Federal
+Judge Advocate General's Legal Center and School,,,Mayer, Haldane Robert,,"Mayer, Haldane Robert",1963.0,College of William and Mary,1971.0,Yale University,,,,,,Federal
+Williams College,,,Michel, Paul Redmond,,"Michel, Paul Redmond",1963.0,University of Virginia,1966.0,Yale University,,,,,,Federal
+University of North Carolina,,,Plager,,,Plager,1952.0,University of Florida,1958.0,Columbia University,1961.0,,,,,Federal
+Harvard University,,,Lourie, Alan David,,"Lourie, Alan David",1956.0,University of Wisconsin,1958.0,University of Pennsylvania,1965.0,Temple University,1970.0,,,Federal
+Yale University,,,Clevenger, Raymond Charles III,,"Clevenger, Raymond Charles III",1959.0,Yale University,1966.0,University of Pennsylvania,,,,,,Federal
+Brigham Young University,,,Rader, Randall Ray,,"Rader, Randall Ray",1974.0,Washington University in St. Louis,1978.0,University of Pennsylvania,,,,,,Federal
+Princeton University,,,Schall, Alvin Anthony,,"Schall, Alvin Anthony",1966.0,Tulane University,1969.0,University of Pennsylvania,,,,,,Federal
+Harvard University,,,Bryson, William Curtis,,"Bryson, William Curtis",1969.0,University of Texas,1973.0,University of Pennsylvania,,,,,,Federal
+Rensselaer Polytechnic Institute,,,Gajarsa, Arthur,,"Gajarsa, Arthur",1962.0,Catholic University of America,1964.0,Georgetown University,1967.0,,,,,Federal
+Rensselaer Polytechnic Institute,,,Linn, Richard,,"Linn, Richard",1965.0,Georgetown University,1969.0,Georgetown University,,,,,,Federal
+Harvard University,,,Dyk, Timothy,,"Dyk, Timothy",1958.0,Harvard University,1961.0,Georgetown University,,,,,,Federal
+Cornell University,,,Prost, Sharon,,"Prost, Sharon",1973.0,Washington University in St. Louis,1975.0,American University,1979.0,Washington University in St. Louis,1984.0,,,Federal
+Massachusetts Institute of Technology,,,Moore, Kimberly Ann,,"Moore, Kimberly Ann",1990.0,Massachusetts Institute of Technology,1991.0,Georgetown University,1994.0,Washington University in St. Louis,,,,Federal
+Kenyon College,,,O'Malley, Kathleen McDonald,,"O'Malley, Kathleen McDonald",1979.0,Case Western Reserve University,1982.0,Georgetown University,,,,,,Federal
+University of Rochester,,,Reyna, Jimmie,,"Reyna, Jimmie",1975.0,University of New Mexico,1978.0,Georgetown University,,,,,,Federal
+University of Arizona,,,Wallach, Evan Jonathan,,"Wallach, Evan Jonathan",1973.0,"University of California, Berkeley",1976.0,University of Cambridge,1981.0,,,,,Federal
+Pomona College,,,Taranto, Richard Gary,,"Taranto, Richard Gary",1977.0,Yale University,1981.0,University of Cambridge,,,,,,Federal
+"University of California, Los Angeles",,,Chen, Raymond,,"Chen, Raymond",1990.0,New York University,1994.0,University of Cambridge,,,,,,Federal
+Harvard University,,,Hughes, Todd Michael,,"Hughes, Todd Michael",1989.0,Duke University,1992.0,Duke University,1992.0,,,,,Federal
+Michigan State University,,,Stoll, Kara Farnandez,,"Stoll, Kara Farnandez",1991.0,Georgetown University,1997.0,Duke University,,,,,,Federal
+Massachusetts Institute of Technology,,,Cunningham, Tiffany Patrice,,"Cunningham, Tiffany Patrice",1998.0,Harvard University,2001.0,Duke University,,,,,,Federal

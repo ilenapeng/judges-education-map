@@ -1,0 +1,579 @@
+school,count,circuit,address,lat,lng
+Harvard University,24,District of Columbia,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+Yale University,16,District of Columbia,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Stanford University,14,District of Columbia,"450 Serra Mall, Stanford, CA 94305-2061",37.42765,-122.17006
+Duke University,11,District of Columbia,"207 Allen Bldg, Durham, NC 27708",35.99981,-78.94058
+University of Virginia,9,District of Columbia,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Georgetown University,7,District of Columbia,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+University of Chicago,6,District of Columbia,"5801 S Ellis Ave, Chicago, IL 60637",41.79006,-87.59982
+Columbia University,5,District of Columbia,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Cornell University,5,District of Columbia,"300 Day Hall, Ithaca, NY 14853",42.44723,-76.4831
+Randolph-Macon College,4,District of Columbia,"204 Henry Street, Ashland, VA 23005-5505",37.76081,-77.47817
+University of Michigan,3,District of Columbia,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+University of North Carolina,3,District of Columbia,"103 South Bldg Campus Box 9100, Chapel Hill, NC 27599",35.90882,-79.05217
+Washington University in St. Louis,3,District of Columbia,"One Brookings Dr, Saint Louis, MO 63130",38.64788,-90.3022
+Dartmouth College,2,District of Columbia,"207 Parkhurst Hall, Hanover, NH 03755",43.70251,-72.28799
+Hamilton College,2,District of Columbia,"198 College Hill Rd, Clinton, NY 13323",43.05062,-75.40227
+Loyola University New Orleans,2,District of Columbia,"6363 Saint Charles Ave, New Orleans, LA 70118-6143",29.93398,-90.12145
+Princeton University,2,District of Columbia,"One Nassau Hall, Princeton, NJ 08544-0015",40.34844,-74.6592
+Washington and Lee University,2,District of Columbia,"204 West Washington Street, Lexington, VA 24450-2116",37.78614,-79.44369
+Brigham Young University,1,District of Columbia,"Main Campus, Provo, UT 84602",40.25238,-111.64952
+Brown University,1,District of Columbia,"1 Prospect St, Providence, RI 02912",41.82532,-71.40438
+"California State University, Sacramento",1,District of Columbia,"6000 J St, Sacramento, CA 95819-6083",38.56124,-121.42446
+Central University (now Eastern Kentucky University),1,District of Columbia,"521 Lancaster Ave, Richmond, KY 40475-3102",37.72822,-84.30386
+Centre College,1,District of Columbia,"600 W Walnut St, Danville, KY 40422-1394",37.64488,-84.77743
+College of the Holy Cross,1,District of Columbia,"One College Street, 119 Fenwick Hall, Worcester, MA 01610-2395",42.23424,-71.81085
+Connecticut College,1,District of Columbia,"270 Mohegan Ave, New London, CT 06320",41.37848,-72.10378
+Creighton University,1,District of Columbia,"2500 California Plaza, Omaha, NE 68178",41.26533,-95.94935
+Dickinson College,1,District of Columbia,"P. O. Box 1773, Carlisle, PA 17013-2896",40.20067,-77.19723
+Drexel University,1,District of Columbia,"3141 Chestnut St, Philadelphia, PA 19104",39.95412,-75.18691
+Howard University,1,District of Columbia,"2400 Sixth St NW, Washington, DC 20059-0001",38.92314,-77.02158
+Mitchell Hamline School of Law,1,District of Columbia,"875 Summit Ave, St Paul, MN 55105",44.94213,-93.1377
+Northwestern University,1,District of Columbia,"633 Clark St, Evanston, IL 60208",42.04994,-87.67932
+Radcliffe College,1,District of Columbia,"52 Linnaean St, Cambridge, MA 02138",42.38297,-71.12436
+Rose-Hulman Institute of Technology,1,District of Columbia,"5500 Wabash Avenue, Terre Haute, IN 47803-3999",39.48102,-87.32362
+Suffolk University,1,District of Columbia,"73 Tremont Street, Boston, MA 02108",42.35782,-71.06081
+"University of California, Berkeley",1,District of Columbia,"200 California Hall, Berkeley, CA 94720-1500",37.87162,-122.26035
+"University of California, Los Angeles",1,District of Columbia,"405 Hilgard Ave, Los Angeles, CA 90095",34.07394,-118.43802
+University of Colorado,1,District of Columbia,"17 UCB, Boulder, CO 80309-0017",40.18845,-105.09389
+University of Illinois,1,District of Columbia,"601 E John Street, Champaign, IL 61820-5711",40.109,-88.23031
+University of Maryland,1,District of Columbia,"Main Administration Building, College Park, MD 20742-0001",38.98615,-76.94014
+University of Minnesota,1,District of Columbia,"202 Morrill Hall, 100 Church Street SE, Minneapolis, MN 55455-0213",44.97588,-93.23401
+University of Missouri,1,District of Columbia,"105 Jesse Hall, Columbia, MO 65211",38.94456,-92.32953
+University of Montana,1,District of Columbia,"32 Campus Drive, Missoula, MT 59812",46.86144,-113.9808
+University of Wisconsin,1,District of Columbia,"780 Regent St, Madison, WI 53708-8680",43.06842,-89.39851
+"Westminster College, New Wilmington, Pennsylvania",1,District of Columbia,"319 South Market Street, New Wilmington, PA 16172",41.11961,-80.33294
+Wittenberg College,1,District of Columbia,"Ward St at N Wittenberg Ave, Springfield, OH 45504",39.92811,-83.81397
+Harvard University,22,Eighth,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+University of Iowa,16,Eighth,"101 Jessup Hall, Iowa City, IA 52242-1316",41.66237,-91.53662
+University of Nebraska,12,Eighth,"2504 9th Avenue, Kearney, NE 68849-1201",40.70092,-99.09409
+University of Minnesota,9,Eighth,"202 Morrill Hall, 100 Church Street SE, Minneapolis, MN 55455-0213",44.97588,-93.23401
+University of Arkansas,8,Eighth,"2801 S University Ave, Little Rock, AR 72204",34.7247,-92.34103
+Washington University in St. Louis,8,Eighth,"One Brookings Dr, Saint Louis, MO 63130",38.64788,-90.3022
+University of Missouri,7,Eighth,"105 Jesse Hall, Columbia, MO 65211",38.94456,-92.32953
+Yale University,7,Eighth,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Georgetown University,5,Eighth,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+University of Memphis,5,Eighth,"341 Administration Building, Memphis, TN 38152",35.14956,-90.05089
+University of Kansas,4,Eighth,"230 Strong Hall 1450 Jayhawk Blvd., Lawrence, KS 66045-7535",38.95857,-95.24767
+University of Michigan,4,Eighth,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+University of North Dakota,3,Eighth,"264 Centennial Drive Stop 8193, Grand Forks, ND 58202-8193",47.9198,-97.07322
+Dartmouth College,2,Eighth,"207 Parkhurst Hall, Hanover, NH 03755",43.70251,-72.28799
+Drake University,2,Eighth,"2507 University Ave, Des Moines, IA 50311-4505",41.60056,-93.65103
+Mitchell Hamline School of Law,2,Eighth,"875 Summit Ave, St Paul, MN 55105",44.94213,-93.1377
+University of Virginia,2,Eighth,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Amherst College,1,Eighth,"P.O. Box 5000, Amherst, MA 01002-5000",42.37246,-72.51637
+Benton College of Law,1,Eighth,"1200 Market St, St. Louis, MO 63103",38.62649,-90.19953
+Bridgewater College,1,Eighth,"402 E College St, Bridgewater, VA 22812-1599",38.37801,-78.97105
+Columbia University,1,Eighth,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Dordt University,1,Eighth,"700 7th St NE, Sioux Center, IA 51250",43.0845,-96.16616
+Duke University,1,Eighth,"207 Allen Bldg, Durham, NC 27708",35.99981,-78.94058
+Grinnell College,1,Eighth,"1121 Park Street, Grinnell, IA 50112-1690",41.74694,-92.72267
+Hamilton College,1,Eighth,"198 College Hill Rd, Clinton, NY 13323",43.05062,-75.40227
+Jamestown College,1,Eighth,"6000 College Lane, Jamestown, ND 58405",46.91392,-98.69975
+"Lincoln University, Missouri",1,Eighth,"820 Chestnut Street, Jefferson City, MO 65102-0029",38.56479,-92.16956
+Loras College,1,Eighth,"1450 Alta Vista, Dubuque, IA 52004-0178",42.50334,-90.68129
+New York University,1,Eighth,"70 Washington Square South, New York, NY 10012-1091",40.72966,-73.99702
+Northwest Missouri State University,1,Eighth,"800 University Drive, Maryville, MO 64468-6001",40.35236,-94.88193
+Northwestern University,1,Eighth,"633 Clark St, Evanston, IL 60208",42.04994,-87.67932
+Ouachita Baptist University,1,Eighth,"410 Ouachita St, Arkadelphia, AR 71998-0001",34.12509,-93.05279
+Princeton University,1,Eighth,"One Nassau Hall, Princeton, NJ 08544-0015",40.34844,-74.6592
+St. John's University,1,Eighth,"8000 Utopia Parkway, Queens, NY 11439",40.72557,-73.79183
+St. Louis University,1,Eighth,"One Grand Boulevard, Saint Louis, MO 63103-2097",38.63619,-90.23324
+Tabor College,1,Eighth,"400 S Jefferson, Hillsboro, KS 67063-1799",38.34944,-97.20032
+University of Cincinnati,1,Eighth,"2600 Clifton Ave, Cincinnati, OH 45221",39.12995,-84.52051
+University of Missouri - Kansas City,1,Eighth,"5100 Rockhill Rd, Kansas City, MO 64110",39.03443,-94.57583
+University of South Dakota,1,Eighth,"414 E Clark St, Vermillion, SD 57069-2390",42.78261,-96.92495
+University of Wisconsin,1,Eighth,"780 Regent St, Madison, WI 53708-8680",43.06842,-89.39851
+Washington and Lee University,1,Eighth,"204 West Washington Street, Lexington, VA 24450-2116",37.78614,-79.44369
+"Westminster College, Fulton, Missouri",1,Eighth,"501 Westminster Ave, Fulton, MO 65251-1299",38.84776,-91.95435
+University of Florida,21,Eleventh,"300 SW 13th Street, Gainesville, FL 32611",29.64944,-82.33979
+University of Alabama,10,Eleventh,"801 University Boulevard, Tuscaloosa, AL 35487-0100",33.2096,-87.54717
+Emory University,7,Eleventh,"201 Dowman Drive, Atlanta, GA 30322",33.78968,-84.32543
+Harvard University,7,Eleventh,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+University of Georgia,7,Eleventh,"456 East Broad Street, Athens, GA 30602",33.95785,-83.37302
+University of Virginia,6,Eleventh,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Cornell University,5,Eleventh,"300 Day Hall, Ithaca, NY 14853",42.44723,-76.4831
+Samford University,3,Eleventh,"800 Lakeshore Drive, Birmingham, AL 35229-2240",33.4617,-86.79492
+University of Miami,3,Eleventh,"1252 Memorial Drive, 230 Ashe Bldg., Coral Gables, FL 33124-4600",25.72186,-80.27808
+University of Pennsylvania,3,Eleventh,"1 College Hall, Room 100, Philadelphia, PA 19104-6303",39.95117,-75.1938
+Stetson University,2,Eleventh,"421 N Woodland Blvd, DeLand, FL 32723",29.03489,-81.30313
+University of Notre Dame,2,Eleventh,"Main Building, Notre Dame, IN 46556",41.70331,-86.23874
+Yale University,2,Eleventh,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Auburn University,1,Eleventh,"107 Samford Hall, Auburn University, AL 36849",32.60446,-85.48188
+College of William and Mary,1,Eleventh,"Sadler Center, 200 Stadium Dr, Williamsburg, VA 23185",37.27266,-76.71349
+Columbia University,1,Eleventh,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Davidson College,1,Eleventh,"209 Ridge Road, Davidson, NC 28035",35.50165,-80.84019
+Duke University,1,Eleventh,"207 Allen Bldg, Durham, NC 27708",35.99981,-78.94058
+Florida A&M University,1,Eleventh,"1601 South Martin Luther King Jr. Boulevard, Tallahassee, FL 32307",30.42682,-84.28512
+Florida International University,1,Eleventh,"11200 SW 8th Street, Miami, FL 33199",25.7566,-80.37608
+Florida State University,1,Eleventh,"222 South Copeland Street, Tallahassee, FL 32306-1470",30.4421,-84.2948
+Goucher College,1,Eleventh,"1021 Dulaney Valley Road, Baltimore, MD 21204-2794",39.4094,-76.60051
+Howard University,1,Eleventh,"2400 Sixth St NW, Washington, DC 20059-0001",38.92314,-77.02158
+Mercer University,1,Eleventh,"1501 Mercer University Drive, Macon, GA 31207",32.82596,-83.65375
+"Queens College, City University of New York",1,Eleventh,"65 30 Kissena Blvd, Queens, NY 11367-0904",40.73281,-73.81479
+Randolph College,1,Eleventh,"2500 Rivermont Ave, Lynchburg, VA 24503-1526",37.43888,-79.17147
+Rollins College,1,Eleventh,"1000 Holt Ave, Winter Park, FL 32789-4499",28.59219,-81.34627
+Spring Hill College,1,Eleventh,"4000 Dauphin St, Mobile, AL 36608-1791",30.68574,-88.13515
+"St. Joseph's College, Jensen Beach, Florida",1,Eleventh,"1912 NE Jensen Beach Blvd. Jensen Beach, Florida 34957",27.24389,-80.22659
+St. Petersburg College,1,Eleventh,"P. O. Box 13489, Largo, FL 33760",27.91604,-82.79084
+Stanford University,1,Eleventh,"450 Serra Mall, Stanford, CA 94305-2061",37.42765,-122.17006
+Tulane University,1,Eleventh,"6823 Saint Charles Avenue, New Orleans, LA 70118-5698",29.93661,-90.12199
+University of Denver,1,Eleventh,"2199 S. University Blvd, Denver, CO 80208",39.67664,-104.96142
+University of Louisiana at Monroe,1,Eleventh,"700 University Avenue, Monroe, LA 71209-0000",32.52829,-92.07553
+University of Maryland,1,Eleventh,"Main Administration Building, College Park, MD 20742-0001",38.98615,-76.94014
+University of South Carolina,1,Eleventh,"206 Osborne Administration Building, Columbia, SC 29208",34.01112,-81.02084
+Wake Forest University,1,Eleventh,"1834 Wake Forest Road, Winston Salem, NC 27106",36.13703,-80.27384
+Washington University in St. Louis,1,Eleventh,"One Brookings Dr, Saint Louis, MO 63130",38.64788,-90.3022
+Washington and Lee University,1,Eleventh,"204 West Washington Street, Lexington, VA 24450-2116",37.78614,-79.44369
+Columbia University,10,Federal,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Harvard University,10,Federal,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+Yale University,9,Federal,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Georgetown University,8,Federal,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+University of Michigan,7,Federal,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+University of Texas,6,Federal,"110 Inner Campus Drive, Austin, TX 78712",30.2865,-97.73939
+Washington University in St. Louis,6,Federal,"One Brookings Dr, Saint Louis, MO 63130",38.64788,-90.3022
+University of Pennsylvania,5,Federal,"1 College Hall, Room 100, Philadelphia, PA 19104-6303",39.95117,-75.1938
+Duke University,4,Federal,"207 Allen Bldg, Durham, NC 27708",35.99981,-78.94058
+University of Virginia,4,Federal,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Massachusetts Institute of Technology,3,Federal,"77 Massachusetts Avenue, Cambridge, MA 02139-4307",42.35903,-71.0934
+Catholic University of America,2,Federal,"620 Michigan Avenue, NE, Washington, DC 20064",38.93283,-76.99786
+Indiana University,2,Federal,"107 S. Indiana Ave., Bloomington, IN 47405-7000",39.16642,-86.52679
+New York University,2,Federal,"70 Washington Square South, New York, NY 10012-1091",40.72966,-73.99702
+Rensselaer Polytechnic Institute,2,Federal,"110 8th St, Troy, NY 12180-3590",42.73119,-73.6832
+University of South Carolina,2,Federal,"206 Osborne Administration Building, Columbia, SC 29208",34.01112,-81.02084
+American University,1,Federal,"4400 Massachusetts Avenue N.W., Washington, DC 20016",38.93624,-77.08622
+Baylor University,1,Federal,"1320 S 7th Street, Waco, TX 76798",31.54561,-97.12164
+Brigham Young University,1,Federal,"Main Campus, Provo, UT 84602",40.25238,-111.64952
+Case Western Reserve University,1,Federal,"10900 Euclid Ave, Cleveland, OH 44106",41.5059,-81.60905
+College of William and Mary,1,Federal,"Sadler Center, 200 Stadium Dr, Williamsburg, VA 23185",37.27266,-76.71349
+Cornell University,1,Federal,"300 Day Hall, Ithaca, NY 14853",42.44723,-76.4831
+Creighton University,1,Federal,"2500 California Plaza, Omaha, NE 68178",41.26533,-95.94935
+Judge Advocate General's Legal Center and School,1,Federal,"600 Massie Rd, Charlottesville, VA 22903",38.05391,-78.50585
+Kenyon College,1,Federal,"106 College-Park Street, Gambier, OH 43022",40.37445,-82.39647
+Loyola University Chicago,1,Federal,"820 N Michigan Ave, Chicago, IL 60611",41.89748,-87.625
+Michigan State University,1,Federal,"450 Administration Bldg., East Lansing, MI 48824-1046",42.72965,-84.48068
+Missouri State University,1,Federal,"901 S National, Springfield, MO 65897",37.19855,-93.27846
+Pomona College,1,Federal,"550 North College Avenue, Claremont, CA 91711-6301",34.09914,-117.7148
+Princeton University,1,Federal,"One Nassau Hall, Princeton, NJ 08544-0015",40.34844,-74.6592
+South Texas College of Law,1,Federal,"1303 San Jacinto St, Houston, TX 77002-7000",29.75308,-95.36515
+Temple University,1,Federal,"1801 North Broad Street, Philadelphia, PA 19122-6096",39.98027,-75.15705
+Tulane University,1,Federal,"6823 Saint Charles Avenue, New Orleans, LA 70118-5698",29.93661,-90.12199
+University of Arizona,1,Federal,"1401 E University, Tucson, AZ 85721-0066",32.2322,-110.95061
+"University of California, Berkeley",1,Federal,"200 California Hall, Berkeley, CA 94720-1500",37.87162,-122.26035
+"University of California, Los Angeles",1,Federal,"405 Hilgard Ave, Los Angeles, CA 90095",34.07394,-118.43802
+University of Chicago,1,Federal,"5801 S Ellis Ave, Chicago, IL 60637",41.79006,-87.59982
+University of Florida,1,Federal,"300 SW 13th Street, Gainesville, FL 32611",29.64944,-82.33979
+University of Illinois Chicago,1,Federal,"601 S. Morgan St. ; M/C 102, Chicago, IL 60607-7128",41.87396,-87.65161
+University of Iowa,1,Federal,"101 Jessup Hall, Iowa City, IA 52242-1316",41.66237,-91.53662
+University of New Mexico,1,Federal,"University of New Mexico, Albuquerque, NM 87131",35.0876,-106.62193
+University of North Carolina,1,Federal,"103 South Bldg Campus Box 9100, Chapel Hill, NC 27599",35.90882,-79.05217
+University of North Texas,1,Federal,"1155 Union Circle #311277, Denton, TX 76203",33.21091,-97.14639
+University of Rochester,1,Federal,"Wallis Hall, Rochester, NY 14627",43.12952,-77.62805
+University of Wisconsin,1,Federal,"780 Regent St, Madison, WI 53708-8680",43.06842,-89.39851
+Vassar College,1,Federal,"Box 1, Raymond Avenue, Poughkeepsie, NY 12604-0002",41.69598,-73.90168
+Williams College,1,Federal,"880 Main St, Williamstown, MA 01267",42.71229,-73.20305
+University of Texas,29,Fifth,"110 Inner Campus Drive, Austin, TX 78712",30.2865,-97.73939
+Harvard University,16,Fifth,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+University of Mississippi,15,Fifth,"P.O. Box 1848, University, MS 38677-1848",34.36688,-89.53683
+Louisiana State University,11,Fifth,"University Administration, Baton Rouge, LA 70808",30.45401,-91.18419
+Tulane University,9,Fifth,"6823 Saint Charles Avenue, New Orleans, LA 70118-5698",29.93661,-90.12199
+University of Alabama,8,Fifth,"801 University Boulevard, Tuscaloosa, AL 35487-0100",33.2096,-87.54717
+University of Virginia,8,Fifth,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Millsaps College,7,Fifth,"1701 N State St, Jackson, MS 39210-0001",32.32348,-90.17982
+Yale University,7,Fifth,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Duke University,6,Fifth,"207 Allen Bldg, Durham, NC 27708",35.99981,-78.94058
+University of Georgia,6,Fifth,"456 East Broad Street, Athens, GA 30602",33.95785,-83.37302
+Washington and Lee University,6,Fifth,"204 West Washington Street, Lexington, VA 24450-2116",37.78614,-79.44369
+Baylor University,5,Fifth,"1320 S 7th Street, Waco, TX 76798",31.54561,-97.12164
+Mercer University,5,Fifth,"1501 Mercer University Drive, Macon, GA 31207",32.82596,-83.65375
+Washington University in St. Louis,5,Fifth,"One Brookings Dr, Saint Louis, MO 63130",38.64788,-90.3022
+Columbia University,4,Fifth,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Emory University,4,Fifth,"201 Dowman Drive, Atlanta, GA 30322",33.78968,-84.32543
+Cornell University,3,Fifth,"300 Day Hall, Ithaca, NY 14853",42.44723,-76.4831
+Samford University,3,Fifth,"800 Lakeshore Drive, Birmingham, AL 35229-2240",33.4617,-86.79492
+Loyola University New Orleans,2,Fifth,"6363 Saint Charles Ave, New Orleans, LA 70118-6143",29.93398,-90.12145
+Princeton University,2,Fifth,"One Nassau Hall, Princeton, NJ 08544-0015",40.34844,-74.6592
+Rice University,2,Fifth,"6100 S Main, Houston, TX 77005",29.66014,-95.44187
+Stetson University,2,Fifth,"421 N Woodland Blvd, DeLand, FL 32723",29.03489,-81.30313
+Syracuse University,2,Fifth,"Crouse Hinds Hall, Suite 600, Syracuse, NY 13244-2130",43.08219,-76.1561
+University of Denver,2,Fifth,"2199 S. University Blvd, Denver, CO 80208",39.67664,-104.96142
+University of Florida,2,Fifth,"300 SW 13th Street, Gainesville, FL 32611",29.64944,-82.33979
+University of Houston,2,Fifth,"4800 Calhoun Rd., Houston, TX 77204-2018",29.7187,-95.33775
+University of Maryland,2,Fifth,"Main Administration Building, College Park, MD 20742-0001",38.98615,-76.94014
+University of Notre Dame,2,Fifth,"Main Building, Notre Dame, IN 46556",41.70331,-86.23874
+Auburn University,1,Fifth,"107 Samford Hall, Auburn University, AL 36849",32.60446,-85.48188
+Birmingham-Southern College,1,Fifth,"900 Arkadelphia Road, Birmingham, AL 35254",33.51574,-86.85158
+Centre College,1,Fifth,"600 W Walnut St, Danville, KY 40422-1394",37.64488,-84.77743
+Dartmouth College,1,Fifth,"207 Parkhurst Hall, Hanover, NH 03755",43.70251,-72.28799
+Dillard University,1,Fifth,"2601 Gentilly Blvd, New Orleans, LA 70122",29.99348,-90.06647
+Florida A&M University,1,Fifth,"1601 South Martin Luther King Jr. Boulevard, Tallahassee, FL 32307",30.42682,-84.28512
+Florida Institute of Technology,1,Fifth,"150 West University Boulevard, Melbourne, FL 32901-6975",28.06413,-80.62403
+Goucher College,1,Fifth,"1021 Dulaney Valley Road, Baltimore, MD 21204-2794",39.4094,-76.60051
+Howard University,1,Fifth,"2400 Sixth St NW, Washington, DC 20059-0001",38.92314,-77.02158
+Jones County Junior College,1,Fifth,"900 S Court St., Ellisville, MS 39437",31.59807,-89.19967
+Louisiana Tech University,1,Fifth,"305 Wisteria, Ruston, LA 71272",32.52674,-92.64905
+Mississippi College,1,Fifth,"200 South Capitol Street, Clinton, MS 39058",32.33817,-90.33162
+Rollins College,1,Fifth,"1000 Holt Ave, Winter Park, FL 32789-4499",28.59219,-81.34627
+San Antonio College,1,Fifth,"1819 North Main Avenue, San Antonio, TX 78212-4299",29.4462,-98.49435
+Smith College,1,Fifth,"College Hall 201, Northampton, MA 01063",40.6965,-75.20789
+St. Petersburg College,1,Fifth,"P. O. Box 13489, Largo, FL 33760",27.91604,-82.79084
+Stanford University,1,Fifth,"450 Serra Mall, Stanford, CA 94305-2061",37.42765,-122.17006
+Texas Southmost College,1,Fifth,"80 Fort Brown, Brownsville, TX 78520",25.90071,-97.49216
+University of Chicago,1,Fifth,"5801 S Ellis Ave, Chicago, IL 60637",41.79006,-87.59982
+University of Michigan,1,Fifth,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+University of Nebraska,1,Fifth,"2504 9th Avenue, Kearney, NE 68849-1201",40.70092,-99.09409
+University of Pennsylvania,1,Fifth,"1 College Hall, Room 100, Philadelphia, PA 19104-6303",39.95117,-75.1938
+University of South Carolina,1,Fifth,"206 Osborne Administration Building, Columbia, SC 29208",34.01112,-81.02084
+University of the South,1,Fifth,"735 University Avenue, Sewanee, TN 37383-1000",35.20473,-85.92161
+Vanderbilt University,1,Fifth,"2101 West End Avenue, Nashville, TN 37240",36.15015,-86.80151
+Harvard University,34,First,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+University of Virginia,9,First,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Columbia University,8,First,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Boston University,5,First,"One Silber Way, 8th Floor, Boston, MA 02215",42.34959,-71.10068
+St. John's College,4,First,"60 College Avenue, Annapolis, MD 21401",38.98252,-76.49263
+Brown University,3,First,"1 Prospect St, Providence, RI 02912",41.82532,-71.40438
+Yale University,3,First,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Bates College,2,First,"2 Andrews Road, Lewiston, ME 04240",44.107,-70.20534
+Bowdoin College,2,First,"5700 College Station - President's Office, Brunswick, ME 04011-8448",43.90664,-69.964
+College of the Holy Cross,2,First,"One College Street, 119 Fenwick Hall, Worcester, MA 01610-2395",42.23424,-71.81085
+University of Pennsylvania,2,First,"1 College Hall, Room 100, Philadelphia, PA 19104-6303",39.95117,-75.1938
+Amherst College,1,First,"P.O. Box 5000, Amherst, MA 01002-5000",42.37246,-72.51637
+Brandeis University,1,First,"415 South St., MS 100, Waltham, MA 02453-2700",42.3648,-71.25795
+Dartmouth College,1,First,"207 Parkhurst Hall, Hanover, NH 03755",43.70251,-72.28799
+Georgetown University,1,First,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+Haverford College,1,First,"370 Lancaster Ave, Haverford, PA 19041-1392",40.01219,-75.29989
+Plymouth State University,1,First,"17 High Street, MSC #1 - Speare Building, Plymouth, NH 03264",43.75977,-71.68991
+Stanford University,1,First,"450 Serra Mall, Stanford, CA 94305-2061",37.42765,-122.17006
+Suffolk University,1,First,"73 Tremont Street, Boston, MA 02108",42.35782,-71.06081
+Tufts University,1,First,"Ballou Hall, 2nd Floor, Medford, MA 02155",42.41091,-71.08953
+Wellesley College,1,First,"106 Central St, Wellesley, MA 02481-8203",42.29579,-71.29902
+Williams College,1,First,"880 Main St, Williamstown, MA 01267",42.71229,-73.20305
+University of Virginia,15,Fourth,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+University of South Carolina,11,Fourth,"206 Osborne Administration Building, Columbia, SC 29208",34.01112,-81.02084
+Boston University,8,Fourth,"One Silber Way, 8th Floor, Boston, MA 02215",42.34959,-71.10068
+Harvard University,7,Fourth,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+New York University,6,Fourth,"70 Washington Square South, New York, NY 10012-1091",40.72966,-73.99702
+University of North Carolina,6,Fourth,"103 South Bldg Campus Box 9100, Chapel Hill, NC 27599",35.90882,-79.05217
+West Virginia University,6,Fourth,"Presidents Office Box 6201, Morgantown, WV 26506-6201",39.65529,-79.95817
+University of Maryland,5,Fourth,"Main Administration Building, College Park, MD 20742-0001",38.98615,-76.94014
+Davidson College,4,Fourth,"209 Ridge Road, Davidson, NC 28035",35.50165,-80.84019
+Duke University,4,Fourth,"207 Allen Bldg, Durham, NC 27708",35.99981,-78.94058
+Wofford College,4,Fourth,"429 N Church St, Spartanburg, SC 29303-3663",34.95746,-81.9375
+Yale University,4,Fourth,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Johns Hopkins University,3,Fourth,"3400 N Charles St, Baltimore, MD 21218-2688",39.32913,-76.61805
+Wake Forest University,3,Fourth,"1834 Wake Forest Road, Winston Salem, NC 27106",36.13703,-80.27384
+Washington and Lee University,3,Fourth,"204 West Washington Street, Lexington, VA 24450-2116",37.78614,-79.44369
+Columbia University,2,Fourth,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Georgetown University,2,Fourth,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+University of Michigan,2,Fourth,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+University of Pennsylvania,2,Fourth,"1 College Hall, Room 100, Philadelphia, PA 19104-6303",39.95117,-75.1938
+Washington University in St. Louis,2,Fourth,"One Brookings Dr, Saint Louis, MO 63130",38.64788,-90.3022
+Bridgewater College,1,Fourth,"402 E College St, Bridgewater, VA 22812-1599",38.37801,-78.97105
+Cornell University,1,Fourth,"300 Day Hall, Ithaca, NY 14853",42.44723,-76.4831
+Furman University,1,Fourth,"3300 Poinsett Highway, Greenville, SC 29613-6162",34.92487,-82.4333
+Hampden-Sydney College,1,Fourth,"College Road, Box 128, Hampden-Sydney, VA 23943-0128",37.24151,-78.45947
+Hampton University,1,Fourth,"200 William R. Harvey Way, Hampton, VA 23668-0099",37.01625,-76.32304
+Kenyon College,1,Fourth,"106 College-Park Street, Gambier, OH 43022",40.37445,-82.39647
+Macalester College,1,Fourth,"1600 Grand Avenue, St. Paul, MN 55105-1899",44.93994,-93.16798
+Marquette University,1,Fourth,"Clark Hall, Room 341 530 N. 16th Street PO Box 1881, Milwaukee, WI 53201-1881",43.02566,-88.04598
+Marshall University,1,Fourth,"1 John Marshall Dr, Huntington, WV 25755",38.42229,-82.42999
+Rhodes College,1,Fourth,"2000 North Parkway, Memphis, TN 38112-1690",35.15272,-89.99265
+St. Bonaventure University,1,Fourth,"Route 417, St. Bonaventure, NY 14778",42.08045,-78.4787
+University of Chicago,1,Fourth,"5801 S Ellis Ave, Chicago, IL 60637",41.79006,-87.59982
+University of Notre Dame,1,Fourth,"Main Building, Notre Dame, IN 46556",41.70331,-86.23874
+University of Scranton,1,Fourth,"800 Linden Street, Scranton, PA 18510-4501",41.40663,-75.65777
+Vanderbilt University,1,Fourth,"2101 West End Avenue, Nashville, TN 37240",36.15015,-86.80151
+Vassar College,1,Fourth,"Box 1, Raymond Avenue, Poughkeepsie, NY 12604-0002",41.69598,-73.90168
+Virginia State University,1,Fourth,"One Hayden Street, Petersburg, VA 23806",37.23523,-77.41898
+Wesleyan University,1,Fourth,"229High St, Middletown, CT 06459",41.55632,-72.655
+Harvard University,29,Ninth,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+"University of California, Los Angeles",26,Ninth,"405 Hilgard Ave, Los Angeles, CA 90095",34.07394,-118.43802
+Stanford University,22,Ninth,"450 Serra Mall, Stanford, CA 94305-2061",37.42765,-122.17006
+University of Southern California,22,Ninth,"University Park, Los Angeles, CA 90089-0012",34.02026,-118.28529
+University of Virginia,16,Ninth,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Yale University,15,Ninth,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+"University of California, Berkeley",14,Ninth,"200 California Hall, Berkeley, CA 94720-1500",37.87162,-122.26035
+University of Washington,13,Ninth,"1400 NE Campus Parkway, Seattle, WA, 98195",47.6565,-122.31278
+Brigham Young University,8,Ninth,"Main Campus, Provo, UT 84602",40.25238,-111.64952
+Arizona State University,6,Ninth,"P.O. Box 877705, Tempe, AZ 85287",33.42587,-111.9282
+University of Chicago,5,Ninth,"5801 S Ellis Ave, Chicago, IL 60637",41.79006,-87.59982
+University of Idaho,5,Ninth,"875 Perimeter Drive, Moscow, ID 83844-2282",46.72726,-117.02429
+Cornell University,4,Ninth,"300 Day Hall, Ithaca, NY 14853",42.44723,-76.4831
+University of Iowa,4,Ninth,"101 Jessup Hall, Iowa City, IA 52242-1316",41.66237,-91.53662
+University of Michigan,4,Ninth,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+Catholic University of America,3,Ninth,"620 Michigan Avenue, NE, Washington, DC 20064",38.93283,-76.99786
+Montana State University,3,Ninth,"Culbertson Hall, 100, Bozeman, MT 59717",45.67107,-111.04956
+Princeton University,3,Ninth,"One Nassau Hall, Princeton, NJ 08544-0015",40.34844,-74.6592
+"University of Nevada, Reno",3,Ninth,"1664 North Virginia Street, Reno, NV 89557",39.54801,-119.82015
+University of Oregon,3,Ninth,"110 Johnson Hall, Eugene, OR 97403",44.04538,-123.07592
+University of Texas,3,Ninth,"110 Inner Campus Drive, Austin, TX 78712",30.2865,-97.73939
+Brown University,2,Ninth,"1 Prospect St, Providence, RI 02912",41.82532,-71.40438
+Columbia University,2,Ninth,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+New York University,2,Ninth,"70 Washington Square South, New York, NY 10012-1091",40.72966,-73.99702
+Pomona College,2,Ninth,"550 North College Avenue, Claremont, CA 91711-6301",34.09914,-117.7148
+Santa Clara University,2,Ninth,"500 El Camino Real, Santa Clara, CA 95053-0015",37.35181,-121.93739
+University of Arizona,2,Ninth,"1401 E University, Tucson, AZ 85721-0066",32.2322,-110.95061
+University of Kansas,2,Ninth,"230 Strong Hall 1450 Jayhawk Blvd., Lawrence, KS 66045-7535",38.95857,-95.24767
+University of Montana,2,Ninth,"32 Campus Drive, Missoula, MT 59812",46.86144,-113.9808
+University of Notre Dame,2,Ninth,"Main Building, Notre Dame, IN 46556",41.70331,-86.23874
+University of the Pacific,2,Ninth,"3601 Pacific Ave, Stockton, CA 95211",37.98005,-121.31241
+Wesleyan University,2,Ninth,"229High St, Middletown, CT 06459",41.55632,-72.655
+Willamette University,2,Ninth,"900 State St, Salem, OR 97301",44.93666,-123.03014
+Bear Valley Bible Institute,1,Ninth,"2707 S. Lamar Street Denver, Colorado 80227",39.6669,-105.06786
+Brigham Young University - Idaho,1,Ninth,"525 S Center, Rexburg, ID 83460-4107",43.81353,-111.78312
+Carleton College,1,Ninth,"One North College Street, Northfield, MN 55057-4001",44.45997,-93.15548
+Case Western Reserve University,1,Ninth,"10900 Euclid Ave, Cleveland, OH 44106",41.5059,-81.60905
+Clark Atlanta University,1,Ninth,"223 James P Brawley Drive, Atlanta, GA 30314",33.76082,-84.41244
+Georgetown University,1,Ninth,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+Golden Gate University,1,Ninth,"536 Mission Street, San Francisco, CA 94105-2968",37.78925,-122.39889
+Lafayette College,1,Ninth,"High St, Easton, PA 18042-1768",40.69889,-75.20752
+Morehouse College,1,Ninth,"830 Westview Dr SW, Atlanta, GA 30314",33.74645,-84.41527
+North Carolina A&T State University,1,Ninth,"1601 East Market Street, Greensboro, NC 27411",36.07232,-79.77277
+Northwestern University,1,Ninth,"633 Clark St, Evanston, IL 60208",42.04994,-87.67932
+Occidental College,1,Ninth,"1600 Campus Rd, Los Angeles, CA 90041-3314",34.12626,-118.21412
+Radcliffe College,1,Ninth,"52 Linnaean St, Cambridge, MA 02138",42.38297,-71.12436
+San Diego State University,1,Ninth,"5500 Campanile Dr, San Diego, CA 92182-8000",32.77232,-117.07235
+Southwestern University,1,Ninth,"1001 University Ave, Georgetown, TX 78626",30.63385,-97.66756
+St. Augustine's College,1,Ninth,"230E E L St, Benicia, CA 94510",38.05275,-122.15362
+St. John's University,1,Ninth,"8000 Utopia Parkway, Queens, NY 11439",40.72557,-73.79183
+Swarthmore College,1,Ninth,"500 College Ave, Swarthmore, PA 19081",39.90641,-75.35187
+Tacoma Law School,1,Ninth,"901 12th Ave, Seattle, WA 98122",47.61013,-122.31724
+Union College,1,Ninth,"310 College St, Barbourville, KY 40906-1499",36.87021,-83.88922
+"University of California, Hastings College of the Law",1,Ninth,"200 McAllister St, San Francisco, CA 94102",37.78082,-122.41556
+"University of California, Santa Barbara",1,Ninth,"552 University Road, Santa Barbara, CA 93106-2030",34.41144,-119.84418
+University of Hawaii,1,Ninth,"2500 Campus Road, Hawaii Hall, Honolulu, HI 96822-2301",21.2995,-157.82016
+University of Minnesota,1,Ninth,"202 Morrill Hall, 100 Church Street SE, Minneapolis, MN 55455-0213",44.97588,-93.23401
+University of Nebraska,1,Ninth,"2504 9th Avenue, Kearney, NE 68849-1201",40.70092,-99.09409
+University of New Mexico,1,Ninth,"University of New Mexico, Albuquerque, NM 87131",35.0876,-106.62193
+University of Pennsylvania,1,Ninth,"1 College Hall, Room 100, Philadelphia, PA 19104-6303",39.95117,-75.1938
+University of Portland,1,Ninth,"5000 N Willamette Blvd, Portland, OR 97203-5798",45.57448,-122.72499
+University of Wyoming,1,Ninth,"1000 E. University Ave., Laramie, WY 82071",41.31229,-105.58277
+Vassar College,1,Ninth,"Box 1, Raymond Avenue, Poughkeepsie, NY 12604-0002",41.69598,-73.90168
+Virginia Military Institute,1,Ninth,"Smith Hall, Lexington, VA 24450-0304",37.78584,-79.44113
+Washburn University,1,Ninth,"1700 SW College Avenue, Topeka, KS 66621-0001",39.03334,-95.70157
+Washington and Lee University,1,Ninth,"204 West Washington Street, Lexington, VA 24450-2116",37.78614,-79.44369
+Wellesley College,1,Ninth,"106 Central St, Wellesley, MA 02481-8203",42.29579,-71.29902
+Whitman College,1,Ninth,"345 Boyer Ave, Walla Walla, WA 99362",46.07088,-118.32958
+Williams College,1,Ninth,"880 Main St, Williamstown, MA 01267",42.71229,-73.20305
+Columbia University,40,Second,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Harvard University,35,Second,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+Yale University,35,Second,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Cornell University,11,Second,"300 Day Hall, Ithaca, NY 14853",42.44723,-76.4831
+Fordham University,8,Second,"441 E Fordham Rd, Bronx, NY 10458",40.86127,-73.88972
+University of Michigan,8,Second,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+Princeton University,7,Second,"One Nassau Hall, Princeton, NJ 08544-0015",40.34844,-74.6592
+Dartmouth College,6,Second,"207 Parkhurst Hall, Hanover, NH 03755",43.70251,-72.28799
+New York University,6,Second,"70 Washington Square South, New York, NY 10012-1091",40.72966,-73.99702
+University of Virginia,4,Second,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Georgetown University,3,Second,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+State University of New York at Albany,3,Second,"1400 Washington Avenue, Albany, NY 12222",42.68984,-73.8241
+University of Chicago,3,Second,"5801 S Ellis Ave, Chicago, IL 60637",41.79006,-87.59982
+University of Connecticut,3,Second,"352 Mansfield Rd. Unit 2048, Storrs, CT 06269-2048",41.80825,-72.24941
+University of Pennsylvania,3,Second,"1 College Hall, Room 100, Philadelphia, PA 19104-6303",39.95117,-75.1938
+Boston University,2,Second,"One Silber Way, 8th Floor, Boston, MA 02215",42.34959,-71.10068
+New York Law School,2,Second,"185 W. Broadway, New York, NY 10013-2960",40.71804,-74.00702
+Seminary of the Immaculate Conception,2,Second,"440 W Neck Rd, Huntington, NY 11743-1626",40.90518,-73.47099
+Syracuse University,2,Second,"Crouse Hinds Hall, Suite 600, Syracuse, NY 13244-2130",43.08219,-76.1561
+University of North Carolina,2,Second,"103 South Bldg Campus Box 9100, Chapel Hill, NC 27599",35.90882,-79.05217
+University of Rochester,2,Second,"Wallis Hall, Rochester, NY 14627",43.12952,-77.62805
+Wellesley College,2,Second,"106 Central St, Wellesley, MA 02481-8203",42.29579,-71.29902
+Amherst College,1,Second,"P.O. Box 5000, Amherst, MA 01002-5000",42.37246,-72.51637
+Brooklyn College,1,Second,"2900 Bedford Ave, Brooklyn, NY 11210-2889",40.63165,-73.95287
+Brooklyn Law School,1,Second,"250 Joralemon St, Brooklyn, NY 11201",40.69217,-73.98983
+City College of New York,1,Second,"160 Convent Avenue, New York, NY 10031-9101",40.81941,-73.95017
+College of William and Mary,1,Second,"Sadler Center, 200 Stadium Dr, Williamsburg, VA 23185",37.27266,-76.71349
+College of the Holy Cross,1,Second,"One College Street, 119 Fenwick Hall, Worcester, MA 01610-2395",42.23424,-71.81085
+Hamilton College,1,Second,"198 College Hill Rd, Clinton, NY 13323",43.05062,-75.40227
+Howard University,1,Second,"2400 Sixth St NW, Washington, DC 20059-0001",38.92314,-77.02158
+"Lincoln University, Pennsylvania",1,Second,"P. O. Box 179, Lincoln University, PA 19352-0999",39.80167,-75.9226
+Ohio State University,1,Second,"1585 Neil Avenue, Columbus, OH 43210",39.99397,-83.01487
+"Queens College, City University of New York",1,Second,"65 30 Kissena Blvd, Queens, NY 11367-0904",40.73281,-73.81479
+St. Bonaventure University,1,Second,"Route 417, St. Bonaventure, NY 14778",42.08045,-78.4787
+St. Francis College,1,Second,"180 Remsen Street, Brooklyn Heights, NY 11201-4398",40.6933,-73.99206
+St. Joseph's University,1,Second,"5600 City Line Avenue, Philadelphia, PA 19131-1395",39.99514,-75.23904
+St. Peter's College,1,Second,"2641 John F. Kennedy Blvd. W, Jersey City, NJ 07306",40.72677,-74.07141
+Stanford University,1,Second,"450 Serra Mall, Stanford, CA 94305-2061",37.42765,-122.17006
+Trinity College,1,Second,"300 Summit St, Hartford, CT 06106-3100",41.75036,-72.6929
+Union College,1,Second,"310 College St, Barbourville, KY 40906-1499",36.87021,-83.88922
+University of Massachusetts,1,Second,"181 Presidents Drive, Amherst, MA 01003",42.38593,-72.52648
+Wesleyan University,1,Second,"229High St, Middletown, CT 06459",41.55632,-72.655
+Indiana University,21,Seventh,"107 S. Indiana Ave., Bloomington, IN 47405-7000",39.16642,-86.52679
+Northwestern University,19,Seventh,"633 Clark St, Evanston, IL 60208",42.04994,-87.67932
+University of Notre Dame,15,Seventh,"Main Building, Notre Dame, IN 46556",41.70331,-86.23874
+University of Chicago,8,Seventh,"5801 S Ellis Ave, Chicago, IL 60637",41.79006,-87.59982
+DePaul University,7,Seventh,"1 East Jackson Blvd., Chicago, IL 60604",41.87754,-87.62723
+University of Wisconsin,7,Seventh,"780 Regent St, Madison, WI 53708-8680",43.06842,-89.39851
+Yale University,7,Seventh,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Washington University in St. Louis,6,Seventh,"One Brookings Dr, Saint Louis, MO 63130",38.64788,-90.3022
+Harvard University,5,Seventh,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+Marquette University,5,Seventh,"Clark Hall, Room 341 530 N. 16th Street PO Box 1881, Milwaukee, WI 53201-1881",43.02566,-88.04598
+University of Illinois,5,Seventh,"601 E John Street, Champaign, IL 61820-5711",40.109,-88.23031
+Cornell University,3,Seventh,"300 Day Hall, Ithaca, NY 14853",42.44723,-76.4831
+University of Iowa,2,Seventh,"101 Jessup Hall, Iowa City, IA 52242-1316",41.66237,-91.53662
+University of Michigan,2,Seventh,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+University of Texas,2,Seventh,"110 Inner Campus Drive, Austin, TX 78712",30.2865,-97.73939
+Wabash College,2,Seventh,"P.O. Box 352, Crawfordsville, IN 47933",40.04228,-86.90138
+Boston University,1,Seventh,"One Silber Way, 8th Floor, Boston, MA 02215",42.34959,-71.10068
+Brown University,1,Seventh,"1 Prospect St, Providence, RI 02912",41.82532,-71.40438
+Bryn Mawr College,1,Seventh,"101 N Merion Avenue, Bryn Mawr, PA 19010",40.02091,-75.32313
+Central YMCA College,1,Seventh,"211 W Wacker DrChicago, IL 60606",41.88651,-87.63457
+Chicago-Kent College of Law,1,Seventh,"565 W Adams St, Chicago, IL 60661",41.87898,-87.6421
+Elmhurst University,1,Seventh,"190 Prospect Ave, Elmhurst, IL 60126-3096",41.8965,-87.94734
+Fordham University,1,Seventh,"441 E Fordham Rd, Bronx, NY 10458",40.86127,-73.88972
+Haverford College,1,Seventh,"370 Lancaster Ave, Haverford, PA 19041-1392",40.01219,-75.29989
+Illinois Wesleyan University,1,Seventh,"1312 Park Street, Bloomington, IL 61701",40.49032,-88.9902
+Lake Forest College,1,Seventh,"555 N Sheridan Road, Lake Forest, IL 60045-2399",42.25205,-87.82983
+Princeton University,1,Seventh,"One Nassau Hall, Princeton, NJ 08544-0015",40.34844,-74.6592
+Rhodes College,1,Seventh,"2000 North Parkway, Memphis, TN 38112-1690",35.15272,-89.99265
+"St. Joseph’s College, Rensselaer, Indiana",1,Seventh,"121 N LaSalle St, Chicago, IL 60602",41.88376,-87.63231
+Swarthmore College,1,Seventh,"500 College Ave, Swarthmore, PA 19081",39.90641,-75.35187
+Union College,1,Seventh,"310 College St, Barbourville, KY 40906-1499",36.87021,-83.88922
+University of Virginia,1,Seventh,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Wayne State University,1,Seventh,"656 West Kirby Street, Detroit, MI 48202",42.35838,-83.07202
+Wittenberg College,1,Seventh,"Ward St at N Wittenberg Ave, Springfield, OH 45504",39.92811,-83.81397
+University of Virginia,32,Sixth,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Harvard University,31,Sixth,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+University of Michigan,28,Sixth,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+Yale University,14,Sixth,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Vanderbilt University,9,Sixth,"2101 West End Avenue, Nashville, TN 37240",36.15015,-86.80151
+University of Cincinnati,6,Sixth,"2600 Clifton Ave, Cincinnati, OH 45221",39.12995,-84.52051
+Case Western Reserve University,5,Sixth,"10900 Euclid Ave, Cleveland, OH 44106",41.5059,-81.60905
+Samford University,5,Sixth,"800 Lakeshore Drive, Birmingham, AL 35229-2240",33.4617,-86.79492
+Michigan State University,3,Sixth,"450 Administration Bldg., East Lansing, MI 48824-1046",42.72965,-84.48068
+University of Akron,3,Sixth,"302 Buchtel Common, Akron, OH 44325-4702",41.07625,-81.51606
+Wayne State University,3,Sixth,"656 West Kirby Street, Detroit, MI 48202",42.35838,-83.07202
+Miami University,2,Sixth,"501 East High St, Oxford, OH 45056",39.5095,-84.7345
+New York University,2,Sixth,"70 Washington Square South, New York, NY 10012-1091",40.72966,-73.99702
+University of Chicago,2,Sixth,"5801 S Ellis Ave, Chicago, IL 60637",41.79006,-87.59982
+University of Detroit Mercy,2,Sixth,"4001 W McNichols Rd, Detroit, MI 48221-3038",42.41485,-83.13789
+University of Louisville,2,Sixth,"2301 S 3rd St, Louisville, KY 40292-0001",38.21529,-85.76206
+University of Memphis,2,Sixth,"341 Administration Building, Memphis, TN 38152",35.14956,-90.05089
+University of Tennessee,2,Sixth,"527 Andy Holt Tower, Knoxville, TN 37996-0184",35.952,-83.93319
+Western Michigan University,2,Sixth,"1903 West Michigan Avenue, Kalamazoo, MI 49008-5167",42.28461,-85.61043
+Youngstown State University,2,Sixth,"One University Plaza, Youngstown, OH 44555-0001",41.10664,-80.64654
+Barnard College,1,Sixth,"3009 Broadway, New York, NY 10027-6598",40.80927,-73.9637
+Boston College,1,Sixth,"140 Commonwealth Ave, Chestnut Hill, MA 02467",42.3351,-71.17025
+Centre College,1,Sixth,"600 W Walnut St, Danville, KY 40422-1394",37.64488,-84.77743
+Davidson College,1,Sixth,"209 Ridge Road, Davidson, NC 28035",35.50165,-80.84019
+"Douglas University, Chicago, Illinois",1,Sixth,"1498 South College Avenue PO Box 870 Rensselaer, IN 47978",40.92328,-87.15562
+East Tennessee State University,1,Sixth,"1276 Gibreath Drive, Box 70300, Johnson City, TN 37614-1700",36.30418,-82.36686
+Fisk University,1,Sixth,"1000 17th Ave N, Nashville, TN 37208-4501",36.16663,-86.80327
+Georgetown University,1,Sixth,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+Hamilton College,1,Sixth,"198 College Hill Rd, Clinton, NY 13323",43.05062,-75.40227
+Howard University,1,Sixth,"2400 Sixth St NW, Washington, DC 20059-0001",38.92314,-77.02158
+Massachusetts Institute of Technology,1,Sixth,"77 Massachusetts Avenue, Cambridge, MA 02139-4307",42.35903,-71.0934
+Middlebury College,1,Sixth,"Old Chapel, Middlebury, VT 05753",44.00918,-73.17628
+Northwestern University,1,Sixth,"633 Clark St, Evanston, IL 60208",42.04994,-87.67932
+Ohio Northern University,1,Sixth,"525 Main St, Ada, OH 45810-1599",40.7654,-83.82375
+Ohio State University,1,Sixth,"1585 Neil Avenue, Columbus, OH 43210",39.99397,-83.01487
+Ohio Wesleyan University,1,Sixth,"61 S Sandusky Street, Delaware, OH 43015-2370",40.29601,-83.06621
+Otterbein University,1,Sixth,"1 South Grove Street, Westerville, OH 43081",40.12534,-82.93623
+Princeton University,1,Sixth,"One Nassau Hall, Princeton, NJ 08544-0015",40.34844,-74.6592
+Radcliffe College,1,Sixth,"52 Linnaean St, Cambridge, MA 02138",42.38297,-71.12436
+Southern Methodist University,1,Sixth,"6425 Boaz St, Dallas, TX 75275-0221",32.84927,-96.81782
+Stanford University,1,Sixth,"450 Serra Mall, Stanford, CA 94305-2061",37.42765,-122.17006
+Swarthmore College,1,Sixth,"500 College Ave, Swarthmore, PA 19081",39.90641,-75.35187
+Tufts University,1,Sixth,"Ballou Hall, 2nd Floor, Medford, MA 02155",42.41091,-71.08953
+Union University,1,Sixth,"1050 Union University Dr, Jackson, TN 38305-3697",35.67979,-88.85745
+University of Alabama,1,Sixth,"801 University Boulevard, Tuscaloosa, AL 35487-0100",33.2096,-87.54717
+"University of California, Berkeley",1,Sixth,"200 California Hall, Berkeley, CA 94720-1500",37.87162,-122.26035
+University of Kentucky,1,Sixth,"101 Main Building, Lexington, KY 40506-0032",40.67865,-82.58646
+University of Maryland,1,Sixth,"Main Administration Building, College Park, MD 20742-0001",38.98615,-76.94014
+University of North Carolina,1,Sixth,"103 South Bldg Campus Box 9100, Chapel Hill, NC 27599",35.90882,-79.05217
+University of Northern Iowa,1,Sixth,"1222 W 27th St, Cedar Falls, IA 50614",42.51296,-92.46212
+University of Notre Dame,1,Sixth,"Main Building, Notre Dame, IN 46556",41.70331,-86.23874
+University of Pennsylvania,1,Sixth,"1 College Hall, Room 100, Philadelphia, PA 19104-6303",39.95117,-75.1938
+University of Wisconsin,1,Sixth,"780 Regent St, Madison, WI 53708-8680",43.06842,-89.39851
+Washington and Lee University,1,Sixth,"204 West Washington Street, Lexington, VA 24450-2116",37.78614,-79.44369
+West Virginia State University,1,Sixth,"200 Erickson Alumni Ctr, Institute, WV 25112",38.38359,-81.76569
+Williams College,1,Sixth,"880 Main St, Williamstown, MA 01267",42.71229,-73.20305
+Harvard University,15,Tenth,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+University of Wyoming,9,Tenth,"1000 E. University Ave., Laramie, WY 82071",41.31229,-105.58277
+University of Virginia,7,Tenth,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+University of Chicago,6,Tenth,"5801 S Ellis Ave, Chicago, IL 60637",41.79006,-87.59982
+University of Colorado,6,Tenth,"17 UCB, Boulder, CO 80309-0017",40.18845,-105.09389
+University of Denver,6,Tenth,"2199 S. University Blvd, Denver, CO 80208",39.67664,-104.96142
+Southern University and A & M College,5,Tenth,"G. Leon Netterville Drive, Baton Rouge, LA 70813-0001",30.5704,-91.19251
+University of Kansas,5,Tenth,"230 Strong Hall 1450 Jayhawk Blvd., Lawrence, KS 66045-7535",38.95857,-95.24767
+University of Oklahoma,5,Tenth,"660 Parrington Oval, Room 110, Norman, OK 73019",35.21037,-97.44611
+University of Utah,5,Tenth,"201 Presidents Circle, Salt Lake City, UT 84112-9008",40.76529,-111.84938
+University of Michigan,4,Tenth,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+Montana State University,3,Tenth,"Culbertson Hall, 100, Bozeman, MT 59717",45.67107,-111.04956
+Washburn University,3,Tenth,"1700 SW College Avenue, Topeka, KS 66621-0001",39.03334,-95.70157
+Washington University in St. Louis,3,Tenth,"One Brookings Dr, Saint Louis, MO 63130",38.64788,-90.3022
+Yale University,3,Tenth,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Columbia University,2,Tenth,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Stanford University,2,Tenth,"450 Serra Mall, Stanford, CA 94305-2061",37.42765,-122.17006
+Adams State University,1,Tenth,"208 Edgemont Blvd, Alamosa, CO 81102",37.47058,-105.8804
+Brigham Young University,1,Tenth,"Main Campus, Provo, UT 84602",40.25238,-111.64952
+Creighton University,1,Tenth,"2500 California Plaza, Omaha, NE 68178",41.26533,-95.94935
+Fordham University,1,Tenth,"441 E Fordham Rd, Bronx, NY 10458",40.86127,-73.88972
+Georgetown University,1,Tenth,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+Michigan State University,1,Tenth,"450 Administration Bldg., East Lansing, MI 48824-1046",42.72965,-84.48068
+New Mexico Military Institute,1,Tenth,"101 W.  College Blvd., Roswell, NM 88201-5173",33.40883,-104.52293
+Northwestern University,1,Tenth,"633 Clark St, Evanston, IL 60208",42.04994,-87.67932
+Smith College,1,Tenth,"College Hall 201, Northampton, MA 01063",40.6965,-75.20789
+Texas Tech University,1,Tenth,"15th Street and Akron, P. O. Box 4219, MS 2019, Lubbock, TX 79409-5005",33.58146,-101.86146
+University of Arizona,1,Tenth,"1401 E University, Tucson, AZ 85721-0066",32.2322,-110.95061
+"University of California, Hastings College of the Law",1,Tenth,"200 McAllister St, San Francisco, CA 94102",37.78082,-122.41556
+University of Nebraska,1,Tenth,"2504 9th Avenue, Kearney, NE 68849-1201",40.70092,-99.09409
+University of New Mexico,1,Tenth,"University of New Mexico, Albuquerque, NM 87131",35.0876,-106.62193
+University of Notre Dame,1,Tenth,"Main Building, Notre Dame, IN 46556",41.70331,-86.23874
+Wake Forest University,1,Tenth,"1834 Wake Forest Road, Winston Salem, NC 27106",36.13703,-80.27384
+"Westminster College, Fulton, Missouri",1,Tenth,"501 Westminster Ave, Fulton, MO 65251-1299",38.84776,-91.95435
+Harvard University,25,Third,"Massachusetts Hall, Cambridge, MA 02138",42.37717,-71.13507
+State University of New York at Buffalo,13,Third,"501 Capen Hall, Buffalo, NY 14260-1660",43.00037,-78.78958
+University of Virginia,13,Third,"1827 University Avenue, Charlottesville, VA 22904",38.03662,-78.50258
+Princeton University,10,Third,"One Nassau Hall, Princeton, NJ 08544-0015",40.34844,-74.6592
+Temple University,10,Third,"1801 North Broad Street, Philadelphia, PA 19122-6096",39.98027,-75.15705
+University of Maryland,9,Third,"Main Administration Building, College Park, MD 20742-0001",38.98615,-76.94014
+Yale University,9,Third,"105 Wall Street, New Haven, CT 06520",41.31115,-72.92677
+Duquesne University,8,Third,"Administration Bldg 600 Forbes Ave, Pittsburgh, PA 15282",40.43755,-79.99361
+Columbia University,6,Third,"535 West 116th Street, New York, NY 10027",40.80737,-73.96202
+Georgetown University,6,Third,"37th and O St NW, Washington, DC 20057",38.9087,-77.0103
+Rutgers University,6,Third,"Old Queens Building, New Brunswick, NJ 08901-1281",40.49884,-74.45207
+University of Pennsylvania,5,Third,"1 College Hall, Room 100, Philadelphia, PA 19104-6303",39.95117,-75.1938
+University of Pittsburgh,5,Third,"4200 Fifth Ave, Pittsburgh, PA 15260",40.44461,-79.95259
+Pennsylvania State University,3,Third,"201 Old Main Building, University Park, PA 16802-1589",40.79729,-77.86294
+Crozer Theological Seminary,2,Third,"1100 Upland Ave, Chester, PA 19013",39.85784,-75.37107
+Fordham University,2,Third,"441 E Fordham Rd, Bronx, NY 10458",40.86127,-73.88972
+Hofstra University,2,Third,"100 Hofstra University, Hempstead, NY 11549",40.71306,-73.60039
+Seton Hall University,2,Third,"400 South Orange Ave, South Orange, NJ 07079-2697",40.74279,-74.24659
+Stanford University,2,Third,"450 Serra Mall, Stanford, CA 94305-2061",37.42765,-122.17006
+University of Delaware,2,Third,"104 Hullihen Hall, Newark, DE 19716",39.67992,-75.7536
+University of Michigan,2,Third,"2074 Fleming Administration Building, Ann Arbor, MI 48109-1340",42.27583,-83.74312
+Amherst College,1,Third,"P.O. Box 5000, Amherst, MA 01002-5000",42.37246,-72.51637
+Antioch College,1,Third,"One Morgan Place, Yellow Springs, OH 45387",39.80023,-83.88916
+Brigham Young University,1,Third,"Main Campus, Provo, UT 84602",40.25238,-111.64952
+Bucknell University,1,Third,"Dent Drive, Lewisburg, PA 17837",40.95463,-76.88487
+Carleton College,1,Third,"One North College Street, Northfield, MN 55057-4001",44.45997,-93.15548
+College of the Holy Cross,1,Third,"One College Street, 119 Fenwick Hall, Worcester, MA 01610-2395",42.23424,-71.81085
+Cornell University,1,Third,"300 Day Hall, Ithaca, NY 14853",42.44723,-76.4831
+Dartmouth College,1,Third,"207 Parkhurst Hall, Hanover, NH 03755",43.70251,-72.28799
+Drake University,1,Third,"2507 University Ave, Des Moines, IA 50311-4505",41.60056,-93.65103
+Drexel University,1,Third,"3141 Chestnut St, Philadelphia, PA 19104",39.95412,-75.18691
+Franklin and Marshall College,1,Third,"College Ave, Lancaster, PA 17604-3003",40.0439,-76.3195
+George Mason University,1,Third,"4400 University Dr, Fairfax, VA 22030-4444",38.83547,-77.30921
+Gettysburg College,1,Third,"300 N Washington St, Gettysburg, PA 17325-1486",39.83486,-77.23551
+Grove City College,1,Third,"100 Campus Dr, Grove City, PA 16127-2104",41.15542,-80.08201
+Lehigh University,1,Third,"27 Memorial Drive West, Bethlehem, PA 18015",40.60723,-75.37904
+Lycoming College,1,Third,"700 College Place, Williamsport, PA 17701-5192",41.24504,-77.00027
+Moravian College,1,Third,"1200 Main St, Bethlehem, PA 18018-6650",40.63017,-75.38127
+Mount Holyoke College,1,Third,"50 College Street, South Hadley, MA 01075-1496",42.25648,-72.57623
+New York Law School,1,Third,"185 W. Broadway, New York, NY 10013-2960",40.71804,-74.00702
+New York University,1,Third,"70 Washington Square South, New York, NY 10012-1091",40.72966,-73.99702
+Smith College,1,Third,"College Hall 201, Northampton, MA 01063",40.6965,-75.20789
+Southern Illinois University,1,Third,"Anthony Hall 116, Carbondale, IL 62901",37.72611,-89.20849
+State University of New York at Cortland,1,Third,"PO Box 2000, Cortland, NY 13045-0900",42.60348,-76.17484
+Syracuse University,1,Third,"Crouse Hinds Hall, Suite 600, Syracuse, NY 13244-2130",43.08219,-76.1561
+Trinity College,1,Third,"300 Summit St, Hartford, CT 06106-3100",41.75036,-72.6929
+Tufts University,1,Third,"Ballou Hall, 2nd Floor, Medford, MA 02155",42.41091,-71.08953
+Tulane University,1,Third,"6823 Saint Charles Avenue, New Orleans, LA 70118-5698",29.93661,-90.12199
+University of Dayton,1,Third,"300 College Pk, Dayton, OH 45469",39.74078,-84.17993
+University of Maine,1,Third,"5703 Alumni Hall, Suite 200, Orono, ME 04469-5703",44.86815,-68.68867
+University of Notre Dame,1,Third,"Main Building, Notre Dame, IN 46556",41.70331,-86.23874
+University of Scranton,1,Third,"800 Linden Street, Scranton, PA 18510-4501",41.40663,-75.65777
+University of Southern California,1,Third,"University Park, Los Angeles, CA 90089-0012",34.02026,-118.28529
+Villanova University,1,Third,"800 Lancaster Avenue, Villanova, PA 19085-1699",40.03494,-75.34058
+Washington and Jefferson College,1,Third,"60 S Lincoln St, Washington, PA 15301-4801",40.1706,-80.24056
+Wesleyan University,1,Third,"229High St, Middletown, CT 06459",41.55632,-72.655
